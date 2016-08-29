@@ -1,0 +1,63 @@
+Thursday, August 25th, 2016 Meeting
+###################################
+
+:date: 2016-08-25 10:20
+:modified: 2016-08-25 10:20
+:tags: meeting, wesleychun
+:category: meetings
+:slug: meeting-2016-08-25
+:authors: Wesley Chun
+:summary: Exploring Google APIs with Python
+
+
+Topic: Exploring Google APIs with Python
+
+Speaker: Wesley Chun
+
+Abstract:
+  Ever wanted to integrate Google technologies into the web+mobile apps that you build? Did you know Google has various open source libraries that help you do exactly that? Users who may have tried & failed, run into roadblocks, been confused about using our APIs, or had issues with authentication are welcome to come and make these non-issues moving forward. Finally, we'll demo using multiple Google APIs to give you an idea of what it's all about!
+
+FULL DESCRIPTION
+  This talk covers everything you need to know in order to use Google APIs from Python. We'll start with the Google APIs Client Library, which you can use with *any* of the languages supported, not just Python. We'll discuss how to install the Client Library for Python, then describe & show the steps necessary to create new projects & enable Google APIs from the Developers Console. Next we discuss how to create & access the necessary credentials. That's just the setup.
+
+
+
+The second part of the talk walks you through the necessary boilerplate code that you need to get started. This code will stay fairly consistent for your first, second, or 20th app, and whether you using 1, 2, or 20 Google APIs. We'll conclude demonstrating some of these steps, and time-permitting, walk through some some simple code (in Python) that accesses Google APIs. Some APIs only require simple API key access while others require full authorization, so we'll do our best to show examples of how to do both.
+
+Speaker Bio
+  WESLEY CHUN, MSCS, is the author of Prentice Hall's bestselling "Core Python" book series & companion videos (corepython.com), co-author of "Python Web Development with Django" (withdjango.com), and has written for Linux Journal, CNET, and InformIT. In addition to being an engineer & Developer Advocate at Google, he runs CyberWeb (cyberwebconsulting.com), a consultancy specializing in Python training. Wesley has over 25 years of programming, teaching, and writing experience, including helping create Yahoo!Mail using Python almost 2 decades ago. He holds degrees in CS, Math, and Music from the University of California and loves traveling worldwide to meet developers, whether at a technical conference, user group meeting, or on a university campus. Wesley is a Fellow of the Python Software Foundation and can be reached on Google+ or Twitter (@wescpy).
+
+
+Meetup available to register
+
+BayPiggies has a group on meetup.com: http://www.meetup.com/BAyPIGgies/.
+
+Meeting Schedule:
+  * 7:00 pm Networking (note we are starting 30 minutes earlier than the April meeting)
+  * 7:15 pm Announcements and presentation
+  * 8:45 pm Random access
+  * 9:00 pm Event ends
+
+
+Location:                 
+  LinkedIn
+  2025 Stierlin Ct., Mountain View, CA (map). This is Building 3. The entrance is on the side facing Building 2.
+
+Meeting Room:
+  Unite (On the second floor)
+
+
+Special note to presenters using a Mac:
+  If you will be giving a presentation using a Mac, please bring your own Mac to VGA adapter. LinkedIn does not provide these and this is the one accessory which Mac users sometimes forget to bring.
+
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=km6g8p73etdt58eo9gj00n0q1f";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+
+
+
+
+
+

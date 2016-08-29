@@ -20,16 +20,29 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
+LINKS = (
+	# ('Meetup', 'https://www.meetup.com/BAyPIGgies/'),
          ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+         ('Mailing List', 'https://mail.python.org/mailman/listinfo/baypiggies'),
+         # ('You can modify those links in your config file', '#')
+        )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('BayPIGgies Meetup Group', 'http://www.meetup.com/BAyPIGgies/'),
+          ('Twitter', 'http://twitter.com/baypiggies'),)
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+STATIC_PATHS = ['images', 'pdfs']
+
+THEME='../pelican-themes/pelican-bootstrap3'
+# SITELOGO='images/baypiggies.png'
+# SITELOGO_SIZE='381x88'
+BANNER_IMAGE='images/baypiggies.png'
+
+TWITTER_USER='baypiggies'
+# TWITTER_WIDGET_ID='598966848630169601'
+
