@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'William Deegan'
+AUTHOR = u'Bay Area Python Interest Group (BAyPIGgies)'
 SITENAME = u'BayPIGgies Bay Area Python Interest Group'
 SITEURL = ''
 
