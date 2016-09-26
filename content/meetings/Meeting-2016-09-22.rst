@@ -10,11 +10,6 @@ Thursday, September 22nd, 2016 Meeting
 :summary: Guido van Rossum - Python Language
 
 
-Register via Meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/228209068/" data-event="228209068" class="mu-rsvp-btn">RSVP</a>
 
 Topic: 
   Python Language
@@ -53,10 +48,7 @@ Special note to presenters using a Mac:
   If you will be giving a presentation using a Mac, please bring your own Mac to VGA adapter. LinkedIn does not provide these and this is the one accessory which Mac users sometimes forget to bring.
 
 
-
-.. raw:: html
-
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=km6g8p73etdt58eo9gj00n0q1f";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+See meetup info via https://www.meetup.com/BAyPIGgies/events/228209068/
 
 
 
