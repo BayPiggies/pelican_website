@@ -8,7 +8,6 @@ Thursday, September 22nd, 2016 Meeting
 :slug: meeting-2016-09-22
 :authors: Guido van Rossum
 :summary: Guido van Rossum - Python Language
-:save_as: meeting-2016-09.22.html
 
 
 Register via Meetup.com here:
