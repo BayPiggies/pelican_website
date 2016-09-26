@@ -1,0 +1,59 @@
+Thursday, October 27nd, 2016 Meeting
+######################################
+
+:date: 2016-10-27 10:20
+:modified: 2016-09-25 15:51
+:tags: meeting, IoT
+:category: meetings
+:slug: meeting-2016-10-27
+:authors: Jeff Fischer
+:summary: Python and IoT: From Chips and Bits to Data Science
+:save_as: index.html
+
+
+Register via Meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/228274916/" data-event="228274916" class="mu-rsvp-btn">RSVP</a>
+
+Topic:
+  Python and IoT: From Chips and Bits to Data Science
+
+Speaker:
+  Jeff Fischer
+
+Abstract:
+  Ever want to know what is behind the "Internet of Things" hype? Back in Feburary, I wanted to as well, so I embarked on a side project to learn more. This talk is the story of my journey, using, of course, my favorite programming langauge, Python.
+
+
+  In this talk, I will take you through my project, a lighting replay system. I captured light sensor data (using Micropython and the ESP8266) in three rooms of my house. I then analyzed the data using Jupyter notebooks, Numpy, Pandas, and Scikit-learn. My goal was to replay realistic light usage when my family and I are out of town. After exploring several machine learning approaches, I settled on Hidden Markov Models (using Hmmlearn). I now have a simple application that runs on my Raspberry Pi and controls Phillips Hue lights based on the learned model. Along the way, I played around with hardware for the first time since college and co-developed an open source data filtering framework, called AntEvents (joint work with Rupak Majumdar of the Max Planck Institute for Software Systems).
+
+
+Speaker Bio
+  Jeff Fischer has held developer, management, and research roles in small and large companies. He currently is consulting for a commercial research laboratory, advising them on how to spin-off a healthcare IoT project. Previously, he was co-founder and VP of Engineering at Quaddra Software, a file analytics startup. He has a PhD in Computer Science from UCLA, focused on programming languages and software verification. His current technical interests include IoT analytics, distributed systems, and programming languages.
+
+
+  Jeff first came across Python in the last century, and liked it much better than the alternative he was using at the time (which seemed to resemble modem line noise). He has tried to work Python into his projects ever since. He is the co-organizer of BayPiggies and looks forward to the great talks and the enthusiastic audience at our monthly meetings.
+
+Meeting Schedule:
+  * 7:00 pm Networking (note we are starting 30 minutes earlier than the April meeting)
+  * 7:15 pm Announcements and presentation
+  * 8:45 pm Random access
+  * 9:00 pm Event ends
+
+
+Location:
+  LinkedIn
+  580 Mary, Sunnyvale, CA.
+
+
+Meeting Room:
+  Follow signs
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=km6g8p73etdt58eo9gj00n0q1f";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+
+
