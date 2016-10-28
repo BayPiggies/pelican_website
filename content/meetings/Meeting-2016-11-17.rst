@@ -1,0 +1,61 @@
+Thursday, November 17th, 2016 Meeting
+######################################
+
+:date: 2016-11-17 19:00
+:modified: 2016-10-28 17:00
+:tags: meeting, Django
+:category: meetings
+:slug: meeting-2016-11-17
+:authors: Jeff Fischer
+:summary: Django and Security
+:save_as: index.html
+
+
+Register via Meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/232817003/" data-event="23281700" class="mu-rsvp-btn">RSVP</a>
+
+
+Note that we are having our meeting one week earlier than usual, due to Thanksgiving.
+
+Topic:
+  Django and Security
+
+Speaker:
+  James Bennett
+
+
+Abstract:
+ This talk will be a historical tour of the Django project's approach to security. We'll cover how Django's security policies have evolved over its eleven-year history, the ways the framework has integrated security as a major goal, and what we can learn from looking at patterns in the security issues that have occurred in Django. 
+
+
+Speaker Bio:
+ James has been using Django almost since the day it was publicly released, and a member of the Django core team since 2007. He currently serves on the Django security team and technical board, and as a Director of the Django Software Foundation. At his day job, James works to reinvent health insurance as part of the engineering team at Clover Health in San Francisco. 
+
+
+Meeting Schedule:
+  * 7:00 pm Networking
+  * 7:15 pm Announcements and presentation
+  * 8:45 pm Random access
+  * 9:00 pm Event ends
+
+
+Location:
+  LinkedIn
+
+  605 W. Maude Ave, Sunnyvale, CA.
+
+*Note that this is a new location.*
+
+
+Meeting Room:
+  Yosemite Room
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=km6g8p73etdt58eo9gj00n0q1f";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+
+
