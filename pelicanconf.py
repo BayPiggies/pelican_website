@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os.path
 
 AUTHOR = u'Bay Area Python Interest Group (BAyPIGgies)'
 SITENAME = u'BayPIGgies Bay Area Python Interest Group'
@@ -46,3 +47,8 @@ BANNER_IMAGE='images/baypiggies.png'
 TWITTER_USER='baypiggies'
 # TWITTER_WIDGET_ID='598966848630169601'
 
+# The index.html page will be rendered from the featured.html template
+# in this directory.
+TEMPLATE_PAGES = {os.path.join(os.path.dirname(__file__), 'featured.html'): 'index.html'}
+# The title of the article to be featured on the home page
+FEATURED_ARTICLE = 'Thursday, November 17th, 2016 Meeting'
