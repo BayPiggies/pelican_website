@@ -8,6 +8,9 @@ Thursday, November 17th, 2016 Meeting
 :slug: meeting-2016-11-17
 :authors: Jeff Fischer
 :summary: Django and Security
+:save_as: index.html
+:url: 
+
 
 
 Register via Meetup.com here:
