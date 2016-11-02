@@ -3,7 +3,7 @@ Thursday, August 25th, 2016 Meeting
 
 :date: 2016-08-25 10:20
 :modified: 2016-08-25 10:20
-:tags: meeting, wesleychun
+:tags: meeting, wesleychun, video
 :category: meetings
 :slug: meeting-2016-08-25
 :authors: Wesley Chun
@@ -22,7 +22,16 @@ FULL DESCRIPTION
 
 
 
+
+
 The second part of the talk walks you through the necessary boilerplate code that you need to get started. This code will stay fairly consistent for your first, second, or 20th app, and whether you using 1, 2, or 20 Google APIs. We'll conclude demonstrating some of these steps, and time-permitting, walk through some some simple code (in Python) that accesses Google APIs. Some APIs only require simple API key access while others require full authorization, so we'll do our best to show examples of how to do both.
+
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/MsciHCZVV9A" frameborder="0" allowfullscreen></iframe>
 
 Speaker Bio
   WESLEY CHUN, MSCS, is the author of Prentice Hall's bestselling "Core Python" book series & companion videos (corepython.com), co-author of "Python Web Development with Django" (withdjango.com), and has written for Linux Journal, CNET, and InformIT. In addition to being an engineer & Developer Advocate at Google, he runs CyberWeb (cyberwebconsulting.com), a consultancy specializing in Python training. Wesley has over 25 years of programming, teaching, and writing experience, including helping create Yahoo!Mail using Python almost 2 decades ago. He holds degrees in CS, Math, and Music from the University of California and loves traveling worldwide to meet developers, whether at a technical conference, user group meeting, or on a university campus. Wesley is a Fellow of the Python Software Foundation and can be reached on Google+ or Twitter (@wescpy).

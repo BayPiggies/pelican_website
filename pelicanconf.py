@@ -30,7 +30,8 @@ LINKS = (
 
 # Social widget
 SOCIAL = (('BayPIGgies Meetup Group', 'http://www.meetup.com/BAyPIGgies/'),
-          ('Twitter', 'http://twitter.com/baypiggies'),)
+          ('Twitter', 'http://twitter.com/baypiggies'),
+          ('YouTube', 'https://www.youtube.com/channel/UCBJV1sd5XcVhijm13pWfBCg'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -52,3 +53,8 @@ TWITTER_USER='baypiggies'
 # TEMPLATE_PAGES = {os.path.join(os.path.dirname(__file__), 'featured.html'): 'index.html'}
 # The title of the article to be featured on the home page
 # FEATURED_ARTICLE = 'Thursday, November 17th, 2016 Meeting'
+
+TAG_FEED_ATOM = "feeds/tag_%s.atom.xml"
+MENUITEMS = [('Videos', '/tag/video.html')]
+
+
