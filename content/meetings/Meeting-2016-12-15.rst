@@ -1,0 +1,80 @@
+Thursday, December 15th, 2016 Meeting
+######################################
+
+:date: 2016-12-15 19:00
+:modified: 2016-11-28 11:00
+:tags: meeting, mypy, type-annotations
+:category: meetings
+:slug: meeting-2016-12-15
+:authors: Jeff Fischer
+:summary: Introducing Type Annotations for Python 2.7
+:save_as: index.html
+:url: 
+
+Introducing Type Annotations for Python 2.7
+===========================================
+
+
+Register via Meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/232817503/" data-event="232817503" class="mu-rsvp-btn">RSVP</a>
+
+
+Note that we are having our meeting one week earlier than usual, due to the holidays.
+
+Speakers:
+  Guido Van Rossum, Jukka Lehtosalo, Greg Price, and David Fisher
+
+
+Abstract
+--------
+Dropbox has several million lines of production code written in Python 2.7. As a first step towards migrating to Python 3, as well as to generally make our code more navigable, we are annotating our code with type annotations using the PEP 484 standard and type-checking the annotated code with mypy. In this talk we will discuss lessons learned and show how you too can start type-checking your legacy Python 2.7 code, one file at a time. We will also describe some of the many improvements we’ve made to mypy in the process, as well as some other tools that come in handy.
+
+Mypy is an open-source type-checker for Python. It was originally created by one of the speakers, Jukka Lehtosalo, in support of his PhD thesis, before he joined Dropbox. Mypy supports the PEP 484 standard for gradual typing in Python. It supports Python 3.2 and higher, as well as Python 2.7 (using function signatures in type comments, per a recent update to PEP 484).
+
+Speaker Bios
+------------
+Guido van Rossum
+~~~~~~~~~~~~~~~~~
+Guido van Rossum is the author of the Python programming language. He continues to serve as the "Benevolent Dictator For Life" (BDFL), meaning that he continues to oversee the Python development process, making decisions where necessary. He is currently employed by Dropbox.
+
+Jukka Lehtosalo
+~~~~~~~~~~~~~~~
+Jukka Lehtosalo created mypy, an optional static type checker for Python, while working on his PhD at the University of Cambridge. He currently works at Dropbox and continues to lead the development of mypy.
+
+Greg Price
+~~~~~~~~~~
+Greg Price is an engineer at Dropbox. Previously he worked at Quora and helped Ksplice make rebooting obsolete.
+
+
+
+David Fisher
+~~~~~~~~~~~~
+David Fisher works full time on mypy (the PEP 484 static type checker) at Dropbox. He enjoys learning esoteric languages in his spare time.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Networking
+* 7:15 pm Announcements and presentation
+* 8:45 pm Random access
+* 9:00 pm Event ends
+
+
+Location:
+  LinkedIn
+
+  `605 W. Maude Ave, Sunnyvale, CA. 94085 <https://goo.gl/maps/m84ym2acVeJ2>`__
+
+Meeting Room:
+  Yosemite Room
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+

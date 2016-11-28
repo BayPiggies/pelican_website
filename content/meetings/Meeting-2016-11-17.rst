@@ -8,19 +8,6 @@ Thursday, November 17th, 2016 Meeting
 :slug: meeting-2016-11-17
 :authors: Jeff Fischer
 :summary: Django and Security
-:save_as: index.html
-:url: 
-
-
-
-Register via Meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/232817003/" data-event="232817003" class="mu-rsvp-btn">RSVP</a>
-
-
-Note that we are having our meeting one week earlier than usual, due to Thanksgiving.
 
 Topic:
   Django and Security
