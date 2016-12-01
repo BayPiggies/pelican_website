@@ -33,6 +33,9 @@ Video of Presentation
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/MsciHCZVV9A" frameborder="0" allowfullscreen></iframe>
 
+Slides:
+  Slides_ from presentation
+
 Speaker Bio
   WESLEY CHUN, MSCS, is the author of Prentice Hall's bestselling "Core Python" book series & companion videos (corepython.com), co-author of "Python Web Development with Django" (withdjango.com), and has written for Linux Journal, CNET, and InformIT. In addition to being an engineer & Developer Advocate at Google, he runs CyberWeb (cyberwebconsulting.com), a consultancy specializing in Python training. Wesley has over 25 years of programming, teaching, and writing experience, including helping create Yahoo!Mail using Python almost 2 decades ago. He holds degrees in CS, Math, and Music from the University of California and loves traveling worldwide to meet developers, whether at a technical conference, user group meeting, or on a university campus. Wesley is a Fellow of the Python Software Foundation and can be reached on Google+ or Twitter (@wescpy).
 
@@ -65,7 +68,7 @@ Special note to presenters using a Mac:
 
   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=km6g8p73etdt58eo9gj00n0q1f";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
 
-
+.. _Slides: http://goo.gl/slides/c2e5cd
 
 
 
