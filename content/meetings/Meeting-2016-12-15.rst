@@ -7,12 +7,12 @@ Thursday, December 15th, 2016 Meeting
 :category: meetings
 :slug: meeting-2016-12-15
 :authors: Jeff Fischer
-:summary: Introducing Type Annotations for Python 2.7
+:summary: Introducing Type Annotations for Python
 :save_as: index.html
 :url: 
 
-Introducing Type Annotations for Python 2.7
-===========================================
+Introducing Type Annotations for Python
+=======================================
 
 
 Register via Meetup.com here:
