@@ -68,7 +68,7 @@ Special note to presenters using a Mac:
 
   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=km6g8p73etdt58eo9gj00n0q1f";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
 
-.. _Slides: http://goo.gl/slides/c2e5cd
+.. _Slides: http://www.slideshare.net/wescpy/exploring-google-apis-with-python
 
 
 
