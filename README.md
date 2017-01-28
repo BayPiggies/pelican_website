@@ -26,39 +26,34 @@ make devserver again
 ## Metadata properties for meeting pages
 By convention, we have the follow metadata properties for each meeting page:
 
-:date:
-: We set this to the date and time of the actual meeting (e.g. 2017-02-23 19:00).
-
-:modified:
-: We set this to the date/time of the last change to the page.
-
-:tags:
-: Be sure to include *meeting*. You might also want to include tags like
-: *beginner*, *data-science*, or *advanced* as well as tags for the general
-: topic of the talk.
-
-:category:
-: This should be *meetings*
-
-:slug:
-: Use meeting-YYYY-MM-DD
-
-:authors:
-: We generally use the speakers name(s)
-
-:summary:
-: Short one-line phrase (generally repeating the title)
+* **date** - We set this to the date and time of the actual meeting (e.g. 2017-02-23 19:00).
+* **modified** - We set this to the date/time of the last change to the page.
+* **tags** - Be sure to include *meeting*. You might also want to include tags like *beginner*, *data-science*, or *advanced* as well as tags for the general topic of the talk.
+* **category** - This should be *meetings*
+* **slug** - Use meeting-YYYY-MM-DD
+* **author** - We generally use the speakers name(s), rather than ours
+* **summary** - Short one-line phrase (generally repeating the title)
 
 For the current month *only*, we need the following additional tags in
 order to force the meeting to show up both on the front page as well as
 in the meetings tab:
 
-:save_as:
-: Set this to *index.html*
+* **save_as** - Set this to *index.html*
+* **url** - Leave this blank
 
+Here is an example:
+
+~~~~
+:date: 2017-02-23 19:00
+:modified: 2017-01-28 13:00
+:tags: meeting, data-science
+:category: meetings
+:slug: meeting-2017-02-23
+:authors: Melanie Goetz
+:summary: Python for Data Science
+:save_as: index.html
 :url:
-: Leave this blank
-
+~~~~
 ## Meetup.com integration
 To create the meetup.com RSVP button, go to https://www.meetup.com/meetup_api/buttons/
 and enter the meetup.com URL for the meeting. Note that you will get an authorization
