@@ -1,7 +1,7 @@
 # pelican_website
 Source files for pelican based website
 
-How to build
+##How to build
 ```bash
 virtualenv venv
 . venv/bin/activate
@@ -22,3 +22,46 @@ Then make your edits and save them, pelican will auto generate the website.
 
 If you make errors, it may yield errors and you may need to run:
 make devserver again
+
+## Metadata properties for meeting pages
+By convention, we have the follow metadata properties for each meeting page:
+
+:date:
+: We set this to the date and time of the actual meeting (e.g. 2017-02-23 19:00).
+
+:modified:
+: We set this to the date/time of the last change to the page.
+
+:tags:
+: Be sure to include *meeting*. You might also want to include tags like
+: *beginner*, *data-science*, or *advanced* as well as tags for the general
+: topic of the talk.
+
+:category:
+: This should be *meetings*
+
+:slug:
+: Use meeting-YYYY-MM-DD
+
+:authors:
+: We generally use the speakers name(s)
+
+:summary:
+: Short one-line phrase (generally repeating the title)
+
+For the current month *only*, we need the following additional tags in
+order to force the meeting to show up both on the front page as well as
+in the meetings tab:
+
+:save_as:
+: Set this to *index.html*
+
+:url:
+: Leave this blank
+
+## Meetup.com integration
+To create the meetup.com RSVP button, go to https://www.meetup.com/meetup_api/buttons/
+and enter the meetup.com URL for the meeting. Note that you will get an authorization
+error if you click the button from the test server. You need to deploy on
+baypiggies.net to test the end-to-end operation.
+
