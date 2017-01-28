@@ -2,8 +2,8 @@ Thursday, September 22nd, 2016 Meeting
 ######################################
 
 :date: 2016-09-22 10:20
-:modified: 2016-09-22 10:20
-:tags: meeting, GuidovanRossum
+:modified: 2017-01-28 14:00
+:tags: meeting, GuidovanRossum, video
 :category: meetings
 :slug: meeting-2016-09-22
 :authors: Guido van Rossum
@@ -27,6 +27,13 @@ Speaker Bio
 
 BayPiggies has a group on meetup.com: http://www.meetup.com/BAyPIGgies/.
 
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FBeWcXdxUxE" frameborder="0" allowfullscreen></iframe>
+
 Meeting Schedule:
   * 7:00 pm Networking (note we are starting 30 minutes earlier than the April meeting)
   * 7:15 pm Announcements and presentation
@@ -42,16 +49,4 @@ Location:
 
 Meeting Room:
   Unite (On the second floor)
-
-
-Special note to presenters using a Mac:
-  If you will be giving a presentation using a Mac, please bring your own Mac to VGA adapter. LinkedIn does not provide these and this is the one accessory which Mac users sometimes forget to bring.
-
-
-See meetup info via https://www.meetup.com/BAyPIGgies/events/228209068/
-
-
-
-
-
 

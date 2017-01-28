@@ -2,19 +2,12 @@ Thursday, October 27nd, 2016 Meeting
 ######################################
 
 :date: 2016-10-27 10:20
-:modified: 2016-09-25 15:51
-:tags: meeting, IoT
+:modified: 2017-01-28 15:51
+:tags: meeting, IoT, video
 :category: meetings
 :slug: meeting-2016-10-27
 :authors: Jeff Fischer
 :summary: Python and IoT: From Chips and Bits to Data Science
-
-
-Register via Meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/228274916/" data-event="228274916" class="mu-rsvp-btn">RSVP</a>
 
 Topic:
   Python and IoT: From Chips and Bits to Data Science
@@ -35,6 +28,13 @@ Speaker Bio
 
   Jeff first came across Python in the last century, and liked it much better than the alternative he was using at the time (which seemed to resemble modem line noise). He has tried to work Python into his projects ever since. He is the co-organizer of BayPiggies and looks forward to the great talks and the enthusiastic audience at our monthly meetings.
 
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lGT6nlQEh3k" frameborder="0" allowfullscreen></iframe>
+
 Meeting Schedule:
   * 7:00 pm Networking (note we are starting 30 minutes earlier than the April meeting)
   * 7:15 pm Announcements and presentation
@@ -46,13 +46,5 @@ Location:
   LinkedIn
   580 Mary, Sunnyvale, CA.
 
-
-Meeting Room:
-  Follow signs
-
-
-.. raw:: html
-
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=km6g8p73etdt58eo9gj00n0q1f";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
 
 
