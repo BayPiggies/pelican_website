@@ -2,26 +2,15 @@ Thursday, December 15th, 2016 Meeting
 ######################################
 
 :date: 2016-12-15 19:00
-:modified: 2016-11-28 11:00
-:tags: meeting, mypy, type-annotations
+:modified: 2017-01-28 14:00
+:tags: meeting, mypy, type-annotations, video
 :category: meetings
 :slug: meeting-2016-12-15
-:authors: Jeff Fischer
+:authors: Guido Van Rossum, Jukka Lehtosalo, Greg Price, and David Fisher
 :summary: Introducing Type Annotations for Python
 
 Introducing Type Annotations for Python
 =======================================
-
-
-Register via Meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/232817503/" data-event="232817503" class="mu-rsvp-btn">RSVP</a>
-
-
-Note that we are having our meeting one week earlier than usual, due to the holidays.
-
 Speakers:
   Guido Van Rossum, Jukka Lehtosalo, Greg Price, and David Fisher
 
@@ -52,6 +41,12 @@ David Fisher
 ~~~~~~~~~~~~
 David Fisher works full time on mypy (the PEP 484 static type checker) at Dropbox. He enjoys learning esoteric languages in his spare time.
 
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZP_QV4ccFHQ" frameborder="0" allowfullscreen></iframe>
 
 Meeting Details
 ---------------
@@ -71,8 +66,4 @@ Location:
 Meeting Room:
   Yosemite Room
 
-
-.. raw:: html
-
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
 

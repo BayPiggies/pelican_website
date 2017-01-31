@@ -1,0 +1,59 @@
+Thursday, February 23rd, 2017 Meeting
+#####################################
+
+:date: 2017-02-23 19:00
+:modified: 2017-01-28 13:00
+:tags: meeting, data-science
+:category: meetings
+:slug: meeting-2017-02-23
+:authors: Melanie Goetz
+:summary: Python for Data Science
+:save_as: index.html
+:url: 
+
+Python for Data Science
+=======================
+
+
+Register via Meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/233553028/" data-event="233553028" class="mu-rsvp-btn">RSVP</a>
+
+
+Speaker:
+  Melanie Goetz
+
+
+Abstract
+--------
+A talk on Python and Data Science. Details to follow.
+
+Speaker Bio
+-----------
+Melanie Goetz is a Senior Data Scientist at Clover Health.
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Networking
+* 7:15 pm Announcements and presentation
+* 8:45 pm Random access
+* 9:00 pm Event ends
+
+
+Location:
+  LinkedIn
+
+  `605 W. Maude Ave, Sunnyvale, CA. 94085 <https://goo.gl/maps/m84ym2acVeJ2>`__
+
+Meeting Room:
+  Yosemite Room
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+
