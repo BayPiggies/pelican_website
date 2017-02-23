@@ -1,5 +1,6 @@
 # pelican_website
-Source files for pelican based website
+Source files for the BayPiggies (Bay Area Python Interest Group)
+pelican-based website.
 
 ##How to build
 ```bash
