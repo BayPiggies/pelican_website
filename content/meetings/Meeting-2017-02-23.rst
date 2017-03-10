@@ -8,8 +8,6 @@ Thursday, February 23rd, 2017 Meeting
 :slug: meeting-2017-02-23
 :authors: Melanie Goetz
 :summary: Production Data Science for Healthcare in Python
-:save_as: index.html
-:url: 
 
 Production Data Science for Healthcare in Python
 ================================================

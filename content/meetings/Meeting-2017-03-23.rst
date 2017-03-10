@@ -1,0 +1,60 @@
+Thursday, March 23rd, 2017 Meeting
+##################################
+
+:date: 2017-03-23 19:00
+:modified: 2017-02-28 10:00
+:tags: meeting, AlexMartelli
+:category: meetings
+:slug: meeting-2017-03-23
+:authors: Alex Martelli
+:summary: Testing in Layers
+:save_as: index.html
+:url: 
+
+Testing in Layers
+=================
+
+
+Register via Meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/236246591/" data-event="236246591" class="mu-rsvp-btn">RSVP</a>
+
+
+Speaker:
+  Alex Martelli
+
+
+Abstract
+--------
+Learn how to code tests in modular ways suitable for multiple arrangements and layers, arrange and deploy tests as unit tests, intermediate integration tests, end-to-end tests, and load-tests, and enrich code and tests with appropriate use and analysis of logging.
+
+
+Speaker Bio
+-----------
+Alex Martelli is a senior staff engineer at Google. Alex is the author of Python in a Nutshell and coeditor of the Python Cookbook. He is a PSF Fellow and won the 2002 Activators’ Choice Award and the 2006 Frank Willison Award for contributions to the Python community. 
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Networking
+* 7:15 pm Announcements and presentation
+* 8:45 pm Random access
+* 9:00 pm Event ends
+
+
+Location:
+  LinkedIn
+
+  `605 W. Maude Ave, Sunnyvale, CA. 94085 <https://goo.gl/maps/m84ym2acVeJ2>`__
+
+Meeting Room:
+  Yosemite Room
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+
