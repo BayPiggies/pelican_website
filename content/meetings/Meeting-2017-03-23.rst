@@ -8,8 +8,6 @@ Thursday, March 23rd, 2017 Meeting
 :slug: meeting-2017-03-23
 :authors: Alex Martelli
 :summary: Testing in Layers
-:save_as: index.html
-:url: 
 
 Testing in Layers
 =================
