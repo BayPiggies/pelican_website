@@ -3,7 +3,7 @@ Thursday, January 26th, 2017 Meeting
 
 :date: 2017-01-26 19:00
 :modified: 2017-01-02 21:15
-:tags: meeting, beginner
+:tags: meeting, beginner, video
 :category: meetings
 :slug: meeting-2017-01-26
 :authors: Charles Merriam
@@ -22,6 +22,13 @@ Abstract
 Speaker Bio
 -----------
 Charles Merriam has presented to BayPiggies and PyCon many times over the years, including a 2007 talk on this same subject.
+
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/W-n_Q2peq2M" frameborder="0" allowfullscreen></iframe>
 
 Meeting Details
 ---------------

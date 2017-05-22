@@ -8,8 +8,6 @@ Thursday, April 27rd, 2017 Meeting
 :slug: meeting-2017-04-27
 :authors: Moshe Zadka, Al Sweigart, Asheesh Laroia and Philip James 
 :summary: Annual PyCon Preview in 3 Talks: AWS, Regular Expressions and uWSGI
-:save_as: index.html
-:url: 
 
 Annual PyCon Preview: 3 Talks: AWS, Regular Expressions and uWSGI
 =================================================================

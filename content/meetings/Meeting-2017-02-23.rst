@@ -3,7 +3,7 @@ Thursday, February 23rd, 2017 Meeting
 
 :date: 2017-02-23 19:00
 :modified: 2017-02-23 11:00
-:tags: meeting, data-science
+:tags: meeting, data-science, video
 :category: meetings
 :slug: meeting-2017-02-23
 :authors: Melanie Goetz
@@ -11,15 +11,6 @@ Thursday, February 23rd, 2017 Meeting
 
 Production Data Science for Healthcare in Python
 ================================================
-
-
-Register via Meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/233553028/" data-event="233553028" class="mu-rsvp-btn">RSVP</a>
-
-
 Speaker:
   Melanie Goetz
 
@@ -32,6 +23,13 @@ Productionizing data science often involves a team of scientists prototyping a s
 Speaker Bio
 -----------
 Melanie Goetz is a Data Science Lead at Clover Health, a health insurance startup in San Francisco. She studied Linguistics and Math/CS at MIT and dropped out of a CS PhD at UPenn. Previously, she worked at Oracle on machine learning, at Klout on natural language processing, and at Twitter on big data ad munging.
+
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dlt4K9iIULg" frameborder="0" allowfullscreen></iframe>
 
 Meeting Details
 ---------------
@@ -51,8 +49,4 @@ Location:
 Meeting Room:
   Yosemite Room
 
-
-.. raw:: html
-
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
 
