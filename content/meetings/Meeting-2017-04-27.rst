@@ -2,8 +2,8 @@ Thursday, April 27rd, 2017 Meeting
 ##################################
 
 :date: 2017-04-27 19:00
-:modified: 2017-04-23 16:00
-:tags: meeting, PyCon
+:modified: 2017-06-08 11:00
+:tags: meeting, PyCon, video
 :category: meetings
 :slug: meeting-2017-04-27
 :authors: Moshe Zadka, Al Sweigart, Asheesh Laroia and Philip James 
@@ -13,66 +13,61 @@ Annual PyCon Preview: 3 Talks: AWS, Regular Expressions and uWSGI
 =================================================================
 
 
-Register via Meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/236246601/" data-event="236246601" class="mu-rsvp-btn">RSVP</a>
+Speakers:
+  Moshe Zadka, Al Sweigart, Asheesh Laroia, and Philip James
 
 
-Speaker:
-  Moshe Zadka
-
-
-Abstract
---------
 Automate AWS With Python - Moshe Zadka
+--------------------------------------
 
 AWS is one of the best-known cloud vendors. Using the Web UI is fine when starting out, but automating cloud operations is important. Boto3 provides a great Pythonic API to AWS, but using it correctly can be subtle.
 
 The talk will cover how to automate AMI builds, building Cloud Formation Templates and automating S3 bucket management.
 
 Speaker Bio
------------
+~~~~~~~~~~~
 Moshe has been involved with Python since 1998, when he helped obsolete math-related modules. Since then, he made some contributions that were not just deleting code to core Python, and has been a contributor on the Twisted project since its inception.
 
 
 
-Abstract
---------
 Yes, It's Time to Learn Regular Expressions - Al Sweigart
+---------------------------------------------------------
 
 Regular expressions have a reputation as opaque and inscrutable. However, the basic concepts behind "regex" and text pattern recognition are simple to grasp. This talk is for any programmer who isn't familiar with Python's re module and its best practices. Stop putting it off, it's time to learn regular expressions!
 
 
 Speaker Bio
------------
+~~~~~~~~~~~
 Al Sweigart is a software developer and the author of Automate the Boring Stuff with Python, Invent Your Own Computer Games with Python, Making Games with Python & Pygame, and Hacking Secret Ciphers with Python. These books are freely available under a Creative Commons license at http://inventwithpython.com. 
 
 Al enjoys haunting coffee shops, writing educational materials, cat whispering, and making useful software. He lives in San Francisco.
 
 
-
-Abstract
---------
-Type uWSGI; press enter; what happens? - Asheesh Laroia and Philip James 
+Type uWSGI; press enter; what happens? - Asheesh Laroia and Philip James
+------------------------------------------------------------------------
 
 You're a pretty knowledgeable Python web application developer, but how does that web application get served to the world? For many of us, uWSGI is the magic that makes our application available, and in this talk we'll look at how uWSGI works with the OS and the networking stack to make the magic happen.
 
 
 Speaker Bio
------------
+~~~~~~~~~~~
 Asheesh Laroia
 
 By day, Asheesh Laroia is a member of the technical staff at Sandstorm in Palo Alto. By night, he is volunteer President at OpenHatch, helping create workshops that teach students how to get involved in open source. His technical background touches machine learning, security, and linguistics. He helped start the Boston Python Workshop for women and their friends, has been teaching Python to newcomers since 2004, including at Noisebridge and the EFF, and has advised user groups on how to make their events more newcomer-friendly and gender-diverse.
 
 
 Speaker Bio
------------
+~~~~~~~~~~~~
 Philip James
 
 Philip James is a Software Engineer at Stripe, a Civic Technologist and a Director for the City of Alameda Democratic Club and the East Bay Young Democrats. In his free time he builds ContactOtter, a smart address book you can share.
 
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MksyISonCws" frameborder="0" allowfullscreen></iframe>
 
 
 Meeting Details

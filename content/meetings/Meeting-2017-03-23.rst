@@ -2,8 +2,8 @@ Thursday, March 23rd, 2017 Meeting
 ##################################
 
 :date: 2017-03-23 19:00
-:modified: 2017-02-28 10:00
-:tags: meeting, AlexMartelli
+:modified: 2017-06-08 11:00
+:tags: meeting, AlexMartelli, special-guest, video
 :category: meetings
 :slug: meeting-2017-03-23
 :authors: Alex Martelli
@@ -11,14 +11,6 @@ Thursday, March 23rd, 2017 Meeting
 
 Testing in Layers
 =================
-
-
-Register via Meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/236246591/" data-event="236246591" class="mu-rsvp-btn">RSVP</a>
-
 
 Speaker:
   Alex Martelli
@@ -32,6 +24,13 @@ Learn how to code tests in modular ways suitable for multiple arrangements and l
 Speaker Bio
 -----------
 Alex Martelli is a senior staff engineer at Google. Alex is the author of Python in a Nutshell and coeditor of the Python Cookbook. He is a PSF Fellow and won the 2002 Activators’ Choice Award and the 2006 Frank Willison Award for contributions to the Python community. 
+
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/pCrW_LiSb34" frameborder="0" allowfullscreen></iframe>
 
 Meeting Details
 ---------------
