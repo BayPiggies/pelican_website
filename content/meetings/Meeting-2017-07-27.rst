@@ -1,0 +1,73 @@
+Thursday, July 27th, 2017 Meeting
+##################################
+
+:date: 2017-07-27 19:00
+:modified: 2017-07-11 16:00
+:tags: meeting, data-science
+:category: meetings
+:slug: meeting-2017-07-27
+:authors: Wolf Vollprecht
+:summary: Data Science Night: xtensor and jet
+:save_as: index.html
+:url: 
+
+Data Science Night: xtensor and jet
+===================================
+
+
+Register via Meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/239601370/" data-event="239601370" class="mu-rsvp-btn">RSVP</a>
+
+
+Speaker:
+     Wolf Vollprecht
+ 
+In order to catch a great speaker who is leaving the country, we are swapping around our usual talk topics. This talk falls into "Data Science", rather than the previously scheduled beginner talk. We are sure you will enjoy it!
+
+
+xtensor and jet : bringing NumPy to C++ and JIT compiled C++ to Python
+----------------------------------------------------------------------
+
+Abstract
+~~~~~~~~
+*xtensor* is a C++ linear algebra library offering a unifying interface to data science for Python (NumPy), R and Julia. We are aiming for feature and API parity with NumPy and are borrowing NumPy's expressiveness for the C++ world. In this talk I will present the three features that make xtensor unique:
+
+1. ND-Arrays in C++ (most other C++ libraries only offer 2- to 3D)
+2. NumPy style broadcasting
+3. Lazy evaluation of expressions 
+
+xtensor is of great interest for those who want to write high speed libraries for Python, Julia and R, as we offer very simple ways to plug C++ code into Python/Julia or R. For Python, this is implemented in the xtensor-python module which allows to modify NumPy arrays in place, as will be demonstrated during the talk. xtensor-python also offers the easiest way to create NumPy style ufuncs. All of this enables the write-once-use-everywhere paradigm for Data Science libraries. 
+
+
+*jet* is a new take on a JIT. Borrowing ideas from TensorFlow and Theano, it consists of a small Python library which effectively records a graph of NumPy operations and rewrites them in C++ source code. The C++ is then compiled using an optimizing compiler, and a Python module is created and imported.Using this method, we have been able to speed up numeric problems in tight loops up to 20 times. Currently, jet is using Armadillo as a C++ linalg backend, but obviously this is supposed to change in the near future to xtensor. jet is used for numeric optimizations on physical systems and robotic controllers. 
+
+Speaker Bio
+~~~~~~~~~~~
+Wolf is currently finishing his Master in Robotics, Systems and Controls at ETH Zurich. Right now he is visiting the Autonomous Systems Lab at Stanford where he writes his master thesis on the subject of autonomous cars, and tries to make autonomous cars smarter by using machine learning to infer the intent of human drivers in certain scenarios. He is passionate about robots, open source libraries and free distribution of education and knowledge worldwide. 
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Networking and food
+* 7:15 pm Announcements and presentation
+* 8:45 pm Random access
+* 9:00 pm Event ends
+
+
+Location:
+  LinkedIn
+
+  `605 W. Maude Ave, Sunnyvale, CA. 94085 <https://goo.gl/maps/m84ym2acVeJ2>`__
+
+Meeting Room:
+  Yosemite Room
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+
