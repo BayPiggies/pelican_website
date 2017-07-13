@@ -2,25 +2,15 @@ Thursday, June 22nd, 2017 Meeting
 ##################################
 
 :date: 2017-06-22 19:00
-:modified: 2017-06-08 09:00
+:modified: 2017-07-11 16:00
 :tags: meeting, special-guest
 :category: meetings
 :slug: meeting-2017-06-22
 :authors: Raymon Hettinger
 :summary: Special Guest: Raymond Hettinger
-:save_as: index.html
-:url: 
 
 Special Guest: Raymond Hettinger
 ================================
-
-
-Register via Meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/233554061/" data-event="233554061" class="mu-rsvp-btn">RSVP</a>
-
 
 Abstract
 --------
@@ -50,7 +40,4 @@ Meeting Room:
   Yosemite Room
 
 
-.. raw:: html
-
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
 
