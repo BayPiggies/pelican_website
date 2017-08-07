@@ -2,8 +2,8 @@ Thursday, June 22nd, 2017 Meeting
 ##################################
 
 :date: 2017-06-22 19:00
-:modified: 2017-07-11 16:00
-:tags: meeting, special-guest
+:modified: 2017-08-03 16:00
+:tags: meeting, special-guest, video
 :category: meetings
 :slug: meeting-2017-06-22
 :authors: Raymon Hettinger
@@ -20,6 +20,12 @@ Speaker Bio
 -----------
 Raymond Hettinger is the Python core developer who created sets, generator expressions, collections and itertools modules and designed the compact-and-ordered dict. Raymond has also served as director of the Python Software Foundation, and has mentored many people over the years on their contributions to the python-dev community.  He's also well known for his contributions to the Python Cookbook, and shares many pieces of Python wisdom on Twitter.  He is a frequent keynote speaker at PyCons all over the world and has received the Distinguished Service Award at PyCon in Montreal 2014 for his exceptional contributions to the python community. 
 
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cNqJDRsefg8" frameborder="0" allowfullscreen></iframe>
 
 Meeting Details
 ---------------
