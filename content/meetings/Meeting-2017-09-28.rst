@@ -1,0 +1,61 @@
+Thursday, September 28th, 2017 Meeting
+######################################
+
+:date: 2017-09-28 19:00
+:modified: 2017-09-01 11:00
+:tags: meeting, beginner
+:category: meetings
+:slug: meeting-2017-09-28
+:authors: Mahmoud Hashemi
+:summary: The Packaging Gradient
+:save_as: index.html
+:url:
+
+The Packaging Gradient
+======================
+
+
+Register via Meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/242072266/" data-event="242072266" class="mu-rsvp-btn">RSVP</a>
+
+
+Speaker:
+     Mahmoud Hashemi
+
+Location
+--------
+As with last month, we are in a new, bigger room. It is at
+`950 W. Maude Ave in Sunnyvale <https://www.google.com/maps/place/950+W+Maude+Ave,+Sunnyvale,+CA+94085/@37.3924533,-122.0429417,17z/data=!3m1!4b1!4m5!3m4!1s0x808fb700f8bda603:0xd8f1136e887e863f!8m2!3d37.3924533!4d-122.040753?f=q&hl=en&q=950+West+Maude+Ave,+Sunnyale,+CA,+us>`__.
+We are in the Unify meeting room (there will be signs at the visitor entrance).
+
+Abstract
+~~~~~~~~
+Deployment is not the last step of development. Experienced engineers know to work backwards from deployment requirements, planning and designing for the reality of production environments.
+
+Python packaging sometimes gets a bad reputation, but a lot of this comes from less experienced engineers learning the hard way that implementation language does not dictate their packaging solutions.
+
+Packaging is all about target environment and deployment experience. Python was designed to be cross-platform and runs in countless environments. Python's built-in tools can't carry you anywhere you want to go. These days, I can write a mobile app in Python, but obviously people don't use pip to install it. More advanced codebases have to scale their packaging accordingly.
+
+This talk moves example by example, presenting shippable code, and the simplest packaging solution appropriate for it. All the examples are in Python, but the lessons are absolutely language agnostic. Learn the packaging gradient and put those deployment doubts to rest once and for all.
+
+Speaker Bio
+~~~~~~~~~~~
+Mahmoud Hashemi is a backend engineer and architect, open-source library maintainer, and Wikipedian. Newly building services and teams at shopkick, for many years, he built scalable enterprise Python services at PayPal, where he wrote technical essays and presented O'Reilly's Enterprise Software with Python. On the Wikipedia side of things, he's known for Listen to Wikipedia, Wikipedia Social Search, the Weeklypedia newsletter, the Wikipedia IFTTT channel, and much much more. He believes education is more than something you receive, and that every coder should be able to see one, do one, then teach one.
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Networking and food
+* 7:15 pm Announcements and presentation
+* 8:45 pm Random access
+* 9:00 pm Event ends
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+
