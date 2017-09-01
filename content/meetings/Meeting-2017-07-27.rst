@@ -2,8 +2,8 @@ Thursday, July 27th, 2017 Meeting
 ##################################
 
 :date: 2017-07-27 19:00
-:modified: 2017-07-11 16:00
-:tags: meeting, data-science
+:modified: 2017-09-01 11:00
+:tags: meeting, data-science, video
 :category: meetings
 :slug: meeting-2017-07-27
 :authors: Wolf Vollprecht
@@ -37,6 +37,13 @@ xtensor is of great interest for those who want to write high speed libraries fo
 Speaker Bio
 ~~~~~~~~~~~
 Wolf is currently finishing his Master in Robotics, Systems and Controls at ETH Zurich. Right now he is visiting the Autonomous Systems Lab at Stanford where he writes his master thesis on the subject of autonomous cars, and tries to make autonomous cars smarter by using machine learning to infer the intent of human drivers in certain scenarios. He is passionate about robots, open source libraries and free distribution of education and knowledge worldwide. 
+
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+	 <iframe width="560" height="315" src="https://www.youtube.com/embed/ghH6zglXq1A" frameborder="0" allowfullscreen></iframe>
 
 Meeting Details
 ---------------
