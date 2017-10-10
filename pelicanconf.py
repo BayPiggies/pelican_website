@@ -57,4 +57,23 @@ TWITTER_USER='baypiggies'
 TAG_FEED_ATOM = "feeds/tag_%s.atom.xml"
 MENUITEMS = [('Videos', '/tag/video.html')]
 
+PLUGIN_PATHS = ['../pelican-plugins']
+PLUGINS = [
+    'pin_to_top',
+    'sitemap',
+    ]
+
+SITEMAP = {
+    'format': 'txt',
+#     'priorities': {
+#         'articles': 0.5,
+#         'indexes': 0.5,
+#         'pages': 0.5
+#     },
+#     'changefreqs': {
+#         'articles': 'monthly',
+#         'indexes': 'daily',
+#         'pages': 'monthly'
+#     }
+}
 
