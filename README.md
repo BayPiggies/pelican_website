@@ -10,6 +10,7 @@ pip install pelican markdown typogrify
 
 git clone git@github.com:getpelican/pelican-themes.git
 git clone git@github.com:BayPiggies/pelican_website.git
+git clone --recursive https://github.com/getpelican/pelican-plugins
 
 #(or preferably your fork thereof)
 
