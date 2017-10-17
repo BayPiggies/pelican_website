@@ -8,19 +8,9 @@ Thursday, September 28th, 2017 Meeting
 :slug: meeting-2017-09-28
 :authors: Mahmoud Hashemi
 :summary: The Packaging Gradient
-:save_as: index.html
-:url:
 
 The Packaging Gradient
 ======================
-
-
-Register via Meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/242072266/" data-event="242072266" class="mu-rsvp-btn">RSVP</a>
-
 
 Speaker:
      Mahmoud Hashemi
@@ -54,8 +44,4 @@ Meeting Schedule:
 * 8:45 pm Random access
 * 9:00 pm Event ends
 
-
-.. raw:: html
-
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
 
