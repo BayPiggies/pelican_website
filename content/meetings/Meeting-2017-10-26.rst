@@ -1,0 +1,69 @@
+Thursday, October 26th, 2017 Meeting
+######################################
+
+:date: 2017-10-26 19:00
+:modified: 2017-10-17 11:00
+:tags: meeting, special-events
+:category: meetings
+:slug: meeting-2017-10-26
+:summary: BayPiggies Diversity Night
+:save_as: index.html
+:url:
+
+BayPiggies Diversity Night
+==========================
+
+
+Register via Meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/242072302/" data-event="242072302" class="mu-rsvp-btn">RSVP</a>
+
+Abstract
+--------
+Python, an easy-to-learn programming language that is also used for many
+sophisticated applications, is a great starting point for bringing people into
+tech careers. This gives us the opportunity to reach out to underrepresented
+groups and build a vibrant community.
+
+
+For our October meeting, we will have a number of short talks to celebrate the
+diversity of the Python community. These will range from narratives of personal
+experiences, to career advice, to technical topics. We have an exciting list of
+speakers. We hope you will join us!
+
+
+Speakers
+--------
+
+* **Karen Dalton** - Strategies for Making People Feel Welcome in Tech
+* **Paula Alves** - How to contribute to open source software as a Python beginner, and why you should do it
+* **Marilenis Olivera Lee** - Victories and struggles of an Expat/Latina/Mom in Tech
+* **Ronald Lopez** - Using Pandas to better serve San Jose-Evergreen Community College District's diverse constituents.
+* **María García Herrero** - Is there life after a high-tech hiatus? Stories from a "rehabilitated" engineer
+* **Sandhya Devarajan** - Data Scraping in Python using the BeautifulSoup Module
+* **Linda Zhou** - Opportunities in business roles for women with a tech background  
+
+
+Location
+--------
+We will be in a different building from last month, just down the street:
+
+    LinkedIn, Yosemite Room
+    `605 W. Maude Ave, Sunnyvale <https://goo.gl/maps/WGCLLY1LHRt>`__.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Networking and food
+* 7:10 pm Announcements and presentation
+* 9:00 pm Event ends
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+
