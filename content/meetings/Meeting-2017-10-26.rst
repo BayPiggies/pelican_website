@@ -36,7 +36,7 @@ speakers. We hope you will join us!
 
 Speakers
 --------
-
+* **Betsy Waliszewski** (Python Software Foundation) - Commitment to diversity, equity, and inclusion in PSF events and those that they fund
 * **Karen Dalton** - Strategies for Making People Feel Welcome in Tech
 * **Paula Alves** - How to contribute to open source software as a Python beginner, and why you should do it
 * **Marilenis Olivera Lee** - Victories and struggles of an Expat/Latina/Mom in Tech
@@ -58,8 +58,8 @@ Meeting Details
 ---------------
 Meeting Schedule:
 
-* 7:00 pm Networking and food
-* 7:10 pm Announcements and presentation
+* 7:00 pm Food and Announcements
+* 7:05 pm Talks start
 * 9:00 pm Event ends
 
 
