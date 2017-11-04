@@ -7,18 +7,10 @@ Thursday, October 26th, 2017 Meeting
 :category: meetings
 :slug: meeting-2017-10-26
 :summary: BayPiggies Diversity Night
-:save_as: index.html
-:url:
 
 BayPiggies Diversity Night
 ==========================
 
-
-Register via Meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/242072302/" data-event="242072302" class="mu-rsvp-btn">RSVP</a>
 
 Abstract
 --------
@@ -36,14 +28,14 @@ speakers. We hope you will join us!
 
 Speakers
 --------
-* **Betsy Waliszewski** (Python Software Foundation) - Commitment to diversity, equity, and inclusion in PSF events and those that they fund
+* **Betsy Waliszewski** `Python Software Foundation's commitment to diversity, equity, and inclusion in PSF events and those that they fund <https://docs.google.com/presentation/d/12bkLedrDz4xnTvGlxs_A0h5SIz8cE2SWwAesJ6e7g1g/edit#slide=id.p>`__
 * **Karen Dalton** - Strategies for Making People Feel Welcome in Tech
-* **Paula Alves** - How to contribute to open source software as a Python beginner, and why you should do it
-* **Marilenis Olivera Lee** - Victories and struggles of an Expat/Latina/Mom in Tech
+* **Paula Alves** - `How to contribute to open source software as a Python beginner, and why you should do it <https://docs.google.com/presentation/d/1Cn8c-GWqU5piHDnU93f6eu67v7SK-u8LPJ2UPx2Fj_0/edit#slide=id.gcb9a0b074_1_0>`__
+* **Marilenis Olivera Lee** - `Victories and struggles of an Expat/Latina/Mom in Tech <https://docs.google.com/presentation/d/1A8qdCoTZbdHRuw0z4a2JHyuNeJzI7pmVVoqyCkBq-kQ/edit#slide=id.gcb9a0b074_1_0>`__
 * **Ronald Lopez** - Using Pandas to better serve San Jose-Evergreen Community College District's diverse constituents.
 * **María García Herrero** - Is there life after a high-tech hiatus? Stories from a "rehabilitated" engineer
-* **Sandhya Devarajan** - Data Scraping in Python using the BeautifulSoup Module
-* **Linda Zhou** - Opportunities in business roles for women with a tech background  
+* **Sandhya Devarajan** - `Data Scraping in Python using the BeautifulSoup Module <https://docs.google.com/presentation/d/1s4qe4wZZ2Y0ZjjStCqcIcQMSGKcyGc9KYGxGglustL8/edit?usp=sharing>`__
+* **Linda Zhou** - `Opportunities in business roles for women with a tech background <https://drive.google.com/file/d/1_BF0VphUz42feasme9sgp7AWi3bwcTN1/view?usp=sharing>`__
 
 
 Location
