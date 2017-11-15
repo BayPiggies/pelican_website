@@ -44,16 +44,22 @@ I’ll also talk about what can go wrong with Airflow jobs, and how I came up wi
 I’m a former research scientist, self-taught Pythonista, and my current job title is Product Hacker at Oath, Inc. My team does prototyping for our DevOps, Engineering, and Product teams. What that usually means is a mix of data engineering (we often build our own data pipelines), data science, and product management.  
 
 
-Talk 2: Python Packaging for Machine Learning
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Talk 2: Practical Packaging for Machine Learning Solutions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Speaker:** Steven Cutting
 
 **Abstract**
 
-Do you have machine learning models written in Python that you would like to share with other people (e.g. clients, co-workers, etc.)? This talk will show you how easy it can be to create our own pip installable packages and extend the reach of your projects.
+In this talk we will cover the ways in which we can use Python's packaging tools
+and best practices in order to make sharing our machine learning solutions
+easier. We will cover the basics concepts and tools for Python packaging. Then
+we will introduce a few suggested schemes for how to package a machine learning
+project, followed by some tips and best practices. We will wrap up with a few additional concerns related to creating quality projects and packages.
 
-In this talk we will learn how to make a simple machine learning solution, written in Python, pip installable. Thus any users of our model who know how to use pip will have a much easier time getting it and its dependencies installed. The example machine learning solution that we will use provides a Python API so that it can be used in other Python programs. It also provides scripts that will be made available to the user when the package is installed using pip. We will cover how to package not only the code but a fitted model as well. 
+
+A good precursor to the talk is a blog that I wrote as a companion to this talk. It can be found at
+`blog.stevencutting.com <http://blog.stevencutting.com/notes/practical-packaging-for-machine-learning-solutions>`__.
 
 **Author Bio**
 
