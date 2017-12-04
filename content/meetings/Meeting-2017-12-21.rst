@@ -1,0 +1,61 @@
+Thursday, December 21st, 2017 Meeting
+######################################
+
+:date: 2017-12-21 19:00
+:modified: 2017-12-04 11:00
+:tags: meeting, special-guest
+:category: meetings
+:slug: meeting-2017-12-21
+:summary: Special Guest: Zvezdan Petkovic
+:save_as: index.html
+:url:
+
+Special Guest: Zvezdan Petkovic
+===============================
+
+
+Register via Meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/242072372/" data-event="242072372" class="mu-rsvp-btn">RSVP</a>
+
+Due to the Christmas holiday, we will have our December meeting a
+week earlier than usual, on Thursday December 21.
+
+This, month, we have a special guest, Zvezdan Petkovic.
+
+Bringing Python 3 to LinkedIn
+-----------------------------
+
+Abstract
+~~~~~~~~
+Organizations keep finding excuses to stay on Python 2, especially large companies with a lot of legacy code. Developers in such organizations either require or could benefit from Python 3 features, such as asyncio or type checking, but are constrained by their environment. It does not have to be that way and you can move to Python 3 with careful planning and agile, incremental execution.
+
+We present the comprehensive case study of enabling Python 3 development in a large company. The talk covers all the stages of the process. We start with the initial motivation, goals, and possible solutions. Then, we go into the specifics of the design for infrastructure changes necessary to make the migration possible. After, we discuss the execution and the decision making process for resolving challenges or trade-offs. We talk about multi-version testing, conditional dependencies, build, continuous integration, and automation. We describe possible ways to resolve platform, dependency, and code base issues. In the end, we'll look into the porting of the specific code patterns and future development.
+
+Author Bio
+~~~~~~~~~~
+Zvezdan currently works at LinkedIn on the Python Foundation Team. He taught Python at University of Mary Washington and then worked for Zope Corporation where he led a team that developed one of its most important products. He also worked on and maintained dozens of packages for the open-source Zope web framework. These days, he contributes to PyGradle -- the open-source Python build tool developed by his team at LinkedIn. Zvezdan had presented at international conferences and internal company tech talks on various topics from microprocessor design to distributed file systems to troubleshooting Python applications. 
+
+
+Location
+--------
+LinkedIn, Unify Meeting Room
+`950 W. Maude Ave, Sunnyvale <https://goo.gl/maps/AeHyy41TCqj>`__.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:15 pm Talk starts
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+

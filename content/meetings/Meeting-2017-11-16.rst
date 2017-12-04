@@ -7,22 +7,10 @@ Thursday, November 16th, 2017 Meeting
 :category: meetings
 :slug: meeting-2017-11-16
 :summary: Data Science Night
-:save_as: index.html
-:url:
+
 
 Data Science Night
 ==================
-
-
-Register via Meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/242072331/" data-event="242072331" class="mu-rsvp-btn">RSVP</a>
-
-Due to the Thanksgiving holiday, we will have our November meeting a
-week earlier than usual, on Thursday November 16.
-
 This month, we will have two exciting talks on data science / engineering topics.
 
 Talks
@@ -57,9 +45,9 @@ easier. We will cover the basics concepts and tools for Python packaging. Then
 we will introduce a few suggested schemes for how to package a machine learning
 project, followed by some tips and best practices. We will wrap up with a few additional concerns related to creating quality projects and packages.
 
+Steve has made the slides from the talk and an associated blog post available on
+github `here <https://github.com/steven-cutting/practical-ml-pkg-talk>`__.
 
-A good precursor to the talk is a blog that I wrote as a companion to this talk. It can be found at
-`blog.stevencutting.com <http://blog.stevencutting.com/notes/practical-packaging-for-machine-learning-solutions>`__.
 
 **Author Bio**
 
