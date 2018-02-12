@@ -1,0 +1,67 @@
+Thursday, February 22nd, 2018 Meeting
+######################################
+
+:date: 2018-02-22 19:00
+:modified: 2017-02-12 11:00
+:tags: meeting, infrastructure
+:category: meetings
+:slug: meeting-2018-02-22
+:summary: Web Infrastructure Night
+:save_as: index.html
+:url:
+
+Web Infrastructure Night
+========================
+
+
+Register via Meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/246365210/" data-event="246365210" class="mu-rsvp-btn">RSVP</a>
+
+Topic
+-----
+For February, we will have two talks on web application infrastructure:
+
+* Moshe Zadka on "The NColony Process Supervisor"
+* Dinesh Joshi on "Designing fast and scalable Python MicroServices with django"
+
+Location
+--------
+LinkedIn, Unify Meeting Room
+`950 W. Maude Ave, Sunnyvale <https://goo.gl/maps/AeHyy41TCqj>`__.
+
+
+Details
+-------
+1. The NColony Process Supervisor
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Speaker:** Moshe Zadka
+
+NColony is a process supervisor. I will detail the design choices made it NColony, and how they differ from other process supervisors: how to run processes, what frameworks to choose, and how to support configuration -- and dynamic reconfiguration. Then I will show how to use NColony in several common cases, including several strategies of integrating it into a Docker container build -- and the trade-offs between them.
+
+Speaker Bio: Moshe has been part of the open source community since 1995, when he first helped people install Linux, part of the Python community since 1998, when he first argued with Guido about Python and a core contributor to Twisted since its inception in 2001 -- when a comment about how to implement protocols and transport got him roped into maintaining the Protocol class for a few years. He has been speaking at conferences since 2002 -- the International Python Conference, EuroPython, PyCon, PyBay and PyTexas, as well as multiple meetups.
+
+2. Designing fast and scalable Python MicroServices with django
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Speaker:** Dinesh Joshi
+
+Django, combined with the django REST framework, makes it very easy to build RESTful MicroServices. However, django is perceived to have some overhead making it hard to build fast and scalable MicroServices. This talk shows you how to squeeze the last bit of performance from django. We will focus on django’s key architectural components and the right way to use them. Using profiling, we will identify bottlenecks and fix them enabling you to build scalable RESTful services that play to django’s strengths. At the end of the talk you will have a good handle on building scalable MicroServices with django.
+
+**Speaker Bio:** Dinesh A. Joshi has been a professional Software Engineer for over a decade building highly scalable realtime Web Services and Streaming Data Processing Architectures serving over 1 billion devices. He started his career with Python & C++. He has used Python for over a decade for professional as well as personal side projects. Dinesh has a Masters degree in Computer Science from Georgia Tech, Atlanta.
+
+Schedule
+--------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:15 pm Talks start
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+
