@@ -23,14 +23,29 @@ Register via Meetup.com here:
 
 Topic
 -----
-This month, we will have two topics:
+For March, we have a great lineup: two PyCon preview talks and an beginners' talk on Python packaging.
 
-* A beginner-level talk on packaging by David Lambert
-* PyCon speakers will give practice talks
+1. A Bit about Bytes: Understanding Python Bytecode by James Bennett
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+At some point every Python programmer sees Python bytecode files -- they're those '.pyc' files Python likes to leave behind after it runs. But have you ever wondered what's really going on in those files? Well, wonder no more! In this talk you'll learn what Python bytecode is and how it's used to execute your code, as well as how to decipher and read it, and how to reason about bytecode to understand the performance of your Python code.
 
-We are still have speaker slots open for the PyCon part, for both formal talks or lightning
-talks. This is a great opportunity to practice
-in front of a live audience. Contact us if you are interested.
+**Speaker Bio** James is a philosopher turned web geek. Django core. Currently with the engineering team at Clover Health, trying to make health insurance better.
+
+2. A practical guide to Singular Value Decomposition in Python by Daniel Pyrathon
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Recommender systems have become increasingly popular in recent years, and are used by some of the largest websites in the world to predict the likelihood of a user taking an action on an item. In the world of Netflix, this means recommending similar movies to the ones you have seen. In the world of dating, this means suggesting matches similar to people you already showed interest in!
+
+My path to recommenders has been an unusual one: from a Software Engineer to working on matching algorithms at a dating company, with a little background on machine learning. With my knowledge of Python and the use of basic SVD (Singular Value Decomposition) frameworks, I was able to understand SVDs from a practical standpoint of what you can do with them, instead of focusing on the science.
+
+In my talk, you will learn 2 practical ways of generating recommendations using SVDs: matrix factorization and item similarity. We will be learning the high-level components of SVD the "doer way": we will be implementing a simple movie recommendation engine with the help of Jupiter notebooks, the MovieLens database, and the Surprise recommendation package.
+
+**Speaker Bio** Daniel is a Senior Machine Learning Engineer at Coffee Meets Bagel. In his spare time, Daniel helps organize SF Python, one of the biggest Python meetups in the Bay Area where he helps numerous new and experienced developers learn about Python and in turn land jobs at well-known tech companies. Daniel has been involved in the Python community since 2014 and has been invited as a guest speaker at Pycon Italy, many Bay Area meetups, and PyBay.
+
+3. Python Packaging for Beginners by David Lambert
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+An overview of packaging in Python. I will describe how to create a package and place it online.
+
+**Speaker Bio** After graduate school in Physics, David went into software and has extensive experience as a tech support engineer. He has taken programming and computer science classes, and is looking for an entry-level developer position.
 
 Location
 --------
@@ -42,8 +57,8 @@ Schedule
 Meeting Schedule:
 
 * 7:00 pm Food and Announcements
-* 7:15 pm Talks start
-* 8:30 pm Networking
+* 7:05 pm Talks start
+* 8:40 pm Networking
 * 9:00 pm Event ends
 
 
