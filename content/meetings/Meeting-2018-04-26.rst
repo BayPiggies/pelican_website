@@ -1,0 +1,48 @@
+Thursday, April 26th, 2018 Meeting
+######################################
+
+:date: 2018-04-26 19:00
+:modified: 2018-04-05 15:00
+:tags: meeting, special-guest
+:category: meetings
+:slug: meeting-2018-04-26
+:summary: Special Guest: Brian Granger
+:save_as: index.html
+:url:
+
+Special Guest: Brian Granger
+============================
+
+Register via Meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/247080193/" data-event="247080193" class="mu-rsvp-btn">RSVP</a>
+
+
+Topic
+-----
+
+This month, we have a special guest, Brian Granger.
+
+Brian Granger is a Physics Professor at Cal Poly San Luis Obispo. He is the co-creator of Project Jupyter, the widely used open-source interactive notebook application, and Altair, a statistical visualization library for Python. He is an advocate for open-science, open-data and open-source software.
+
+Location
+--------
+LinkedIn, Unify Meeting Room
+`950 W. Maude Ave, Sunnyvale <https://goo.gl/maps/AeHyy41TCqj>`__.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:15 pm Talk starts
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
