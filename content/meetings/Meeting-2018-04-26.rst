@@ -25,6 +25,27 @@ Topic
 
 This month, we have a special guest, Brian Granger.
 
+Project Jupyter for User-Centered Data Science
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Abstract**
+Project Jupyter is an open-source project that exists to develop
+software, open standards, and services for interactive and
+reproducible computing. The main application developed by the project
+is the Jupyter Notebook, a web-application that allows users to create
+documents that combine live code with narrative text, mathematical
+equations, and visualizations. Since its creation in 2011, the Jupyter
+Notebook has become a widely-used, open standard for developing,
+sharing, communicating, and reproducing computational work in
+scientific computing and data science.
+
+In this talk I will discuss how Jupyter emerged out of Python’s
+scientific computing community and describe the main ideas upon which
+Jupyter is founded, along with their motivation and concrete examples
+of how they work out in practice. These examples will be drawn from
+the broader usage of Jupyter, as well ongoing work on JupyterLab,
+JupyterHub, Altair and Binder.
+
+**Speaker Bio**
 Brian Granger is a Physics Professor at Cal Poly San Luis Obispo. He is the co-creator of Project Jupyter, the widely used open-source interactive notebook application, and Altair, a statistical visualization library for Python. He is an advocate for open-science, open-data and open-source software.
 
 Location
