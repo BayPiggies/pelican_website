@@ -1,0 +1,76 @@
+Thursday, May 24th, 2018 Meeting
+######################################
+
+:date: 2018-05-24 19:00
+:modified: 2018-05-11 15:00
+:tags: meeting, data-science
+:category: meetings
+:slug: meeting-2018-04-26
+:summary: Apache Beam and Quantum Computing
+:save_as: index.html
+:url:
+
+
+============================
+
+Register via Meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/247419719/" data-event="247419719" class="mu-rsvp-btn">RSVP</a>
+
+
+Topic
+-----
+
+Come to BayPiggies this month and learn about Apache Beam and Quantum Computing! We'll have two
+exciting talks...
+
+Apache Beam
+~~~~~~~~~~~
+**Speaker:** María García Herrero
+
+Apache Beam is an open source, unified model for defining both batch and streaming 
+data-parallel processing pipelines. First Java, then Python, now also SQL — all SDKs to define 
+a workflow that can be executed in a variety of distributed processing back-ends (a.k.a. runners). 
+Come learn the basics of the language, model, and project.
+
+**Speaker Bio**
+María García Herrero is a software engineer that has a fierce enthusiasm for technology, learning, and innovation.
+Working at Google, she specializes in Apache Beam and, in particular, the Python SDK.
+She describes her job as being able to, "See an idea grow into an actual tool that solves real-life problems."
+María is active in the local tech community, including
+`Women Who Code Silicon Valley <https://www.womenwhocode.com/sv>`_. She gave an inspiring talk about
+her career and life experiences at the BayPiggies October 2017 meeting.
+
+
+Python for the quantum computing age
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Speaker:** Ravi Chityala
+
+Quantum computers are slowly turning in to reality more than 30 years after they were first theorized. The need for quantum computers have become clear as we reach the limits of Moore’s law and yet we need more computational power. We are at a very early stage of quantum computing. Yet Python is slowly becoming a defacto language for programming quantum computers.
+
+In this talk, we will discuss the difference a traditional computer and a quantum computer. We will learn about the two architectures namely Quantum annealing and Quantum gate. Finally, we will learn to program quantum computers using Python.
+
+**Speaker Bio**
+Dr. Ravi Chityala is a Senior Engineer at Elekta Inc. He has more than 12 years of experience in image processing and scientific computing. He is also a part time instructor at the University of California Santa Cruz, Silicon Valley Extension, Santa Clara, CA, where he teaches advanced Python to programmers. He uses Python for web development, scientific prototyping and computing and as a glue to automate process.
+
+Location
+--------
+LinkedIn, Unify Meeting Room
+`950 W. Maude Ave, Sunnyvale <https://goo.gl/maps/AeHyy41TCqj>`__.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:10 pm Talks start
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
