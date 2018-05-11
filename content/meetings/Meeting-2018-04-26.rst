@@ -7,18 +7,9 @@ Thursday, April 26th, 2018 Meeting
 :category: meetings
 :slug: meeting-2018-04-26
 :summary: Special Guest: Brian Granger
-:save_as: index.html
-:url:
 
 Special Guest: Brian Granger
 ============================
-
-Register via Meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/247080193/" data-event="247080193" class="mu-rsvp-btn">RSVP</a>
-
 
 Topic
 -----
