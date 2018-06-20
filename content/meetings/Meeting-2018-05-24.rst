@@ -7,17 +7,9 @@ Thursday, May 24th, 2018 Meeting
 :category: meetings
 :slug: meeting-2018-05-24
 :summary: Apache Beam and Quantum Computing
-:save_as: index.html
-:url:
 
 
 ============================
-
-Register via Meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/247419719/" data-event="247419719" class="mu-rsvp-btn">RSVP</a>
 
 
 Topic
