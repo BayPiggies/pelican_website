@@ -1,0 +1,69 @@
+Thursday, July 26th, 2018 Meeting
+######################################
+
+:date: 2018-07-26 19:00
+:modified: 2018-07-18 09:00
+:tags: meeting, data-quality
+:category: meetings
+:slug: meeting-2018-07-26
+:summary: Data Quality Night
+:save_as: index.html
+:url:
+
+Data Quality Night
+==================
+
+Register via Meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/251999649/" data-event="251999649" class="mu-rsvp-btn">RSVP</a>
+
+
+Details
+------------------
+For July, we will have two talks on test automation from Derek Sisson and Glen Jarvis. Come join us to learn about how to automate your tests and then the execution of these tests. It will be a fun and informative evening!
+
+1. Building a functional and end-to-end test automation framework with PyTest.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+For a test or quality assurance team, test automation requires a test framework external to the product code base. I will demonstrate how to build a simple, light-weight test framework built as a stand-alone python project, using the pytest test runner, some application wrappers, and custom business logic models.
+
+*Speaker Bio:*
+
+Derek Sisson has led software quality assurance and test teams for twenty years here in the bay area. Over the last ten years he has built a double-handful of custom test automation frameworks in python with pytest, most recently an end-to-end test framework for DNA synthesis and manufacturing at a San Francisco biotech startup.
+
+2. Automating your test automation with TravisCI
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+After you have a testing framework, you will want to automate that testing framework so that it runs every time new code is submitted. It's better to automate than to rely on project contributors to remember to run the tests every time.
+
+TravisCI is incredibly easy to setup to run automated testing. We will review GitHub repositories, Pull Requests, and how automatic tests run each time against a Pull Request. We then will configure TravisCI to do the the same thing in addition to running your tests for every branch.
+
+*Speaker Bio:*
+
+Glen has worked for companies such as IBM, Informix, UC-Berkeley, Sprint and many Silicon Valley Start-ups. He has worked in the fields of DevOps, Databases, Data Science, Bioinformatics and Web Technologies. He has been exclusively working in DevOps the past four years. He has been programming in the Python programming language for over 10 years. And, he has been certified in Linux/Unix administration by UC-Berkeley. He is also certified in MongoDB as developer and administrator. Before that, he gained the highest certification available for Informix database administration and supported administrators. He is currently working on his Amazon AWS certification.
+
+Glen is currently putting the "Dev" in "DevOps" using Ansible and Python. He additionally owns a training and consulting company, Glen Jarvis Training & Consulting, LLC that mentors budding programmers and DevOps engineers. His current project is creating a Coursera course for the University of California on how to master Git to the level needed by DevOps and release engineers. Glen has just been selected to teach the Lean Startup Course at the San Francisco Renaissance Entrepreneurship Center in San Francisco starting in August.
+
+Some of his past training Videos include How to create a free AWS instance, Ansible Hands-On Training and An introduction to Test Driven Development. He has also been an open source contributor and a member and co-organizer of the Bay Area Python Interest Group, Silicon Valley Python MeetUp, and Learn about Amazon Web Services MeetUp.
+
+Location
+--------
+LinkedIn, Unify Meeting Room
+`950 W. Maude Ave, Sunnyvale <https://goo.gl/maps/AeHyy41TCqj>`__.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:10 pm Talks start
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>

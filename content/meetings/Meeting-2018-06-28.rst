@@ -7,18 +7,9 @@ Thursday, June 28th, 2018 Meeting
 :category: meetings
 :slug: meeting-2018-06-28
 :summary: Special Guest: Guido van Rossum
-:save_as: index.html
-:url:
 
 Special Guest: Guido van Rossum
 ===============================
-
-Register via Meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/251058496/" data-event="251058496" class="mu-rsvp-btn">RSVP</a>
-
 
 BDFL Python 3 retrospective
 ---------------------------
@@ -47,6 +38,3 @@ Meeting Schedule:
 * 9:00 pm Event ends
 
 
-.. raw:: html
-
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
