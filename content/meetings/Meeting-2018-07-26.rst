@@ -7,19 +7,9 @@ Thursday, July 26th, 2018 Meeting
 :category: meetings
 :slug: meeting-2018-07-26
 :summary: Data Quality Night
-:save_as: index.html
-:url:
 
 Data Quality Night
 ==================
-
-Register via Meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/251999649/" data-event="251999649" class="mu-rsvp-btn">RSVP</a>
-
-
 Details
 ------------------
 For July, we will have two talks on test automation from Derek Sisson and Glen Jarvis. Come join us to learn about how to automate your tests and then the execution of these tests. It will be a fun and informative evening!
@@ -63,7 +53,3 @@ Meeting Schedule:
 * 8:30 pm Networking
 * 9:00 pm Event ends
 
-
-.. raw:: html
-
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
