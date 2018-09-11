@@ -7,19 +7,11 @@ Thursday, August 23rd, 2018 Meeting
 :category: meetings
 :slug: meeting-2018-08-23
 :summary: Introduction to Deep Learning and TensorFlow
-:save_as: index.html
-:url:
 
 Introduction to Deep Learning and TensorFlow
 ============================================
 This month, we will have a machine learning talk from **Oswald Campesato**.
 
-
-Register via Meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/252005411/" data-event="252005411" class="mu-rsvp-btn">RSVP</a>
 
 Talk Description
 ----------------
@@ -45,6 +37,3 @@ Meeting Schedule:
 * 9:00 pm Event ends
 
 
-.. raw:: html
-
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
