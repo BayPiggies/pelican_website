@@ -1,0 +1,61 @@
+Thursday, October 25th, 2018 Meeting
+######################################
+
+:date: 2018-10-25 19:00
+:modified: 2018-10-20 18:00
+:tags: meeting, data-science
+:category: meetings
+:slug: meeting-2018-10-25
+:summary: Data Science Night: Social Power, Performance, and Influence in the NBA
+:save_as: index.html
+:url:
+
+Data Science Night: Social Power, Performance, and Influence in the NBA
+=======================================================================
+This month, we will have a talk on a data science application by Noah Gift, noted author, lecturer, and consultant.
+
+
+Register via Meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/253961987/" data-event="253961987" class="mu-rsvp-btn">RSVP</a>
+
+Abstract
+--------
+As the first technical employee and CTO of Sqor Sports, Noah Gift discovers how social media influences the NBA and vice versa. As a result, Sqor Sports has been able to grow to millions of monthly active users by leveraging influencers that were found by machine learning algorithms.
+
+Noah shares his research and lessons learned on how social media and
+the NBA intersect and explains how Sqor Sports uses data science and machine learning to determine NBA team valuation and attendance as well as individual player performance. You’ll learn how to recreate this research, working with a set of shared Juypter notebooks, also available in colab format.
+
+Topics include:
+
+* What drives the valuation of teams (attendance, the local real estate market, etc.)?
+* Does winning bring more fans to games?
+* Does salary correlate with social media performance?
+
+Speaker Bio
+-----------
+Noah Gift is lecturer and consultant at both UC Davis Graduate School of Management MSBA program and the Graduate Data Science program, MSDS, at Northwestern. He is teaching and designing graduate machine learning, AI, Data Science courses and consulting on Machine Learning and Cloud Architecture for students and faculty. These responsibilities including leading a multi-cloud certification initiative for students. He has published close to 100 technical publications including two books on subjects ranging from Cloud Machine Learning to DevOps. Gift received an MBA from UC Davis, a M.S. in Computer Information Systems from Cal State Los Angeles, and a B.S. in Nutritional Science from Cal Poly San Luis Obispo.
+
+He has worked in roles ranging from CTO, General Manager, Consulting CTO, Consulting Chief Data Scientists and Cloud Architect. This experience has been with a wide variety of companies including ABC, Caltech, Sony Imageworks, Disney Feature Animation, Weta Digital, AT&T, Turner Studios and Linden Lab. In the last ten years, he has been responsible for shipping many new products at multiple companies that generated millions of dollars of revenue and had global scale. Currently he is consulting startups and other companies, on Machine Learning, Cloud Architecture and CTO level consulting as the founder of Pragmatic AI Labs. His most recent book is Pragmatic AI: An introduction to Cloud-Based Machine Learning.
+
+Location
+--------
+LinkedIn, Unify Meeting Room
+`950 W. Maude Ave, Sunnyvale <https://goo.gl/maps/AeHyy41TCqj>`__.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:10 pm Talk starts
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
