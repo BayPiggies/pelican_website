@@ -1,0 +1,54 @@
+Thursday, November 15th, 2018 Meeting
+######################################
+
+:date: 2018-11-15 19:00
+:modified: 2018-11-15 09:00
+:tags: meeting, games
+:category: meetings
+:slug: meeting-2018-11-15
+:summary: Special Guest: Shannon -jj Behrens
+:save_as: index.html
+:url:
+
+Special Guest: Shannon -jj Behrens
+==================================
+This month, JJ will be giving two talks:
+
+1. Building Video Games for Fun with PyGame
+2. How to give a talk
+
+JJ is an excellent and insightful speaker, so don't miss out on this month's
+meeting just ahead of the holidays!
+
+Register via meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/255844458" data-event="255844458" class="mu-rsvp-btn">RSVP</a>
+
+Speaker Bio
+-----------
+Shannon -jj Behrens has been a member of the Python community since 2000 and a
+strong supporter of BayPiggies over the years. He currently is an architect at Udemy and has previously held senior engineering and evangelist roles at other prominent tech companies, including Twitter and Google. He maintains a popular blog at
+`www.jjinux.com <https://www.jjinux.com>`_ on a range of topics such as
+Python, JavaScript, Linux, open source software, the Web, and lesser-known programming languages.
+
+Location
+--------
+LinkedIn, Unify Meeting Room
+`950 W. Maude Ave, Sunnyvale <https://goo.gl/maps/AeHyy41TCqj>`__.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:10 pm Talk starts
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
