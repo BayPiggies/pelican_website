@@ -1,0 +1,73 @@
+Thursday, December 20th, 2018 Meeting
+######################################
+
+:date: 2018-12-20 19:00
+:modified: 2018-12-14 09:00
+:tags: meeting
+:category: meetings
+:slug: meeting-2018-12-20
+:summary: Beautiful Soup, Data Science for Good, and Grasping GraphQL
+:save_as: index.html
+:url:
+
+Beautiful Soup, Data Science for Good, and Grasping GraphQL
+===========================================================
+For December, we will have a lightning talk and two full talks:
+
+* **The Insider Scoop to Beautiful Soup** - Doug Purcell (lightning talk)
+* **Using Python and Data Science for Social Good** - Chris Brousseau
+* **Grasping GraphQL with Python** - Ahsan Zhahid
+
+There's something for everyone! Come join us!
+
+Note that the meeting is again a week early, due to the holidays.
+
+
+Register via meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/256531844" data-event="256531844" class="mu-rsvp-btn">RSVP</a>
+
+Location
+--------
+LinkedIn, Unify Meeting Room
+`950 W. Maude Ave, Sunnyvale <https://goo.gl/maps/AeHyy41TCqj>`__.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:10 pm Talks start
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+Lightning talk: The Insider Scoop to Beautiful Soup
+===================================================
+Web parsing is a sweet skill to have due to its tremendous application of use. In e-commerce it can be used to monitor competitor's prices, lawyers to find previous judgment of similar cases, recruiters to hunt for qualified candidates, web portals to aggregate news, PhDs for academic research, and digital marketers to synthesize data from social media profiles...that’s just scratching the surface! Let’s learn how to parse data using the free and powerful Beautiful Soup library. This is a 5-minute lightening talk so we’ll move fast, but at the end you should learned how to parse a HTML website for precise data.
+
+To get the most value out of this presentation:
+
+- Install PyCharm: http://bit.ly/2zW4wbK
+- Install BeautifulSoup4 library: http://bit.ly/2EkcpdO
+- Look over the GitHub to the presentation and download the sample HTML file: http://bit.ly/2Lk26Is
+
+**Speaker bio:** Doug Purcell is an indie software engineer and publisher located in SoCal. He enjoys software engineering, demystifying seemingly complicated subjects, and checking out cool tech offices in the bay area. He recently published a book "Become a Python Developer" that turns newbies into skilled Python developers.
+
+Full talk #1. Using Python and Data Science for Social Good
+===========================================================
+For a large European government agency, we are using data science to understand potential ways to improve how people with court ordered service requirements complete their obligations - and how the agency managing that long-term effort can operate more effectively. In this talk, we will do four things: 1) illustrate helpful EDA practices, 2) demonstrate how to build a python based system to use 3rd party API for validation and enrichment of source data. 3) distance and actual travel time estimates using live examples from the google-distance-matrix API, and 4) initial results with mapping libraries such as Folium and Google Maps.
+
+**Speaker bio:** Chris Brousseau is Founder and CEO of Surface Owl and a data scientist. Surface Owl is a SaaS-based visual decision engine built on Python. The platform improves high-value enterprise operations and certain complex decisions by using AI and advanced visualizations to augment human decision making. Prior to Surface Owl, Chris spent over 18 years at Accenture where he did business and systems consulting for global F1000 clients in many industries, and multiple roles in M&A, sales and commercial operations. On a personal note, Chris is a native Vermonter, an avid skier, and has lived in the Bay Area for over 20 years.
+
+Full talk #2: Grasping GraphQL with Python
+==========================================
+GraphQL is a query language that lets web clients more efficiently ask for data from servers. It's also a whole lot of fun! I'll be going over the basics of GraphQL, and building out a simple but informative example using Python GraphQL tools.
+
+**Speaker bio:** Ahsan Zhahid is a software developer native to the bay area. He's been a web developer until recently indulging in a childhood passion for mobile development.
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
