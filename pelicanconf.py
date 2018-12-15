@@ -41,6 +41,8 @@ DEFAULT_PAGINATION = 10
 STATIC_PATHS = ['images', 'pdfs']
 
 THEME='../pelican-themes/pelican-bootstrap3'
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+
 # SITELOGO='images/baypiggies.png'
 # SITELOGO_SIZE='381x88'
 BANNER_IMAGE='images/baypiggies.png'
@@ -54,13 +56,14 @@ TWITTER_USER='baypiggies'
 # The title of the article to be featured on the home page
 # FEATURED_ARTICLE = 'Thursday, November 17th, 2016 Meeting'
 
-TAG_FEED_ATOM = "feeds/tag_%s.atom.xml"
+TAG_FEED_ATOM = "feeds/tag-{slug}.atom.xml"
 MENUITEMS = [('Videos', '/tag/video.html')]
 
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = [
     'pin_to_top',
     'sitemap',
+    'i18n_subsites'
     ]
 
 SITEMAP = {
@@ -76,4 +79,5 @@ SITEMAP = {
 #         'pages': 'monthly'
 #     }
 }
+
 

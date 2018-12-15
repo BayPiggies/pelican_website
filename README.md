@@ -8,7 +8,9 @@ virtualenv venv
 . venv/bin/activate
 pip install pelican markdown typogrify
 
-git clone git@github.com:getpelican/pelican-themes.git
+~~git clone git@github.com:getpelican/pelican-themes.git~~
+Had to make my own version to get it to work with pelican 4.0.1
+git clone git@github.com:bdbaddog/pelican-themes.git
 git clone git@github.com:BayPiggies/pelican_website.git
 git clone --recursive https://github.com/getpelican/pelican-plugins
 
