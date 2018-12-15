@@ -7,8 +7,6 @@ Thursday, November 15th, 2018 Meeting
 :category: meetings
 :slug: meeting-2018-11-15
 :summary: Special Guest: Shannon -jj Behrens
-:save_as: index.html
-:url:
 
 Special Guest: Shannon -jj Behrens
 ==================================
@@ -20,11 +18,10 @@ This month, JJ will be giving two talks:
 JJ is an excellent and insightful speaker, so don't miss out on this month's
 meeting just ahead of the holidays!
 
-Register via meetup.com here:
+Slides from his talks:
 
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/255844458" data-event="255844458" class="mu-rsvp-btn">RSVP</a>
+* PyGame: http://bit.ly/pygame_talk
+* How to give a talk: http://bit.ly/give_a_talk
 
 Speaker Bio
 -----------
@@ -49,6 +46,3 @@ Meeting Schedule:
 * 9:00 pm Event ends
 
 
-.. raw:: html
-
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
