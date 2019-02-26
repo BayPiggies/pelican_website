@@ -1,0 +1,55 @@
+Thursday, February 28th, 2019 Meeting
+######################################
+
+:date: 2019-02-28 19:00
+:modified: 2019-02-25 18:00
+:tags: meeting,data-science
+:category: meetings
+:slug: meeting-2019-02-28
+:summary: Designing A/B tests using numerical simulations and Two Lightning Talks
+:save_as: index.html
+:url:
+
+Designing A/B tests using numerical simulations + Two Lightning Talks
+=====================================================================
+For February, we will have two lightning talks followed by a main **data science** talk. Come join us
+for an educational and fun evening!
+
+**Lightning talks:**
+
+1. *Python Slots vs Dynamically Created Class Attributes* by Gabor Meszaros
+2. *How to impress your Valentine using Python* by Brian Quinlan
+
+**Main Talk:** *Designing A/B tests using numerical simulations in Python and pandas* by Aaron Wiegel
+
+Register via meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/258308350" data-event="258308350" class="mu-rsvp-btn">RSVP</a>
+
+Location
+--------
+LinkedIn, Unify Meeting Room
+`950 W. Maude Ave, Sunnyvale <https://goo.gl/maps/AeHyy41TCqj>`__.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:10 pm Talks start
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+Main Talk Description
+=====================
+**Abstract:** Regardless of the application, calculating a particular statistic and associated p-value is not necessarily the biggest challenge in designing an A/B test or experiment, especially given the availability of open source software packages such as scipy and statsmodels in Python. Instead, ensuring that the assumptions required for a statistical test are actually satisfied by the data is far more challenging. Thankfully, with an existing data source, the sample method for a dataframe in pandas can be used to create simple numerical simulations to test these assumptions with real data. Using such numerical simulations, I discuss the fundamental concepts of sampling, statistical power, and experimental design in the context of my work as a data scientist at Synthego, a biotech manufacturing startup.
+
+**Biography:** Aaron Wiegel is a data scientist at Synthego, a biotech manufacturing startup. He obtained his PhD in physical chemistry from UC Berkeley where he first learned Python to create simulations of collisions between atoms and molecules using numpy and scipy. He now uses numerical simulations as a data scientist to help design experiments for an automated chemistry and biology laboratory. In addition to his professional work, Aaron also volunteers teaching community college math, statistics, and science courses to California state prison inmates. For fun, he brews his own beer at home, where he performs much tastier experiments than the lab.
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
