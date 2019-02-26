@@ -15,12 +15,6 @@ Join us for the first BayPiggies meetup in 2019! We will have two talks this mon
 1. **Omnibus as a Solution for Dependency Hell** by Aleksandr Kuzminsky
 2. **Clean Architecture with Python** by Jair Vercosa
 
-Register via meetup.com here:
-
-.. raw:: html
-
-  <a href="https://www.meetup.com/BAyPIGgies/events/257819623" data-event="257819623" class="mu-rsvp-btn">RSVP</a>
-
 Location
 --------
 LinkedIn, Unify Meeting Room
@@ -55,7 +49,3 @@ Speak or Volunteer
 We are still accepting applications to be a speaker this year. Just fill out this application form: https://goo.gl/forms/jH5OE0MSVkPwOTPr2
 
 We are also looking for volunteers to help us organize BayPiggies and maintain the website, etc. If you are interested, let us know here: https://goo.gl/forms/m4ldz7P8PQBlyPo42
-
-.. raw:: html
-
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
