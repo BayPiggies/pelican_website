@@ -1,0 +1,53 @@
+Thursday, March 28th, 2019 Meeting
+##################################
+
+:date: 2019-03-28 19:00
+:modified: 2019-03-01 10:00
+:tags: meeting,special-guest
+:category: meetings
+:slug: meeting-2019-03-28
+:summary: Special Guest: Alex Martelli (+ lightning talk)
+:save_as: index.html
+:url:
+
+Special Guest: Alex Martelli (+ lightning talk)
+===============================================
+For our March meeting, Alex will hold an extended Q&A. Ask him questions about Python, software engineering, Google Cloud, writing books, or anything else on your mind. We plan to gather about 50% of the questions in advance, so he has time to prepare for some of them. The rest of the questions will be asked by the live audience. If you have never seen a talk by Alex,
+you owe it to yourself to come hear him - he is a very engaging and insightful speaker! If you *have* seen a talk by Alex, then you know what we mean...
+
+Here is a form you can use to submit questions for Alex: https://goo.gl/forms/3dcXVdSNlYXleu8A2
+
+To add to the excitement, there will also be a lightning talk from Jayson DeLancey: **Visualizing 10M+ 3D Points with Point Processing Toolkit**.
+
+RSVP via meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/258372380" data-event="258372380" class="mu-rsvp-btn">RSVP</a>
+
+Location
+--------
+LinkedIn, Unify Meeting Room
+`950 W. Maude Ave, Sunnyvale <https://goo.gl/maps/AeHyy41TCqj>`__.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:10 pm Talks start
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+Bio of Alex Martelli
+=====================
+Alex Martelli has been programming for over thirty years, mainly in Python for the recent half of that time. He wrote the first two editions of Python in a Nutshell, and co-wrote the third one; he also co-authored the first two editions of the Python Cookbook. He’s a PSF Fellow, and won the 2002 Activators’ Choice Award and the 2006 Frank Willison Memorial Award for contributions to the Python community. He's active on Stackoverflow and a frequent speaker at technical conferences. He's been living in Silicon Valley with his wife and co-author Anna for fourteen years, and working at Google throughout this time, currently as Senior Staff Engineer leading "long tail" tech support for the Google Cloud Platform.
+
+Bio of Jayson DeLancey
+======================
+Jayson is a Senior Developer Evangelist / Advocate with HERE Technologies in Berkeley, CA where he focuses on the application of Location Technologies in software development.  Jayson has been a software engineer for the past 15+ years with development experience at companies including DreamWorks Animation (Shrek, Kung Fu Panda, How to Train Your Dragon), Rackspace (OpenStack), General Electric (Python SDK), and The MathWorks (MATLAB).
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
