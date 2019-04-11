@@ -1,0 +1,78 @@
+Thursday, April 25th, 2019 Meeting
+##################################
+
+:date: 2019-04-25 19:00
+:modified: 2019-04-10 10:00
+:tags: meeting
+:category: meetings
+:slug: meeting-2019-04-25
+:summary: April Meeting: Dependencies, Mocking, and ML Applications
+:save_as: index.html
+:url:
+
+April Meeting: Dependencies, Mocking, and ML Applications
+=========================================================
+We will have three great talks for our April meeting:
+
+1. Dependency hell: a library author's guide by Angela Li and Brian Quinlan
+2. ML Applications of Python by Glen Qin
+3. Mock Hell by Edwin Jung
+
+RSVP via meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/259872230" data-event="259872230" class="mu-rsvp-btn">RSVP</a>
+
+Location
+--------
+LinkedIn, Unify Meeting Room
+`950 W. Maude Ave, Sunnyvale <https://goo.gl/maps/AeHyy41TCqj>`__.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:10 pm Talks start
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+Dependency hell: a library author's guide by Angela Li and Brian Quinlan
+------------------------------------------------------------------------
+Python is known for its "batteries included" philosophy but no Python developer can live without the language's rich library ecosystem. Unfortunately, as the number of libraries increases, so does the risk of cross-library incompatibilities, or "dependency hell".
+
+Dependency hell arises when two libraries have mutually conflicting requirements. These can be very difficult for developers to diagnose and may not be fixable without avoiding certain libraries entirely.
+
+After this talk, you - the library author - will have a practical set of simple best practices to follow that will allow you to build libraries that are compatible across the Python ecosystem.
+
+This talk will be presented at PyCon US 2019.
+
+**Speaker Bios**
+Angela is a Software Engineer working at Google. She obtained her master degree in Information Systems Management from CMU. She joined the Python language team at Google right after graduated, in there she enjoys building runtimes, libraries and tools for Python developers.
+
+Brian is a software engineer who works on Python at Google. Right now
+he is trying to make Python the best supported language on Google's
+cloud. He likes threads not async, pizza not sushi and Coke, not
+Pepsi.
+
+ML Applications of Python by Glen Qin
+-------------------------------------
+Details TBD
+
+**Speaker Bio**
+Dr. Glen Qin got his Ph.D. degree from UC Berkeley in EECS, and have been working in the industry for about 20 years. The industrial experience at Silicon Valley has helped Dr. Qin always be at the cutting edge of the new technologies. He has been working for large companies, like AT&T, small startups, like Optimal Networks, and medium size company like Netgear. His industrial experience is mainly focused on Computer Networks, Internet of Things, Cloud Computing, big data, and AI. He started his career as a software engineer, and moved to engineering management, and product management gradually. In 2011, Dr. Qin and a few others founded California Science and Technology University (CSTU), and has been the president of the CSTU ever since.
+
+Mock Hell by Edwin Jun
+----------------------
+A common misconception is that mocks are just a tool for decoupling code under test. This, however, was never the original intention for mocking, which was born in deep OOP and TDD practices. Without such practices, mocks can easily be abused and create major technical debt, leading to “mock hell”. This session will demonstrate how such debt may be created, and cover potential remedies.
+
+This talk will be presented at PyCon US 2019.
+
+**Speaker Bio**
+Ed is a software engineer with experience across multiple complex domains, ranging from robotics, microservices, data engineering, and 3D simulation. His main interests are in product line architectures, domain modeling, and the intersection of technical and cultural aspects of building systems.
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
