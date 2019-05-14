@@ -1,0 +1,70 @@
+Thursday, May 23rd, 2019 Meeting
+################################
+
+:date: 2019-05-23 19:00
+:modified: 2019-05-14 10:00
+:tags: meeting
+:category: meetings
+:slug: meeting-2019-05-23
+:summary: May Meeting: Special Guest, Wesley Chun
+:save_as: index.html
+:url:
+
+May Meeting: Special Guest, Wesley Chun
+=======================================
+This month, Wesley Chun, author, Python Software Foundation Fellow, and
+Google Developer Advocate is speaking! He will show us how to accomplish various Google-related tasks using Google's APIs.
+
+
+RSVP via meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/260872440" data-event="260872440" class="mu-rsvp-btn">RSVP</a>
+
+Location
+--------
+LinkedIn, Unify Meeting Room
+`950 W. Maude Ave, Sunnyvale <https://goo.gl/maps/AeHyy41TCqj>`__.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:10 pm Talk starts
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+Exploring *More* Google APIs with Python
+----------------------------------------
+Back in Aug 2016 (`event <https://www.meetup.com/BAyPIGgies/events/228209050>`_,
+`video <https://www.youtube.com/watch?v=MsciHCZVV9A&feature=youtu.be>`_), I introduced developers to working with Google APIs using Python, demonstrating code samples for:
+
+* Listing the first 100 files & folders in your Google Drive
+* Querying YouTube for videos
+* Searching for Gmail threads with at least 2 msgs
+* Reading cells in a Google Sheet
+* Querying public posts in Google+
+* Creating events in Google Calendar
+
+Goals for that session: 1) show it's not as hard as it looks to use Google APIs, 2) show how several Google APIs work and 3) how to use them. Please skim the video if you missed that talk, as this month we'll keep the same goals but continue where we left off to look at APIs that were skipped last time (or didn't exist yet):
+
+* "Mail merge" real data into templates w/Google Docs & Slides
+* Formatting cells in Google Sheets
+* Importing spreadsheet data & charts into slides
+* Modifying your email signatures in Gmail
+* Modifying & recurring events in Google Calendar
+* Create Hangouts Chat bots to automate tasks or query for information
+
+Yes, it's true all these are G Suite APIs, but time-permitting, I'll demo some GCP APIs too, and even more importantly, use both Google Cloud product groups at the same time to leverage the best of both worlds.
+
+Speaker Bio
+~~~~~~~~~~~
+WESLEY CHUN (@wescpy) is the author of Prentice Hall's bestselling "Core Python" (corepython.com) series, co-author of "Python Web Development with Django" (withdjango.com), and has written for Linux Journal, CNET, and InformIT. In addition to being an engineer & Developer Advocate at Google and a host of the G Suite Dev Show (goo.gl/JpBQ40), he runs CyberWeb (cyberwebconsulting.com), a consultancy specializing in Python training. Wesley has over 25 years of programming, teaching, and writing experience, and was one of the original Yahoo!Mail engineers. He holds degrees in CS, Math, and Music from the University of California and is a Fellow of the Python Software Foundation.
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
