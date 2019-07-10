@@ -15,7 +15,7 @@ using Python, Microsoft Windows SAPI5 speech recognition,
 WebRTC microphone audio upload, GitLab Continuous Integration, 
 and Docker containers. Help provide an English pronunciation 
 tutoring system for enhancing our existing intelligibility 
-remediation system based onhttps://learningtech.org/speakclearly
+remediation system based on https://learningtech.org/speakclearly
 
 Compensation depends on experience; equity available.
 
