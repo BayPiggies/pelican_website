@@ -1,0 +1,36 @@
+Thursday, June 27th, 2019 Meeting
+##################################
+
+:date: 2019-06-27 19:00
+:modified: 2019-06-27 19:00
+:tags: meeting
+:category: meetings
+:slug: meeting-2019-06-27
+:summary: June Meeting: Cancelled
+
+June Meeting: Cancelled
+=========================================================
+Due to a speaker scheduling conflict, we were unable to have the June meeting.
+
+
+Location
+--------
+LinkedIn, Unify Meeting Room
+`950 W. Maude Ave, Sunnyvale <https://goo.gl/maps/AeHyy41TCqj>`__.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:10 pm Talks start
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+**Meeting cancelled**
+We were unable to have the June meeting and it was cancelled.
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
