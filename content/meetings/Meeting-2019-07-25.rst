@@ -11,7 +11,7 @@ Thursday, July 25th, 2019 Meeting
 :url:
 
 July Meeting: Designing an analytics database for scientific data using SQLAlchemy
-=========================================================
+===================================================================================
 
 RSVP via meetup.com here:
 
