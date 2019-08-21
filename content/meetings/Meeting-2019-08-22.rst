@@ -1,0 +1,100 @@
+Thursday, August 22th, 2019 Meeting
+###################################
+
+:date: 2019-08-22 19:00
+:modified: 2019-08-21 16:12
+:tags: meeting
+:category: meetings
+:slug: meeting-2019-08-22
+:summary: August Meeting: Debugging Google Services via Google API and PDB
+:save_as: index.html
+:url:
+
+August Meeting: Debugging Google Services via Google API and PDB
+================================================================
+
+RSVP via meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/264160722/" data-event="260872440" class="mu-rsvp-btn">RSVP</a>
+
+Location
+--------
+LinkedIn, Unify Meeting Room
+`950 W. Maude Ave, Sunnyvale <https://goo.gl/maps/AeHyy41TCqj>`__.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:10 pm Talks start
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+Debugging Google Services via Google API and PDB
+------------------------------------------------
+In May, we presented a wide exploration of Google APIs with Python.
+
+In this presentation, Dan Bikle presents a drill-down into some specific
+scripts which connect Python with Google services via Google APIs.
+
+The presentation will be targeted at people new to both Python and Google APIs.
+
+Using Python to interact with Google APIs is an effective way to learn both
+technologies.
+
+Each script will serve as a stand-alone lesson.
+
+To start, Dan will discuss each script from a general perspective.
+
+Then Dan will operate each script inside the Python pdb debugger to give you a
+look at how each line contributes action to an overall goal.
+
+Some topics we will cover are listed below:
+
+* Ubuntu as a training and development environment.
+* GCP Projects
+* Accessing an Ubuntu environment from a chrome browser.
+* Python installation.
+* Python packages
+* Installation of google-api-python-client
+* pdb
+* Google product categories
+* Google Drive
+* Google Sheets
+* GCP Service Accounts
+* Authentication + Authorization + JSON
+* Service Account Key creation
+* Google Drive + Python
+* Local-File read-write with Python
+* Python-Only Google Authentication
+* Declare Authorizations with Python
+* File upload to Google Drive
+* Python manipulation of Google Drive permissions:
+* * Make file world-readable
+* * Grant write-privilege to a gmail-address
+* List Sharable-URLs of files in Google Drive
+* Google Sheets + Python
+* Create a Sheet
+* Understand "A1 Notation"
+* Add rows to a Sheet
+* * Make Sheet world-readable
+* * Grant write-privilege to a gmail-address
+* Sheets are complicated, So is the API.
+* Let's explore the Sheets API.
+
+
+
+**Speaker Bio**
+Dan Bikle builds Full-Stack Machine-Learning Apps.
+Dan graduated from Caltech with a BSEE.
+There he learned: "The truth shall make you free."
+
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
