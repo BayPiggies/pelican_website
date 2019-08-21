@@ -7,7 +7,6 @@ Thursday, July 25th, 2019 Meeting
 :category: meetings
 :slug: meeting-2019-07-25
 :summary: July Meeting: Dependencies, Mocking, and ML Applications
-:save_as: index.html
 :url:
 
 July Meeting: Designing an analytics database for scientific data using SQLAlchemy
