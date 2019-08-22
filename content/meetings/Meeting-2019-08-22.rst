@@ -73,16 +73,20 @@ Some topics we will cover are listed below:
 * Python-Only Google Authentication
 * Declare Authorizations with Python
 * File upload to Google Drive
-* Python manipulation of Google Drive permissions:
-* * Make file world-readable
-* * Grant write-privilege to a gmail-address
+* Python manipulation of Google Drive permissions
+
+  * Make file world-readable
+  * Grant write-privilege to a gmail-address
+
 * List Sharable-URLs of files in Google Drive
 * Google Sheets + Python
 * Create a Sheet
 * Understand "A1 Notation"
 * Add rows to a Sheet
-* * Make Sheet world-readable
-* * Grant write-privilege to a gmail-address
+
+  * Make Sheet world-readable
+  * Grant write-privilege to a gmail-address
+
 * Sheets are complicated, So is the API.
 * Let's explore the Sheets API.
 
