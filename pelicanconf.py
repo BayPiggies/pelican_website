@@ -25,7 +25,7 @@ LINKS = (
 	# ('Meetup', 'https://www.meetup.com/BAyPIGgies/'),
          ('Python.org', 'http://python.org/'),
          ('Mailing List', 'https://mail.python.org/mailman/listinfo/baypiggies'),
-         # ('You can modify those links in your config file', '#')
+         ('Code of Conduct', '/code_of_conduct.html'),
         )
 
 # Social widget
