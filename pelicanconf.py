@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-# import os.path
 
 AUTHOR = u'Bay Area Python Interest Group (BAyPIGgies)'
 SITENAME = u'BayPIGgies Bay Area Python Interest Group'
@@ -22,11 +21,9 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-	# ('Meetup', 'https://www.meetup.com/BAyPIGgies/'),
-         ('Python.org', 'http://python.org/'),
-         ('Mailing List', 'https://mail.python.org/mailman/listinfo/baypiggies'),
-         # ('You can modify those links in your config file', '#')
-        )
+    ('Python.org', 'http://python.org/'),
+    ('Mailing List', 'https://mail.python.org/mailman/listinfo/baypiggies'),
+)
 
 # Social widget
 SOCIAL = (('BayPIGgies Meetup Group', 'http://www.meetup.com/BAyPIGgies/'),
@@ -36,7 +33,7 @@ SOCIAL = (('BayPIGgies Meetup Group', 'http://www.meetup.com/BAyPIGgies/'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
 STATIC_PATHS = ['images', 'pdfs']
 
@@ -79,5 +76,3 @@ SITEMAP = {
 #         'pages': 'monthly'
 #     }
 }
-
-
