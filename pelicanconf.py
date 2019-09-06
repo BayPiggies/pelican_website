@@ -21,9 +21,10 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ('Python.org', 'http://python.org/'),
-    ('Mailing List', 'https://mail.python.org/mailman/listinfo/baypiggies'),
-)
+         ('Python.org', 'http://python.org/'),
+         ('Mailing List', 'https://mail.python.org/mailman/listinfo/baypiggies'),
+         ('Code of Conduct', '/code_of_conduct.html'),
+        )
 
 # Social widget
 SOCIAL = (('BayPIGgies Meetup Group', 'http://www.meetup.com/BAyPIGgies/'),
