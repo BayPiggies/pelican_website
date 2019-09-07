@@ -1,12 +1,13 @@
+======================================
+ BayPIGgies: Code of Conduct
+======================================
+
+:title: Code of Conduct
 :date: 2019-09-05 15:00
-:modified: 2019-09-05 16:12
-:tags: code-of-conduct
 :category: Community
 :slug: code_of_conduct
 :summary: Code of Conduct
-:title: Code of Conduct
 :authors: Glen Jarvis
-:url:
 
 
 The Python community is made up of members from around the globe with a diverse

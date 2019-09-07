@@ -23,7 +23,6 @@ AUTHOR_FEED_RSS = None
 LINKS = (
          ('Python.org', 'http://python.org/'),
          ('Mailing List', 'https://mail.python.org/mailman/listinfo/baypiggies'),
-         ('Code of Conduct', '/code_of_conduct.html'),
         )
 
 # Social widget
@@ -48,14 +47,8 @@ BANNER_IMAGE='images/baypiggies.png'
 TWITTER_USER='baypiggies'
 # TWITTER_WIDGET_ID='598966848630169601'
 
-# The index.html page will be rendered from the featured.html template
-# in this directory.
-# TEMPLATE_PAGES = {os.path.join(os.path.dirname(__file__), 'featured.html'): 'index.html'}
-# The title of the article to be featured on the home page
-# FEATURED_ARTICLE = 'Thursday, November 17th, 2016 Meeting'
 
 TAG_FEED_ATOM = "feeds/tag-{slug}.atom.xml"
-MENUITEMS = [('Videos', '/tag/video.html')]
 
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = [
@@ -66,14 +59,11 @@ PLUGINS = [
 
 SITEMAP = {
     'format': 'txt',
-#     'priorities': {
-#         'articles': 0.5,
-#         'indexes': 0.5,
-#         'pages': 0.5
-#     },
-#     'changefreqs': {
-#         'articles': 'monthly',
-#         'indexes': 'daily',
-#         'pages': 'monthly'
-#     }
 }
+
+
+MENUITEMS = [('Videos', '/tag/video.html')]
+DISPLAY_CATEGORIES_ON_MENU = True
+DISPLAY_THESE_CATEGORIES = ['Community']
+DISPLAY_PAGES_ON_MENU=True
+PAGE_PATHS = ['pages']
