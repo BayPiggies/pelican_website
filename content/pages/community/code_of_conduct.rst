@@ -27,7 +27,7 @@ Members of the community are open to collaboration, whether it's on PEPs,
 patches, problems, or otherwise. We're receptive to constructive comment and
 criticism, as the experiences and skill sets of other members contribute to the
 whole of our efforts. We're accepting of all who wish to take part in our
-activities, fostering an environment where anyone can participat<e and everyone
+activities, fostering an environment where anyone can participate and everyone
 can make a difference.
 
 Considerate
