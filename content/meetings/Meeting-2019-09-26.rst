@@ -35,6 +35,7 @@ Meeting Schedule:
 
 Pigs, Pythons and Goats: The Animal Guide to TDD
 ------------------------------------------------
+
 There are often many buzzwords that are used incorrectly and abused. Often
 people hear about Test Driven Development (TDD) and think this is just a term
 that means "Testing your code." Although Testing your code is important, Test
@@ -58,6 +59,7 @@ of slides with Python code.
 
 
 **Speaker Bio**
+
 Glen Jarvis has worked for companies such as IBM, Informix, UC-Berkeley, Sprint
 and many Silicon Valley Start-ups. He has worked in the fields of DevOps,
 Databases, Data Science, Bioinformatics and Web Technologies.
