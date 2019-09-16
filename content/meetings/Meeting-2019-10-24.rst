@@ -7,7 +7,6 @@ Thursday, October 24th, 2019 Meeting
 :category: meetings
 :slug: meeting-2019-10-24
 :summary: October Meeting: Statistical analysis of complex networks using NetworkX with applications
-:url:
 
 October Meeting: Statistical analysis of complex networks using NetworkX with applications
 ==========================================================================================

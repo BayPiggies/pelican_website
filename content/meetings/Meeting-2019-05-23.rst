@@ -7,7 +7,6 @@ Thursday, May 23rd, 2019 Meeting
 :category: meetings
 :slug: meeting-2019-05-23
 :summary: May Meeting: Special Guest, Wesley Chun
-:url:
 
 May Meeting: Special Guest, Wesley Chun
 =======================================
