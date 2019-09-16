@@ -1,0 +1,58 @@
+Thursday, October 24th, 2019 Meeting
+####################################
+
+:date: 2019-10-24 19:00
+:modified: 2019-09-16 11:44
+:tags: meeting
+:category: meetings
+:slug: meeting-2019-10-24
+:summary: October Meeting: Statistical analysis of complex networks using NetworkX with applications
+:url:
+
+October Meeting: Statistical analysis of complex networks using NetworkX with applications
+==========================================================================================
+
+RSVP via meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/264236536/" data-event="260872440" class="mu-rsvp-btn">RSVP</a>
+
+Location
+--------
+TBD
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:10 pm Talks start
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+Statistical analysis of complex networks using NetworkX with applications
+-------------------------------------------------------------------------
+Networks can be used to model many types of relations and processes in
+physical, biological, social and information systems. Many practical problems
+can be represented by networks, also called graphs.  This tutorial will first
+go over the basic building blocks of graphs (nodes, edges, paths, etc) and
+common methods to get data structures into NetworkX-compatible format.  Then,
+we can solve common problems like shortest-path on a real graph, and less
+common ones, like implementing PageRank on a directed network to get PageRank
+of each node in the network.
+
+
+**Speaker Bio**
+Lisa is a Data Scientist at Lagrangian.io, a startup focused on the use of
+Terraform modules for backend services optimization.  Previously, she was a
+bioinformatician with Geisinger Health System working on large-scale genomics
+applications related to human health outcomes.  She earned her MS in
+Bioinformatics at SoongSil University in Korea where she worked on chemical
+analysis methods for simulated chemical structure (QSAR/QSPR) in Python.
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
