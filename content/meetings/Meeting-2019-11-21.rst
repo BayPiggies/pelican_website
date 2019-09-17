@@ -1,0 +1,55 @@
+Thursday, November 21th, 2019 Meeting
+#####################################
+
+:date: 2019-11-21 19:00
+:modified: 2019-09-17 12:01
+:tags: meeting
+:category: meetings
+:slug: meeting-2019-11-21
+:summary: November Meeting: Interactive Python Visualizations with Bokeh
+
+
+November Meeting: Interactive Python Visualizations with Bokeh
+==============================================================
+
+RSVP via meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/264236536/" data-event="260872440" class="mu-rsvp-btn">RSVP</a>
+
+Location
+--------
+TBD
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:10 pm Talks start
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+Statistical analysis of complex networks using NetworkX with applications
+-------------------------------------------------------------------------
+
+Effective data visualization is critical to communicating results, and as
+developers we are always looking to save time and write more clear code. All
+projects use static graphs, and we see growing interest in interactive
+visualizations that help us find insights difficult to see in static graphics.
+Data science projects often use the foundational library Matplotlib which is
+awesome but very complicated and sometimes hard to understand. In this talk,
+we'll touch on Matplotlib and use a more modern library - Bokeh - to create
+static and interactive visualizations.
+
+
+**Speaker Bio**
+
+Christopher Brousseau
+
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
