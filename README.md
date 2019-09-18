@@ -43,6 +43,7 @@ order to force the meeting to show up both on the front page as well as
 in the meetings tab:
 
 * **save_as** - Set this to *index.html*
+* **url** - Leave this blank
 
 Here is an example:
 
