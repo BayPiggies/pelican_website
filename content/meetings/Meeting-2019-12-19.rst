@@ -15,7 +15,7 @@ RSVP via meetup.com here:
 
 .. raw:: html
 
-  <a href="https://www.meetup.com/BAyPIGgies/events/264236536/" data-event="260872440" class="mu-rsvp-btn">RSVP</a>
+  <a href="https://www.meetup.com/BAyPIGgies/events/265152603/" data-event="260872440" class="mu-rsvp-btn">RSVP</a>
 
 Location
 --------
