@@ -39,7 +39,7 @@ Combining compiling technology with AI / Also GitPython and cProfile Packages
 -----------------------------------------------------------------------------
 
 Everything in software development is a type of automation, from timecards
-stamps to sorting clients’ last name. Compilers are the most powerful softwares
+stamps to sorting clients’ last name. Compilers are the most powerful software
 that have virtually revolutionized the reality of software advancement. These
 automators liberate us from dealing with registers, thus allowing us to work on
 a bigger scale. They provide room for higher-level languages, bug and dead-code
