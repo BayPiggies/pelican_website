@@ -6,11 +6,11 @@ Thursday, September 26th, 2019 Meeting
 :tags: meeting
 :category: meetings
 :slug: meeting-2019-09-26
-:summary: September Meeting: Pigs, Pythons and Goats: The Animal Guide to TDD
+:summary: September Meeting: Combining compiling technology with AI / Also GitPython and cProfile Packages
 :save_as: index.html
 
-September Meeting: Pigs, Pythons and Goats: The Animal Guide to TDD
-===================================================================
+September Meeting: Combining compiling technology with AI / Also GitPython and cProfile Packages
+================================================================================================
 
 RSVP via meetup.com here:
 
@@ -20,7 +20,10 @@ RSVP via meetup.com here:
 
 Location
 --------
-TBD
+
+LinkedIn Corporation, Unify Meeting Room
+950 West Maude Ave
+Sunnyale, CA
 
 
 Meeting Details
@@ -28,46 +31,48 @@ Meeting Details
 Meeting Schedule:
 
 * 7:00 pm Food and Announcements
-* 7:10 pm Talks start
+* 7:15 pm Talks start
 * 8:30 pm Networking
 * 9:00 pm Event ends
 
-Pigs, Pythons and Goats: The Animal Guide to TDD
-------------------------------------------------
+Combining compiling technology with AI / Also GitPython and cProfile Packages
+-----------------------------------------------------------------------------
 
-There are often many buzzwords that are used incorrectly and abused. Often
-people hear about Test Driven Development (TDD) and think this is just a term
-that means "Testing your code." Although Testing your code is important, Test
-Driven Development is a special paradigm that is often used in certain
-companies.
+Everything in software development is a type of automation, from timecards
+stamps to sorting clients’ last name. Compilers are the most powerful software
+that have virtually revolutionized the reality of software advancement. These
+automators liberate us from dealing with registers, thus allowing us to work on
+a bigger scale. They provide room for higher-level languages, bug and dead-code
+detection, and optimized implementations impossible by human capabilities.
 
-After this talk, you may decide that full Test Driven Development (TDD) isn’t
-for you (or, it may be a turning point for you). Regardless, you should fully
-understand the paradigms and what it is - as it will come up in discussions
-some time in your career.
-
-To make it accessible to everyone, we will start this talk with an introduction
-to Unit Tests and testing frameworks (e.g, unittest, pytest, nose, etc.) We do
-a few very basic live demonstrations of both succeeding and failing unit tests.
-
-We quickly, however ramp up building a data structure (e.g., stack, queue,
-tree, etc.) using a full Red, Green, Refactor TDD cycle (cycles within Test
-Driven Development). This will be somewhat interactive and there will be a lot
-of slides with Python code.
-
+Today, by combining compiling technology with AI, we are ready for the next
+phase of technology. Compilers are presently capable of finding security
+vulnerabilities, libraries, and new releases. No longer do all Pull Requests
+need human supervision. These powerful automators are ready to create, verify
+and approve Pull Requests as well as developing complex code without human
+intervention on a massive scale.
 
 
 **Speaker Bio**
 
-Glen Jarvis has worked for companies such as IBM, Informix, UC-Berkeley, Sprint
-and many Silicon Valley Start-ups. He has worked in the fields of DevOps,
-Databases, Data Science, Bioinformatics and Web Technologies.
+Joseph Vedadi graduated with honors from UCLA with a Bachelor's in Computer
+Science and Engineering. His focus at the time was on automation and artificial
+intelligence design and development.  During his undergrad, he developed an
+automated reminder service to remind students of their daily academic
+obligations using "Email To Text" Technology, which was used by 13 other
+students at the Computer Science Club.
 
-Glen is currently putting the "Dev" in "DevOps" using Python and Ansible. He
-additionally owns a training and consulting company and mentors budding
-programmers and DevOps engineers. He has also been an open source contributor
-and a member and co-organizer of the Bay Area Python Interest Group, Silicon
-Valley Python MeetUp, and Learn about Amazon Web Services MeetUp.
+He developed an automation framework to test the DAL (Data Access Layer)
+technology at Qualcomm. They installed his framework on a farm (over 500
+machines) to execute various tests including nightly, gating, fuzzing and
+regression tests.
+
+At Symantec, he managed "Jenkins CloudBees Enterprise" for multiple teams for
+Continuous Integration (CI). He developed many plugins for Jenkins and other
+internal frameworks to improve the scalability and reliability of tests. He
+worked closely with developers and quality assurance engineers (QA), to provide
+a solid pipeline for test automation.  Currently, Joseph is developing a test
+automation framework at Apple.
 
 .. raw:: html
 
