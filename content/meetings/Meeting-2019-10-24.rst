@@ -7,6 +7,7 @@ Thursday, October 24th, 2019 Meeting
 :category: meetings
 :slug: meeting-2019-10-24
 :summary: October Meeting: Statistical analysis of complex networks using NetworkX with applications
+:save_as: index.html
 
 October Meeting: Statistical analysis of complex networks using NetworkX with applications
 ==========================================================================================
@@ -19,11 +20,13 @@ RSVP via meetup.com here:
 
 Location
 --------
+
 TBD
 
 
 Meeting Details
 ---------------
+
 Meeting Schedule:
 
 * 7:00 pm Food and Announcements
@@ -33,6 +36,7 @@ Meeting Schedule:
 
 Statistical analysis of complex networks using NetworkX with applications
 -------------------------------------------------------------------------
+
 Networks can be used to model many types of relations and processes in
 physical, biological, social and information systems. Many practical problems
 can be represented by networks, also called graphs.  This tutorial will first
@@ -44,6 +48,7 @@ of each node in the network.
 
 
 **Speaker Bio**
+
 Lisa is a Data Scientist at Lagrangian.io, a startup focused on the use of
 Terraform modules for backend services optimization.  Previously, she was a
 bioinformatician with Geisinger Health System working on large-scale genomics
