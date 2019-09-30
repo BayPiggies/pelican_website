@@ -91,3 +91,6 @@ ENV/
 # Pelican
 output/
 *.pid
+
+#VS Code
+.vscode/
