@@ -3,7 +3,7 @@ Thursday, December 20th, 2018 Meeting
 
 :date: 2018-12-20 19:00
 :modified: 2018-12-14 09:00
-:tags: meeting
+:tags: meeting, data-science, beautiful-soup, graphql, video
 :category: meetings
 :slug: meeting-2018-12-20
 :summary: Beautiful Soup, Data Science for Good, and Grasping GraphQL
@@ -59,3 +59,11 @@ Full talk #2: Grasping GraphQL with Python
 GraphQL is a query language that lets web clients more efficiently ask for data from servers. It's also a whole lot of fun! I'll be going over the basics of GraphQL, and building out a simple but informative example using Python GraphQL tools.
 
 **Speaker bio:** Ahsan Zhahid is a software developer native to the bay area. He's been a web developer until recently indulging in a childhood passion for mobile development.
+
+
+Video of Presentations (YouTube)
+==========================================
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8Q9FgbnyyHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
