@@ -6,10 +6,10 @@ Thursday, November 21th, 2019 Meeting
 :tags: meeting
 :category: meetings
 :slug: meeting-2019-11-21
-:summary: November Meeting: Interactive Python Visualizations with Bokeh
+:summary: November Meeting: Effective Data Visualization with Python
 
 
-November Meeting: Interactive Python Visualizations with Bokeh
+November Meeting: Effective Data Visualization with Python
 ==============================================================
 
 RSVP via meetup.com here:
@@ -18,6 +18,7 @@ RSVP via meetup.com here:
 
   <a href="https://www.meetup.com/BAyPIGgies/events/264931806/" data-event="260872440" class="mu-rsvp-btn">RSVP</a>
 
+
 Location
 --------
 TBD
@@ -25,6 +26,7 @@ TBD
 
 Meeting Details
 ---------------
+
 Meeting Schedule:
 
 * 7:00 pm Food and Announcements
@@ -32,22 +34,29 @@ Meeting Schedule:
 * 8:30 pm Networking
 * 9:00 pm Event ends
 
-Statistical analysis of complex networks using NetworkX with applications
--------------------------------------------------------------------------
 
-Effective data visualization is critical to communicating results, and as
-developers we are always looking to save time and write more clear code. All
-projects use static graphs, and we see growing interest in interactive
-visualizations that help us find insights difficult to see in static graphics.
-Data science projects often use the foundational library Matplotlib which is
-awesome but very complicated and sometimes hard to understand. In this talk,
-we'll touch on Matplotlib and use a more modern library - Bokeh - to create
-static and interactive visualizations.
+Effective Data Visualization with Python
+----------------------------------------
 
+Effective data visualization is critical to communicating results and
+convincing people to take action.  As developers we are always looking to save
+time and write more clear code. All projects use static graphs, and we see
+growing interest in interactive visualizations that help us find insights.  In
+this talk, we'll learn about what makes visualizations effective, shed some
+light on the powerful but complex Matplotlib library.  Finally, we'll look at
+Bokeh - a more modern library, and create static, interactive and streaming
+visualizations.
+
+Github:  https://github.com/surfaceowl-ai/python_visualizations
 
 **Speaker Bio**
 
-Christopher Brousseau
+Chris Brousseau is a Data Scientist and Founder of Surface Owl, a SaaS-based
+visual decision engine built on Python.  He is also an active member of
+BayPiggies and several other local Python communities.  Before Surface Owl,
+Chris spent over 18 years at Accenture where he did business and systems
+consulting for global  clients.  On a personal note, Chris is a native
+Vermonter, an avid skier, and loves visualizations.
 
 
 .. raw:: html
