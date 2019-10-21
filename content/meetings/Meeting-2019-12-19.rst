@@ -8,14 +8,15 @@ Thursday, December 19th, 2019 Meeting
 :slug: meeting-2019-12-19
 :summary: December Meeting: Pigs, Pythons and Goats: The Animal Guide to TDD
 
-December Meeting: Pigs, Pythons and Goats: The Animal Guide to TDD
-===================================================================
+December Meeting: Poodle, the Python extension for automated programming
+========================================================================
 
 RSVP via meetup.com here:
 
 .. raw:: html
 
   <a href="https://www.meetup.com/BAyPIGgies/events/265152603/" data-event="260872440" class="mu-rsvp-btn">RSVP</a>
+
 
 Location
 --------
@@ -24,6 +25,7 @@ TBD
 
 Meeting Details
 ---------------
+
 Meeting Schedule:
 
 * 7:00 pm Food and Announcements
@@ -31,42 +33,31 @@ Meeting Schedule:
 * 8:30 pm Networking
 * 9:00 pm Event ends
 
-Pigs, Pythons and Goats: The Animal Guide to TDD
-------------------------------------------------
+Poodle, the Python extension for automated programming
+------------------------------------------------------
 
-There are often many buzzwords that are used incorrectly and abused. Often
-people hear about Test Driven Development (TDD) and think this is just a term
-that means "Testing your code." Although Testing your code is important, Test
-Driven Development is a special paradigm that is often used in certain
-companies.
-
-After this talk, you may decide that full Test Driven Development (TDD) isn’t
-for you (or, it may be a turning point for you). Regardless, you should fully
-understand the paradigms and what it is - as it will come up in discussions
-some time in your career.
-
-To make it accessible to everyone, we will start this talk with an introduction
-to Unit Tests and testing frameworks (e.g, unittest, pytest, nose, etc.) We do
-a few very basic live demonstrations of both succeeding and failing unit tests.
-
-We quickly, however ramp up building a data structure (e.g., stack, queue,
-tree, etc.) using a full Red, Green, Refactor TDD cycle (cycles within Test
-Driven Development). This will be somewhat interactive and there will be a lot
-of slides with Python code.
-
+Computer code generation has always been the Holy Grail of computer science and
+every software developer has at least once wondered if computers will one day
+be able to write programs themselves. Many believe that we are decades-away
+from the time when programs may start to outsmart their creators, but today we
+are arguing that the tipping point is near, and Poodle, the Python extension
+for automated programming presented in this talk is already bringing
+exponential productivity benefits to software development. After this talk you
+will be able to create software with the complexity that you previously thought
+impossible to build.
 
 
 **Speaker Bio**
 
-Glen Jarvis has worked for companies such as IBM, Informix, UC-Berkeley, Sprint
-and many Silicon Valley Start-ups. He has worked in the fields of DevOps,
-Databases, Data Science, Bioinformatics and Web Technologies.
+Vlad Goloshuk is the Founder at CriticalHop, the startup that uses “impossible
+automation” to solve IT infrastructure challenges. Vlad is AI evangelist and
+the author of Mastercard’s blockchain technology to process refunds. He is a
+former Network Infrastructure consultant at UniCredit Bank, Bank of Ireland,
+and Irish Government. Former Sr. Network Analyst at MasterCard.  
 
-Glen is currently putting the "Dev" in "DevOps" using Python and Ansible. He
-additionally owns a training and consulting company and mentors budding
-programmers and DevOps engineers. He has also been an open source contributor
-and a member and co-organizer of the Bay Area Python Interest Group, Silicon
-Valley Python MeetUp, and Learn about Amazon Web Services MeetUp.
+The recent Vlad’s initiatives included applying automated programming in Python
+to optimize data-driven sales development processes with internally developed
+open source tool, called Poodle https://github.com/criticalhop/poodle  
 
 .. raw:: html
 
