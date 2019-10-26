@@ -6,7 +6,7 @@ Thursday, December 19th, 2019 Meeting
 :tags: meeting
 :category: meetings
 :slug: meeting-2019-12-19
-:summary: December Meeting: Pigs, Pythons and Goats: The Animal Guide to TDD
+:summary: December Meeting: Poodle, the Python extension for automated programming
 
 December Meeting: Poodle, the Python extension for automated programming
 ========================================================================
