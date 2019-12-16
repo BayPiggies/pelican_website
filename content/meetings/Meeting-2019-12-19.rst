@@ -7,6 +7,7 @@ Thursday, December 19th, 2019 Meeting
 :category: meetings
 :slug: meeting-2019-12-19
 :summary: December Meeting: Poodle, the Python extension for automated programming
+:save_as: index.html
 
 December Meeting: Poodle, the Python extension for automated programming
 ========================================================================
@@ -20,7 +21,7 @@ RSVP via meetup.com here:
 
 Location
 --------
-TBD
+LinkedIn Corporation, Unify Meeting Room 950 West Maude Ave Sunnyale, CA
 
 
 Meeting Details
