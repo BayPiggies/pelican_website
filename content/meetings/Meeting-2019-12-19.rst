@@ -48,7 +48,7 @@ will be able to create software with the complexity that you previously thought
 impossible to build.
 
 
-**Speaker Bio**
+** Vlad **
 
 Vlad Goloshuk is the Founder at CriticalHop, the startup that uses “impossible
 automation” to solve IT infrastructure challenges. Vlad is AI evangelist and
@@ -59,6 +59,20 @@ and Irish Government. Former Sr. Network Analyst at MasterCard.
 The recent Vlad’s initiatives included applying automated programming in Python
 to optimize data-driven sales development processes with internally developed
 open source tool, called Poodle https://github.com/criticalhop/poodle  
+
+
+** Andrew Gree **
+
+Andrew Gree is the Founder and CTO at CriticalHop inc (Kalc.io), the startup
+that uses “impossible automation” to solve IT infrastructure challenges. Andrew
+is ex-CTO of Phantom Auto, the self-driving car technology company, Co-founder
+of Cubic.ai one of the first voice assistants, author of vtrunkd, the
+open-source inverse multiplexing daemon used by SpaceX. He is also the author
+and contributor of various computer software projects, including interpreters,
+compilers and automated planning systems.
+
+Andrew is AI evangelist and author of Poodle, the Python extension for
+automated programming. https://github.com/criticalhop/poodle
 
 .. raw:: html
 
