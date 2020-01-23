@@ -7,7 +7,6 @@ Thursday, December 19th, 2019 Meeting
 :category: meetings
 :slug: meeting-2019-12-19
 :summary: December Meeting: Poodle, the Python extension for automated programming
-:save_as: index.html
 
 December Meeting: Poodle, the Python extension for automated programming
 ========================================================================

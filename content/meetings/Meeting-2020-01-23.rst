@@ -1,0 +1,66 @@
+Thursday, January 23th, 2020 Meeting
+####################################
+
+:date: 2020-01-23 19:00
+:modified: 2020-01-22 20:02
+:tags: meeting
+:category: meetings
+:slug: meeting-2020-01-23
+:summary: January Meeting: Hacking Passwords Using ML
+:save_as: index.html
+
+January Meeting: White Hat: Hacking Passwords Using ML
+======================================================
+
+RSVP via meetup.com here:
+
+.. raw:: html
+
+  <a href="https://www.meetup.com/BAyPIGgies/events/265861449/" data-event="260872440" class="mu-rsvp-btn">RSVP</a>
+
+Location
+--------
+
+LinkedIn, Unify Meeting Room
+`950 W. Maude Ave, Sunnyvale <https://goo.gl/maps/AeHyy41TCqj>`__.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+* 7:00 pm Food and Announcements
+* 7:15 pm Lightning Talks
+* 7:30 pm Talks start
+* 8:30 pm Networking
+* 9:00 pm Event ends
+
+White Hat: Hacking Passwords Using ML
+-------------------------------------
+
+Not too long ago, it was considered state of the art research making a computer
+distinguish cats vs dogs. Now image classification is the 'Hello World' of
+Machine Learning (ML) -- something one can implement in just a few lines of
+code using TensorFlow. In fact, the field of ML has advanced so much in just a
+few short years that today it is possible to build a potentially life saving,
+or lethal, application with equal ease. Thus it has become necessary to discuss
+both the use and abuse of the technology with the hope that we can find ways to
+mitigate or safeguard against the abuse.
+
+Is it possible to figure out what someone is typing, just by listening to the
+keystrokes? As one can imagine, it has some serious security implications,
+e.g., hacking passwords. So I worked on a Machine Learning project called
+'kido' (= keystroke decode) to explore this idea and I will present my
+findings.
+
+
+**Speaker Bio**
+
+Tikeswar Naik has a Mechanical Engineering degree (PhD in Aerospace), and
+lately has been drawn towards Machine Learning and exploring its power. He
+loves building products that can bring positive and lasting impact to people's
+lives; and, he is working on some ideas towards that.
+
+.. raw:: html
+
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=67qg1nm9sqh9jnrrcg2c20t2hm";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
