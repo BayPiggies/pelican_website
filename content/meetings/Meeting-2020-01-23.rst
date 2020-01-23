@@ -9,8 +9,8 @@ Thursday, January 23th, 2020 Meeting
 :summary: January Meeting: Hacking Passwords Using ML
 :save_as: index.html
 
-February Meeting: Pigs, Pythons and Goats: The Animal Guide to TDD
-==================================================================
+January Meeting: White Hat: Hacking Passwords Using ML
+======================================================
 
 RSVP via meetup.com here:
 
