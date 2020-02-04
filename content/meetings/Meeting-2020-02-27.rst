@@ -2,14 +2,15 @@ Thursday, February 27th, 2020 Meeting
 #####################################
 
 :date: 2020-02-27 19:00
-:modified: 2019-10-21 15:56
+:modified: 2020-02-03 21:23
 :tags: meeting
 :category: meetings
 :slug: meeting-2020-02-27
-:summary: February Meeting: Pigs, Pythons and Goats: The Animal Guide to TDD
+:summary: February Meeting: Developing the Kubernetes Python Client
+:save_as: index.html
 
-February Meeting: Pigs, Pythons and Goats: The Animal Guide to TDD
-==================================================================
+February Meeting: Developing the Kubernetes Python Client
+=========================================================
 
 RSVP via meetup.com here:
 
@@ -31,42 +32,22 @@ Meeting Schedule:
 * 8:30 pm Networking
 * 9:00 pm Event ends
 
-Pigs, Pythons and Goats: The Animal Guide to TDD
-------------------------------------------------
+Developing the Kubernetes Python Client
+---------------------------------------
 
-There are often many buzzwords that are used incorrectly and abused. Often
-people hear about Test Driven Development (TDD) and think this is just a term
-that means "Testing your code." Although Testing your code is important, Test
-Driven Development is a special paradigm that is often used in certain
-companies.
-
-After this talk, you may decide that full Test Driven Development (TDD) isn’t
-for you (or, it may be a turning point for you). Regardless, you should fully
-understand the paradigms and what it is - as it will come up in discussions
-some time in your career.
-
-To make it accessible to everyone, we will start this talk with an introduction
-to Unit Tests and testing frameworks (e.g, unittest, pytest, nose, etc.) We do
-a few very basic live demonstrations of both succeeding and failing unit tests.
-
-We quickly, however ramp up building a data structure (e.g., stack, queue,
-tree, etc.) using a full Red, Green, Refactor TDD cycle (cycles within Test
-Driven Development). This will be somewhat interactive and there will be a lot
-of slides with Python code.
+The Kubernetes Python client allows users to programmatically interact with
+clusters using the Python language. With Python being one of the most popular
+programming languages, the Python client provides a way for those unfamiliar
+with Golang to still reap the benefits of a code interface to Kubernetes. This
+session will cover the repositories and resources that are used to generate the
+Python client and dive into examples of how the client is used.
 
 
 
 **Speaker Bio**
 
-Glen Jarvis has worked for companies such as IBM, Informix, UC-Berkeley, Sprint
-and many Silicon Valley Start-ups. He has worked in the fields of DevOps,
-Databases, Data Science, Bioinformatics and Web Technologies.
-
-Glen is currently putting the "Dev" in "DevOps" using Python and Ansible. He
-additionally owns a training and consulting company and mentors budding
-programmers and DevOps engineers. He has also been an open source contributor
-and a member and co-organizer of the Bay Area Python Interest Group, Silicon
-Valley Python MeetUp, and Learn about Amazon Web Services MeetUp.
+Scott Lee is a systems engineer and has been working with Python for the past
+few years to build cloud infrastructure.
 
 .. raw:: html
 
