@@ -7,7 +7,6 @@ Thursday, January 23th, 2020 Meeting
 :category: meetings
 :slug: meeting-2020-01-23
 :summary: January Meeting: Hacking Passwords Using ML
-:save_as: index.html
 
 January Meeting: White Hat: Hacking Passwords Using ML
 ======================================================
