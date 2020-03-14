@@ -1,0 +1,19 @@
+March 2020 Meeting Canceled
+#####################################
+
+:date: 2020-03-26 19:00
+:modified: 2020-03-14 16:33
+:tags: meeting
+:category: meetings
+:slug: meeting-2020-03-26
+:summary: March Meeting: Canceled
+:save_as: index.html
+
+March Meeting: Canceled
+=========================================================
+
+The BayPiggies meeting for March 2020 has been canceled due to concerns about the Corona Virus.
+For April, we will work with our host, LinkedIn, to determine whether to hold a physical meeting. If we are unable to have a physical meeting for April, we will try to have our scheduled talk via an online video conferencing service.  Thank you for your understanding. Please take care of yourselves and your families.
+
+Regards,
+The BayPiggies Organizers

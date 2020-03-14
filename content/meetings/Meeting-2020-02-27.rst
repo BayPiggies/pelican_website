@@ -7,7 +7,6 @@ Thursday, February 27th, 2020 Meeting
 :category: meetings
 :slug: meeting-2020-02-27
 :summary: February Meeting: Developing the Kubernetes Python Client
-:save_as: index.html
 
 February Meeting: Developing the Kubernetes Python Client
 =========================================================
