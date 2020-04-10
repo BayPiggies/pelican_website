@@ -1,0 +1,51 @@
+Thursday, April 23rd, 2020 Meeting
+##################################
+
+:date: 2020-04-23 19:00
+:modified: 2020-04-10 10:15
+:tags: meeting
+:category: meetings
+:slug: meeting-2020-04-23
+:summary: April Online Meeting: Lightning Talks and Data Workspaces
+:save_as: index.html
+
+April Online Meeting: Lightning Talks and Data Workspaces
+=========================================================
+We will have our meeting online-only this month, using a Zoom webinar. We will have lightning talks from BayPiggies members about the side projects you are working on during the “shelter in-place.” We will then have a talk from Jeff Fischer on *Data Workspaces: Python-based Management of your (Data) Science Projects*.
+
+Location
+--------
+Zoom Webinar. RSVP via meetup.com here: https://www.meetup.com/BAyPIGgies/events/268629966/
+
+Please register in advance for this webinar. If you RSVP "yes" to this event on MeetUp, you will see the link. We will also send the link to the baypiggies@python.org mailing list. After registering, you will receive a personalized confirmation email containing information about joining the webinar.
+
+Please note that:
+
+1. You are expected to follow our `code of conduct <https://baypiggies.net/pages/code_of_conduct.html>`_.
+2. The meeting will be recorded and uploaded to our `YouTube Channel <https://www.youtube.com/channel/UCBJV1sd5XcVhijm13pWfBCg>`_ at a later date.
+
+
+Meeting Details
+---------------
+Meeting Schedule (preliminary):
+
+* 7:00 pm Announcements
+* 7:10 pm Lightning Talks
+* 7:40 pm Main Talk
+* 8:25 pm Networking?
+* 9:00 pm Event ends
+
+Lightning Talks
+---------------
+With all this extra indoors time due to “shelter-in-place” and a longer than usual rainy season, do you have a technical side project that you’ve been working on? Or, have you been mentoring the junior engineers in your house (aka, the kids)? Tell BayPiggies about your project! We’d love to have you talk about it for a few minutes. No need to have code ready. Just send a single slide (pdf, Google presentation, or PowerPoint) to the organizers and you’ll be signed up.
+
+Data Workspaces: Python-based Management of your (Data) Science Projects
+------------------------------------------------------------------------
+Modern scientific workflows can be very complex, involving many data sources, software components, and partial results. At the same time, many scientific workflows are not automated and incur significant manual effort or depend on brittle, one-time, scripts. As a result, scientists and data professionals have issues with managing experiments, collaboration, and reproducibility.
+
+`Data Workspaces <https://dataworkspaces.ai>`_ (DWS) is a Python-based open source framework for managing scientific data and automating experiment workflows. Data Workspaces maintains the state of a science project, including data sets, intermediate data, results, and software. It supports reproducibility through snapshotting and lineage tracking and collaboration through a push/pull model layered on top of the Git version control system.
+
+**Speaker Bio**
+
+Jeff Fischer is CTO of Benedat LLC, a Data Science company in Silicon Valley focused on data intensive systems, from infrastructure to machine learning. He advises data engineering and data science teams on architecture and technology selection. Jeff has a PhD in Computer Science from UCLA and is a co-organizer of the Bay Area Python Interest Group.
+

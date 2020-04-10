@@ -7,7 +7,6 @@ March 2020 Meeting Canceled
 :category: meetings
 :slug: meeting-2020-03-26
 :summary: March Meeting: Canceled
-:save_as: index.html
 
 March Meeting: Canceled
 =========================================================
