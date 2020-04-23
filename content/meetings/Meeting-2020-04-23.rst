@@ -2,7 +2,7 @@ Thursday, April 23rd, 2020 Meeting
 ##################################
 
 :date: 2020-04-23 19:00
-:modified: 2020-04-10 10:15
+:modified: 2020-04-22 15:15
 :tags: meeting
 :category: meetings
 :slug: meeting-2020-04-23
@@ -37,7 +37,10 @@ Meeting Schedule (preliminary):
 
 Lightning Talks
 ---------------
-With all this extra indoors time due to “shelter-in-place” and a longer than usual rainy season, do you have a technical side project that you’ve been working on? Or, have you been mentoring the junior engineers in your house (aka, the kids)? Tell BayPiggies about your project! We’d love to have you talk about it for a few minutes. No need to have code ready. Just send a single slide (pdf, Google presentation, or PowerPoint) to the organizers and you’ll be signed up.
+We will have two lightning talks:
+
+1. Jim Salsman - "The US covid-19 testing bottleneck distorts forecasts"
+2. Raul Maldonado - "Survival Analysis with Lifelines"
 
 Data Workspaces: Python-based Management of your (Data) Science Projects
 ------------------------------------------------------------------------
