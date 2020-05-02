@@ -37,7 +37,7 @@ DEFAULT_PAGINATION = 10
 
 STATIC_PATHS = ['images', 'pdfs']
 
-THEME='../pelican-themes/pelican-bootstrap3'
+THEME='pelican-bootstrap3'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
 # SITELOGO='images/baypiggies.png'

@@ -18,7 +18,13 @@
     <meta property="og:site_name" content="{{ SITENAME }}" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="{{ page.title|striptags|escape }}"/>
+
+    {% if page.save_as %}
+    <meta property="og:url" content="{{ SITEURL }}/{{ page.save_as }}"/>
+    {% else %}
     <meta property="og:url" content="{{ SITEURL }}/{{ page.url }}"/>
+    {% endif %}
+
     <meta property="og:description" content="{{ page.summary|striptags|escape }}" />
     {% if page.og_image %}
         <meta property="og:image"
