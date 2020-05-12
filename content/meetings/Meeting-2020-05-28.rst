@@ -1,0 +1,60 @@
+Thursday, April 23rd, 2020 Meeting
+##################################
+
+:date: 2020-05-28 19:00
+:modified: 2020-05-12 14:46
+:tags: meeting
+:category: meetings
+:slug: meeting-2020-05-28
+:summary: May Online Meeting: PyCon 2020 Watching Party
+:save_as: index.html
+
+May Online Meeting: PyCon 2020 Watcing Party
+============================================
+
+PyCon is the largest annual gathering for the community using and developing
+the open-source Python programming language. And, it's also a lot of fun!
+However, because of the COVID-19 situation this year, we were not able to
+attend in person.
+
+Many of the speakers at PyCon have recorded their talks and they have been
+posted by the PyCon organizers online. PyCon posts the talk videos every year
+-- without hours or days after the talks have been given. The talks this year
+are posted in the same locations.
+
+But, isn't it funny how we need a little push - an event with our peers -- to
+see what is available?  The Bay Area Python Interest Group (BAyPIGgies) will be
+hosting a PyCon 2020 watching party. We will, as a group,
+`review all of the videos that are available <https://us.pycon.org/2020/online/#talks>`_ .
+
+And, then we will vote on the videos that interests us most.  We will vote on
+our favorite videos to watch and watch 2-3 of those videos together.  We may
+also be able to have some break out sessions like PyCon Open Spaces (but this
+is still being finalized).  Even though we are meeting online (as always), it
+is important that we keep our 
+`Code of Conduct in mind <https://baypiggies.net/pages/code_of_conduct.html>`_.
+We need to be Open, Considerate and Respectful. This is especially true in our
+Open Spaces.
+
+Location
+--------
+Zoom Webinar. RSVP via meetup.com here: https://www.meetup.com/BAyPIGgies/events/270239115/
+
+Please register in advance for this webinar. If you RSVP "yes" to this event on
+MeetUp, you will see the link. We will also send the link to the
+baypiggies@python.org mailing list. After registering, you will receive a
+personalized confirmation email containing information about joining the
+webinar.
+
+Please note that:
+
+1. You are expected to follow our `code of conduct <https://baypiggies.net/pages/code_of_conduct.html>`_.
+2. The meeting will be recorded and uploaded to our `YouTube Channel <https://www.youtube.com/channel/UCBJV1sd5XcVhijm13pWfBCg>`_ at a later date.
+
+
+Meeting Details
+---------------
+Meeting Schedule (preliminary):
+
+**Schedule is currently being updated**
+
