@@ -7,7 +7,6 @@ Thursday, April 23rd, 2020 Meeting
 :category: meetings
 :slug: meeting-2020-04-23
 :summary: April Online Meeting: Lightning Talks and Data Workspaces
-:save_as: index.html
 
 April Online Meeting: Lightning Talks and Data Workspaces
 =========================================================
