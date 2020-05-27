@@ -41,6 +41,7 @@ How do you participate?
 3. Be sure you know and follow our code of conduct:
    https://baypiggies.net/pages/code_of_conduct.html
    We need to be Open, Considerate and Respectful.
+   Please keep conversation on Python and PyCon related topics.
 
 4. RSVP 'Yes' Here:
    https://www.meetup.com/BAyPIGgies/events/270239115/
