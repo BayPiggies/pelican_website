@@ -76,5 +76,5 @@ Meeting Details
 ---------------
 Meeting Schedule:
 
-**Schedule is dynamic based upon videos watched **
+**Schedule is dynamic based upon videos watched**
 
