@@ -1,0 +1,43 @@
+Thursday, June 25th, 2020 Meeting
+#################################
+
+:date: 2020-06-25 19:00
+:modified: 2020-05-29 12:25
+:tags: meeting
+:category: meetings
+:slug: meeting-2020-06-25
+:summary: June Meeting: Not yet announced
+:save_as: index.html
+
+
+June Online Meeting: Not yet announced
+======================================
+
+Your BAyPIGgies volunteers are busy organizing this talk. We will update soon.
+
+
+Location
+--------
+
+Zoom Webinar. RSVP via meetup.com here:
+https://www.meetup.com/BAyPIGgies/events/270960080/
+
+Please register in advance for this webinar. If you RSVP "yes" to this event on
+MeetUp, you will see the Webinar registration link. We will also send the link
+to the baypiggies@python.org mailing list. After registering, you will receive
+a personalized confirmation email containing information about joining the
+webinar.
+
+Please note that:
+
+* You are expected to follow our `code of conduct <https://baypiggies.net/pages/code_of_conduct.html>`_.
+
+* The meeting will be recorded and uploaded to our `YouTube Channel <https://www.youtube.com/channel/UCBJV1sd5XcVhijm13pWfBCg>`_ at a later date.
+
+
+Meeting Details
+---------------
+Meeting Schedule:
+
+**Schedule under review**
+
