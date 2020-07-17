@@ -1,0 +1,66 @@
+Thursday, July 23rd, 2020 Meeting
+#################################
+
+:date: 2020-07-23 19:00
+:modified: 2020-07-16 12:25
+:tags: meeting
+:category: meetings
+:slug: meeting-2020-07-23
+:summary: Online Meeting: Notebooks Night
+:save_as: index.html
+
+July Online Meeting: Notebooks Night
+====================================
+This month, we'll have two talks about novel applications for Notebooks:
+
+* Nathan Neibauer - "Colab for Collaboration" (lightning talk)
+* Paul Karayan "Jupyter - Beyond Data Science"
+
+Colab for Collaboration
+-----------------------
+How Google Colab can be leveraged to *quickly* build *useful* tools for non-programmers without any environment setup on their end, and without a full-fledged packaging solution on the developer's end (while still maintaining a clean project structure and headache-free version control). I have two examples of such tools that I have been working on during the pandemic -- one is a small data analysis / visualization pipeline for a friend in a PhD program who got moved out of the lab, and the other is a small tool to help administrators from my graduate program shuffle people intelligently during large Zoom events. 
+
+Speaker Bio: Nathan Neibauer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I am a Python enthusiast with a non-traditional CS and programming route. I come from a Physics background, and I have used Python for nearly 10 years as a tool to help make my life easier. I recently completed a 9 month contract role at Google as a Data Visualization engineer for a fusion energy research team, where I built custom viz solutions (static and interactive) to condense high volumes of modeling data for internal and external clients.
+
+Some tools I have built:
+
+* Small GUIs in PyQt for data collection, analysis, and experiment design
+* Equipment communication libraries for laboratory automation
+* Numerical modeling and simulations
+* Colab notebooks for interactive data exploration
+
+Jupyter - Beyond Data Science
+-----------------------------
+Programming has been embraced by Technical Operations Engineers (e.g.  DevOps, QA, and Infosec) as a high leverage way to complete their jobs. However, most productivity tools for developers are ill-suited for the diversity & novelty of problems seen in Operations work. 
+
+I will present a more suitable framework - the Jupyter Notebook - that’s already heavily adopted in the Data Science world. I'll introduce Jupyter and its ecosystem by applying it in a number of practical Operations Engineering examples, and finish with a demonstration of using Jupyer as the operations equivalent of an IDE - what I call an Operational Development Environment.
+
+The ODE is a mental framework / toolchain for discovering and taming the flood of alerts and other information we're deluged with today in Ops. Similar systems are employed as part of the Data Operations workflows (primarily for data cleaning and reconciliation) at Addepar, and in many DevSecOps organizations.
+
+Speaker Bio:  Paul Karayan
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Paul Karayan has built a 10+ year career on developing and industrializing software products, with a recent focus on software product delivery. Paul's love for automation developed during his early career as a scientist (A.B. Duke University, M.S. UC Berkeley), and blossomed in the data mines of many a Silicon Valley startup. This work draws from his experiences with Exploratory Programming at Addepar, multiple consulting engagements through Irregular Engineering, and his current role as a Senior Infrastructure Engineer at Primer.
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
+Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
+
+RSVP
+----
+We will conduct the meeting via Zoom webinar. Please register in advance. To do so, go to the Meetup page for this event: https://www.meetup.com/BAyPIGgies/events/270960080/. If you RSVP "Yes" to this event on MeetUp, we will send you an email with the link. We will also send the link to the baypiggies@python.org mailing list (sign-up here: https://mail.python.org/mailman/listinfo/baypiggies).
+
+Please note that:
+
+* You are expected to follow our code of conduct.
+
+* The meeting will be recorded and uploaded to our YouTube Channel at a later date.
+
+Speak at BayPiggies
+-------------------
+We'd love to have more people sign up to speak at BayPiggies - just fill out this short application: https://docs.google.com/forms/d/e/1FAIpQLSfp_tgQU3WmxoxSQvg5se8AIUswZr6wWkG45o6FrXrnTjLNRA/viewform?usp=sf_link
+

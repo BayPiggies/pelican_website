@@ -7,7 +7,6 @@ Thursday, June 25th, 2020 Meeting
 :category: meetings
 :slug: meeting-2020-06-25
 :summary: Next Meeting: Postponed until July
-:save_as: index.html
 
 
 Next Meeting: Postponed until July
