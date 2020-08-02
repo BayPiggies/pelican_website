@@ -36,6 +36,9 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 STATIC_PATHS = ['images', 'pdfs']
+EXTRA_PATH_METADATA = {
+    'images/favicon.ico' : { 'path': 'favicon.ico'},
+}
 
 THEME='pelican-bootstrap3'
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
