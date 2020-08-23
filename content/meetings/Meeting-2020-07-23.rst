@@ -7,7 +7,6 @@ Thursday, July 23rd, 2020 Meeting
 :category: meetings
 :slug: meeting-2020-07-23
 :summary: Online Meeting: Notebooks Night
-:save_as: index.html
 
 July Online Meeting: Notebooks Night
 ====================================
@@ -31,6 +30,8 @@ Some tools I have built:
 * Numerical modeling and simulations
 * Colab notebooks for interactive data exploration
 
+Presentation link: https://docs.google.com/presentation/d/1x-Z5Wcmmex8zzQHyQylN1f54FtXtOXTNQNAhrMv2rjk
+
 Jupyter - Beyond Data Science
 -----------------------------
 Programming has been embraced by Technical Operations Engineers (e.g.  DevOps, QA, and Infosec) as a high leverage way to complete their jobs. However, most productivity tools for developers are ill-suited for the diversity & novelty of problems seen in Operations work. 
@@ -38,6 +39,8 @@ Programming has been embraced by Technical Operations Engineers (e.g.  DevOps, Q
 I will present a more suitable framework - the Jupyter Notebook - that’s already heavily adopted in the Data Science world. I'll introduce Jupyter and its ecosystem by applying it in a number of practical Operations Engineering examples, and finish with a demonstration of using Jupyer as the operations equivalent of an IDE - what I call an Operational Development Environment.
 
 The ODE is a mental framework / toolchain for discovering and taming the flood of alerts and other information we're deluged with today in Ops. Similar systems are employed as part of the Data Operations workflows (primarily for data cleaning and reconciliation) at Addepar, and in many DevSecOps organizations.
+
+Presentation link: https://docs.google.com/presentation/d/1bxTbh5U-bvPH_eN47ADmYcjYjKXAyx1e5UVuZ3e_7gg/edit#slide=id.g851885e276_0_0
 
 Speaker Bio:  Paul Karayan
 ~~~~~~~~~~~~~~~~~~~~~~~~~~

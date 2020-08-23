@@ -1,0 +1,57 @@
+Thursday, August 27th, 2020 Meeting
+###################################
+
+:date: 2020-08-27 19:00
+:modified: 2020-08-23 12:25
+:tags: meeting
+:category: meetings
+:slug: meeting-2020-08-27
+:summary: Online Meeting: Snakes and Queens!
+:save_as: index.html
+
+August Online Meeting: Snakes and Queens!
+=========================================
+This month, we'll have two talks:
+
+* Kat Cosgrove - *Snakes on a Car: Or, Over-engineering a Toy*
+* Aaron David Goldman - *Eight Queens in python and rust*
+
+Snakes on a car: or Over-engineering a Toy
+------------------------------------------
+Like a lot of engineers, I like to tinker. I also like hardware hacking, video games, and over-engineering the hell out of something. When my team at work decided to build a proof of concept demonstrating the possibility of fast over-the-air updates for edge devices, we settled on using a car as the example of an edge device. It’s flashy, you know? This also presented me with an opportunity to do all of the things I love, and call it work: build a self-driving RC car, and then let people race it around a track using a repurposed USB racewheel, a handful of open source tools, and whole lotta Python. DevOps, but make it fun.
+
+Speaker bio: Kat Cosgrove
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Kat Cosgrove is a chronic early-adopter of new technologies and a real-life cyborg. Her professional engineering background is in web development, IoT, and programming education, but today she's a Developer Advocate for JFrog. She loves finding creative solutions for hard problems, especially if they're a little hacky.
+
+When she's not building demos or at a conference, she spends her time gaming, watching e-sports, and working on useless but entertaining side-projects. She also volunteers with area non-profits geared towards getting more women and other underrepresented minorities into tech.
+
+Eight Queens in Python and Rust
+-------------------------------
+Porting a classic interview problem in two languages.
+
+Speaker bio: Aaron David Goldman
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Information security engineer, with a history of making tools in python for monitoring network systems and applications.
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
+Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
+
+RSVP
+----
+We will conduct the meeting via Zoom webinar. Please register in advance. To do so, go to the Meetup page for this event: https://www.meetup.com/BAyPIGgies/events/272093059/. If you RSVP "Yes" to this event on MeetUp, we will send you an email with the link. We will also send the link to the baypiggies@python.org mailing list (sign-up here: https://mail.python.org/mailman/listinfo/baypiggies).
+
+Please note that:
+
+* You are expected to follow our code of conduct.
+
+* The meeting will be recorded and uploaded to our YouTube Channel at a later date.
+
+Speak at BayPiggies
+-------------------
+We'd love to have more people sign up to speak at BayPiggies - just fill out this short application: https://docs.google.com/forms/d/e/1FAIpQLSfp_tgQU3WmxoxSQvg5se8AIUswZr6wWkG45o6FrXrnTjLNRA/viewform?usp=sf_link
+
