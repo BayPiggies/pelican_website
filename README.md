@@ -6,7 +6,7 @@ pelican-based website.
 ```bash
 virtualenv venv
 . venv/bin/activate
-pip install pelican markdown typogrify
+pip install -U -r requirements.txt
 
 ~~git clone git@github.com:getpelican/pelican-themes.git~~
 Had to make my own version to get it to work with pelican 4.0.1
@@ -17,7 +17,8 @@ git clone --recursive https://github.com/getpelican/pelican-plugins
 #(or preferably your fork thereof)
 
 cd pelican_website
-make devserver
+pelican content
+pelican --listen
 ```
 
 open a browser to: http://127.0.0.1:8000/
@@ -52,11 +53,11 @@ Here is an example:
 :modified: 2017-01-28 13:00
 :tags: meeting, data-science
 :category: meetings
-:slug: meeting-2017-02-23
+:slug: meeting-2020-08-27
 :authors: Melanie Goetz
-:summary: Python for Data Science
+:summary: Online Meeting: Snakes and Queens!
+:alias: /meeting-2020-08-27
 :save_as: index.html
-:url:
 ~~~~
 ## Meetup.com integration
 To create the meetup.com RSVP button, go to https://www.meetup.com/meetup_api/buttons/
