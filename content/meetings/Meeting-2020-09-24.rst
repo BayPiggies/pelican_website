@@ -1,0 +1,47 @@
+Thursday, September 24th, 2020 Meeting
+######################################
+
+:date: 2020-09-24 19:00
+:modified: 2020-09-17 12:25
+:tags: meeting
+:category: meetings
+:slug: meeting-2020-09-24
+:summary: Online Meeting: Pygame Widgets!
+:alias: /meeting-2020-09-24
+:save_as: index.html
+
+September Online Meeting: Pygame Widgets!
+==========================================
+This month's meeting will feature a talk by Irv Kalb on widgets for Pygame.
+
+pygwidgets: Object-Oriented GUI Widgets for Pygame
+--------------------------------------------------
+The talk will start with a quick description of the `pygame <https://www.pygame.org/news>`_ environment, which is used for building graphical user interface based games and applications in Python. Unfortunately, pygame does not provide standard user interface widgets (e.g., buttons, text boxes, etc.). "pygwidgets" (pronounced "pig wijits") was written to fill this void. I will explain the use of these widgets from a programmers point of view (the API), and talk about the implementation as a good example of object-oriented programming techniques.
+
+The code may be found on GitHub at: https://github.com/IrvKalb/pygwidgets and the documentation at https://pygwidgets.readthedocs.io/en/latest/index.html.
+
+Speaker bio: Irv Kalb
+~~~~~~~~~~~~~~~~~~~~~
+Irv Kalb has a BS and MS in Computer Science and has spent his whole career in various roles in software. He worked for a number of high tech companies in Silicon Valley and worked as an independent consultant as "Furry Pants Productions" for many years. For the past ten years, he has taught software development at local colleges. He currently teaches Python programming at Cogswell University of Silicon Valley and at University of California Santa Cruz Extension in Santa Clara. He has published an introductory book on Python programming, and is finishing up a new book on object-oriented programming in Python (coming soon to a bookstore near you).
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
+Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
+
+RSVP
+----
+We will conduct the meeting via Zoom webinar. Please register in advance. To do so, go to the Meetup page for this event: https://www.meetup.com/BAyPIGgies/events/273288316/. If you RSVP "Yes" to this event on MeetUp, we will send you an email with the link. We will also send the link to the baypiggies@python.org mailing list (sign-up here: https://mail.python.org/mailman/listinfo/baypiggies).
+
+Please note that:
+
+* You are expected to follow our code of conduct.
+
+* The meeting will be recorded and uploaded to our YouTube Channel at a later date.
+
+Speak at BayPiggies
+-------------------
+We'd love to have more people sign up to speak at BayPiggies - just fill out this short application: https://docs.google.com/forms/d/e/1FAIpQLSfp_tgQU3WmxoxSQvg5se8AIUswZr6wWkG45o6FrXrnTjLNRA/viewform?usp=sf_link
+
