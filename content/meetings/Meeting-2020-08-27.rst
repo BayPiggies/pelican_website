@@ -7,8 +7,6 @@ Thursday, August 27th, 2020 Meeting
 :category: meetings
 :slug: meeting-2020-08-27
 :summary: Online Meeting: Snakes and Queens!
-:alias: /meeting-2020-08-27
-:save_as: index.html
 
 August Online Meeting: Snakes and Queens!
 =========================================
