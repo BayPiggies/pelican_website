@@ -7,8 +7,6 @@ Thursday, September 24th, 2020 Meeting
 :category: meetings
 :slug: meeting-2020-09-24
 :summary: Online Meeting: Pygame Widgets!
-:alias: /meeting-2020-09-24
-:save_as: index.html
 
 September Online Meeting: Pygame Widgets!
 ==========================================
