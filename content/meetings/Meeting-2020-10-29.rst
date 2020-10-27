@@ -12,12 +12,30 @@ Thursday, October 29th, 2020 Meeting
 
 October Online Meeting: Monkey Test, MonkeyType
 ===============================================
-This month, we will have the famous Moshe Zadka talk about how to get your types for free!
+This month, we will have the famous Moshe Zadka talk about how to get your types for free! We'll also be having
+a brilliant lightning talk about Cookiecutter by Richard Katz.
 
 Note that we are having the meeting a **week later than usual** (5th Thursday instead of 4th) due to the (potential) presidential debate.
 
-Talk Description
-~~~~~~~~~~~~~~~~
+Lightning Talk: Cookiecutter
+----------------------------
+Description
+~~~~~~~~~~~~
+`Cookiecutter <https://github.com/cookiecutter/cookiecutter>`_ is a flexible tool that can be used for project generation and customization.
+It is somewhat similar to (in the Java world) Spring Boot. There are a couple caveats to using it. First, unlike Spring Boot there is no automatic framework and it doesn't do the kind of customization that pip requirements.txt already does.
+
+What does it do? Instead, however, it can create custom apps and custom Git repository resident apps that use customized data such as - the name of applications and files, ports, custom endpoints, actually just about anything that someone needs to customize.
+
+It uses a very simple json file to create pairs of substitute names and values. These names can be used to represent a directory, or a file or text within a file. Or a port. Or even part of a directory or file name which gives it a lot of customization power.
+
+Speaker bio: Richard Katz
+~~~~~~~~~~~~~~~~~~~~~~~~~
+I am an engineering and business programmer, a software and data engineer with Spark, Pandas, Flask and Django. I have used more languages than I can list here. My best friend, a LISP programmer who helped develop SQL, told me it would be good for me to learn Python. I immediately loved Guido's tutorials and Raymond Hettinger's example called: "Eight Queens, Six Lines." I am a big advocate of Jupyter, I like thinking about Princeton in the 1940s. I do a lot of reading about Python books and I'm writing one.
+
+Main Talk: Monkey Test, MonkeyType
+----------------------------------
+Description
+~~~~~~~~~~~
 How to add types to your code automatically by running your tests under `MonkeyType <https://github.com/instagram/MonkeyType>`_.
 
 Speaker bio: Moshe Zadka
