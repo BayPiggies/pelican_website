@@ -7,8 +7,6 @@ Thursday, October 29th, 2020 Meeting
 :category: meetings
 :slug: meeting-2020-10-29
 :summary: Monkey Test, MonkeyType by Moshe Zadka
-:alias: /meeting-2020-10-29
-:save_as: index.html
 
 October Online Meeting: Monkey Test, MonkeyType
 ===============================================
