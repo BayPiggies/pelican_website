@@ -1,0 +1,65 @@
+Thursday, January 28th, 2021 Meeting
+######################################
+
+:date: 2021-01-28 19:00
+:modified: 2020-11-15 12:25
+:tags: meeting
+:category: meetings
+:slug: meeting-2021-01-28
+:summary: Serverless Computing with Wesley Chun
+:alias: /meeting-2021-01-28
+:save_as: index.html
+
+January Online Meeting: Serverless Computing with Wesley Chun and More!
+=======================================================================
+BayPiggies will be going on hiatus over the holidays and be back in force for 2021.
+For our first 2021 meeting, we will host Wesley Chun, Google Developer Advocate and a Fellow of the Python Software Association. There will also be a lightning talk from Chris
+Brousseau.
+
+See you in 2021!
+
+Lightning Talk: To Be Announced
+-------------------------------
+Speaker: Chris Brousseau
+
+BayPiggies regular Chris Brousseau will be giving a lightning talk with a data science
+theme.
+
+Main Talk: Serverless Computing with Python & Google Cloud
+----------------------------------------------------------
+Description
+~~~~~~~~~~~
+"Serverless" is a term that means many different things. It is a relatively new field of cloud computing allowing developers to focus more on the solutions they're building and worry less about the infrastructure. Are there really no servers? What is the outlook of serverless technologies in industry today? In this session, we will introduce developers to cloud & the serverless computing industry then focus specifically on serverless compute services. There are various ways Python developers can leverage serverless, whether it's entire (web) apps, mobile backends, functions/FaaS, or containerized applications.
+
+Attendees will learn how to run code on Google Cloud serverless platforms... code samples will be in Python (and some JavaScript), but other languages are supported. Whether you're a developer, technical consultant, software engineer, DevOps/IT staff, or a systems analyst, you'll learn how to run code on Google's cloud and be part of a cloud-ready workforce. Long-time Python App Engine developers will get an update on what's going on in App Engine-land and get modernization tips.
+
+Speaker bio: Wesley Chun
+~~~~~~~~~~~~~~~~~~~~~~~~
+WESLEY CHUN (@wescpy) is the author of Prentice Hall's bestselling "Core Python" (corepython.com) series, co-author of "Python Web Development with Django" (withdjango.com), and has written for Linux Journal, CNET, and InformIT. In addition to being a Developer Advocate at Google focused on Google Cloud (for higher education) and a host of the G Suite Dev Show (goo.gl/JpBQ40), he runs CyberWeb (cyberwebconsulting.com), a consultancy specializing in Python training. Wesley has over 25 years of programming, teaching, and writing experience, and was one of the original Yahoo!Mail engineers. He holds degrees in CS, Math, and Music from the University of California, is a Fellow of the Python Software Foundation, and Adjunct Computer Science faculty at Foothill College in Silicon Valley.
+
+.. image:: http://commondatastorage.googleapis.com/eventpoint-gschedule2018-documents/201803090653/registrants/photos/d49417b6-3bcc-4ade-a783-f7cdf628483d.jpg
+   :alt: Picture of Wesley Chun
+   :width: 400
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
+Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
+
+RSVP
+----
+We will conduct the meeting via Zoom webinar. Please register in advance. To do so, go to the Meetup page for this event: https://www.meetup.com/BAyPIGgies/events/274623881/. If you RSVP "Yes" to this event on MeetUp, we will send you an email with the link. We will also send the link to the baypiggies@python.org mailing list (sign-up here: https://mail.python.org/mailman/listinfo/baypiggies).
+
+Please note that:
+
+* You are expected to follow our code of conduct.
+
+* The meeting will be recorded and uploaded to our YouTube Channel at a later date.
+
+Speak at BayPiggies in 2021!
+----------------------------
+We are in the process of setting up our 2021 speaker schedule. Now is the time to get in on the action! We'd love to have you sign up to speak at BayPiggies - just fill out this short application: https://docs.google.com/forms/d/e/1FAIpQLSfp_tgQU3WmxoxSQvg5se8AIUswZr6wWkG45o6FrXrnTjLNRA/viewform?usp=sf_link
+
+We expect that at least the first quarter of 2021 meetings will be online. When it is safe to do so, we hope to return to in-person meetings.
