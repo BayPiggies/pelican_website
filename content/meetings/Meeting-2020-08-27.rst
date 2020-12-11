@@ -3,7 +3,7 @@ Thursday, August 27th, 2020 Meeting
 
 :date: 2020-08-27 19:00
 :modified: 2020-08-23 12:25
-:tags: meeting
+:tags: meeting, video
 :category: meetings
 :slug: meeting-2020-08-27
 :summary: Online Meeting: Snakes and Queens!
@@ -14,6 +14,13 @@ This month, we'll have two talks:
 
 * Kat Cosgrove - *Snakes on a Car: Or, Over-engineering a Toy*
 * Aaron David Goldman - *Eight Queens in python and rust*
+
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oCMWjRAvoyY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Snakes on a car: or Over-engineering a Toy
 ------------------------------------------
