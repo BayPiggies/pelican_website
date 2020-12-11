@@ -3,7 +3,7 @@ Thursday, July 23rd, 2020 Meeting
 
 :date: 2020-07-23 19:00
 :modified: 2020-07-16 12:25
-:tags: meeting
+:tags: meeting, video
 :category: meetings
 :slug: meeting-2020-07-23
 :summary: Online Meeting: Notebooks Night
@@ -14,6 +14,13 @@ This month, we'll have two talks about novel applications for Notebooks:
 
 * Nathan Neibauer - "Colab for Collaboration" (lightning talk)
 * Paul Karayan "Jupyter - Beyond Data Science"
+
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8WnCWdbpIPU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Colab for Collaboration
 -----------------------
