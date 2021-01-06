@@ -12,11 +12,8 @@ Thursday, January 28th, 2021 Meeting
 
 January Online Meeting: Serverless Computing with Wesley Chun and More!
 =======================================================================
-BayPiggies will be going on hiatus over the holidays and be back in force for 2021.
-For our first 2021 meeting, we will host Wesley Chun, Google Developer Advocate and a Fellow of the Python Software Association. There will also be a lightning talk from Chris
+For our first 2021 meeting, we will host Wesley Chun, Google Developer Advocate and a Fellow of the Python Software Foundation. There will also be a lightning talk from Chris
 Brousseau.
-
-See you in 2021!
 
 Lightning Talk: To Be Announced
 -------------------------------
