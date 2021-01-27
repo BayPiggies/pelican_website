@@ -11,8 +11,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 SSH_HOST=baypiggies.net
 SSH_PORT=22
 SSH_USER=baypiggies
-SSH_TARGET_DIR=/home/baypiggies/webapps/pelican
-
+SSH_TARGET_DIR=/home/baypiggies/www
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -84,3 +83,5 @@ rsync_upload: publish
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish ssh_upload rsync_upload
+
+
