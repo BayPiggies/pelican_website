@@ -57,7 +57,8 @@ PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = [
     'pin_to_top',
     'sitemap',
-    'i18n_subsites'
+    'i18n_subsites',
+    'pelican_alias'
     ]
 
 SITEMAP = {

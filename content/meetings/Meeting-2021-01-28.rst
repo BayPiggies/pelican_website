@@ -7,8 +7,7 @@ Thursday, January 28th, 2021 Meeting
 :category: meetings
 :slug: meeting-2021-01-28
 :summary: Serverless Computing with Wesley Chun
-:alias: /meeting-2021-01-28
-:save_as: index.html
+:alias: /
 
 January Online Meeting: Serverless Computing with Wesley Chun and More!
 =======================================================================
@@ -34,7 +33,7 @@ Speaker bio: Wesley Chun
 ~~~~~~~~~~~~~~~~~~~~~~~~
 WESLEY CHUN (@wescpy) is the author of Prentice Hall's bestselling "Core Python" (corepython.com) series, co-author of "Python Web Development with Django" (withdjango.com), and has written for Linux Journal, CNET, and InformIT. In addition to being a Developer Advocate at Google focused on Google Cloud (for higher education) and a host of the G Suite Dev Show (goo.gl/JpBQ40), he runs CyberWeb (cyberwebconsulting.com), a consultancy specializing in Python training. Wesley has over 25 years of programming, teaching, and writing experience, and was one of the original Yahoo!Mail engineers. He holds degrees in CS, Math, and Music from the University of California, is a Fellow of the Python Software Foundation, and Adjunct Computer Science faculty at Foothill College in Silicon Valley.
 
-.. image:: http://commondatastorage.googleapis.com/eventpoint-gschedule2018-documents/201803090653/registrants/photos/d49417b6-3bcc-4ade-a783-f7cdf628483d.jpg
+.. image:: https://commondatastorage.googleapis.com/eventpoint-gschedule2018-documents/201803090653/registrants/photos/d49417b6-3bcc-4ade-a783-f7cdf628483d.jpg
    :alt: Picture of Wesley Chun
    :width: 400
 
