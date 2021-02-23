@@ -40,13 +40,13 @@ Attendees will get a quick introduction to SCons,it’s build files SConstruct a
 
 Speaker bio: William Deegan
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-William Deegan (@bdbaddog) is the founder of Bad Dog Consulting, which specializes in build and test automation, CI, CD. Additionally they provide mobile development and general software development services and Coverity Deployment and maintenance.
+William Deegan (@bdbaddog) is the founder of Bad Dog Consulting, which specializes in build and test automation, CI, CD. Additionally the firm provides mobile development and general software development services and Coverity Deployment and maintenance.
 
-A survivor of 18 startups (so far), Bill started his career at Digital Equipment Corporation writing chip design software (aka EDA tools). Graduated from RIT with a bachelor's degree in Computer Engineering.
+A survivor of 18 startups (so far), Bill started his career at Digital Equipment Corporation writing chip design software (aka EDA tools). Bill graduated from Rochester Institute of Technology with a bachelor's degree in Computer Engineering.
 
 In his spare time, Bill enjoys training for Triathlons, running, cycling, reading, and occasionally wrenching on cars.
 
-Bill is active in open source, co-manager of the SCons project, on the board of directors of Buildbot Project, and has been running the Baypiggies website and assisted in running Baypiggies for many years.
+Bill is active in open source, serving as co-manager of the SCons project and on the board of directors of Buildbot Project. Bill also manages the Baypiggies website and assisted in running Baypiggies for many years.
 
 .. image:: /images/meetings/bill-deegan.jpg
    :alt: Picture of William Deegan
