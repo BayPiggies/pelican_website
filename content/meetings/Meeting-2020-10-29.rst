@@ -2,8 +2,8 @@ Thursday, October 29th, 2020 Meeting
 ######################################
 
 :date: 2020-10-29 19:00
-:modified: 2020-10-18 12:25
-:tags: meeting
+:modified: 2021-02-23 11:11
+:tags: meeting, video
 :category: meetings
 :slug: meeting-2020-10-29
 :summary: Monkey Test, MonkeyType by Moshe Zadka
@@ -13,7 +13,13 @@ October Online Meeting: Monkey Test, MonkeyType
 This month, we will have the famous Moshe Zadka talk about how to get your types for free! We'll also be having
 a brilliant lightning talk about Cookiecutter by Richard Katz.
 
-Note that we are having the meeting a **week later than usual** (5th Thursday instead of 4th) due to the (potential) presidential debate.
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/J7enXZR9Puw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Lightning Talk: Cookiecutter
 ----------------------------
@@ -39,25 +45,4 @@ How to add types to your code automatically by running your tests under `MonkeyT
 Speaker bio: Moshe Zadka
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Moshe has been using Python since 1998. He has contributed to CPython, and is a founding member of the Twisted project. He has been teaching Python in various venues since 2002.
-
-Code of Conduct
----------------
-https://baypiggies.net/pages/code_of_conduct.html
-
-Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
-Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
-
-RSVP
-----
-We will conduct the meeting via Zoom webinar. Please register in advance. To do so, go to the Meetup page for this event: https://www.meetup.com/BAyPIGgies/events/273964267. If you RSVP "Yes" to this event on MeetUp, we will send you an email with the link. We will also send the link to the baypiggies@python.org mailing list (sign-up here: https://mail.python.org/mailman/listinfo/baypiggies).
-
-Please note that:
-
-* You are expected to follow our code of conduct.
-
-* The meeting will be recorded and uploaded to our YouTube Channel at a later date.
-
-Speak at BayPiggies
--------------------
-We'd love to have more people sign up to speak at BayPiggies - just fill out this short application: https://docs.google.com/forms/d/e/1FAIpQLSfp_tgQU3WmxoxSQvg5se8AIUswZr6wWkG45o6FrXrnTjLNRA/viewform?usp=sf_link
 

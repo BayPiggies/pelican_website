@@ -1,0 +1,75 @@
+Thursday, February 25th, 2021 Meeting
+#####################################
+
+:date: 2021-02-25 19:00
+:modified: 2021-02-23 10:40
+:tags: meeting
+:category: meetings
+:slug: meeting-2021-02-25
+:summary: Build Systems: SCons and Snakemake
+:alias: /
+
+February Online Meeting: Python-based Build Systems
+===================================================
+This month, we will focus on build systems implemented in Python. We have two talks:
+a lightning talk on Snakemake and a full talk on SCons.
+
+.. image:: /images/meetings/scons-snakemake.png
+   :alt: logos of Snakemake and SCons
+
+
+Lightning Talk: Snakemake
+-------------------------
+Speaker: Jeff Fischer
+
+`Snakemake <https://snakemake.github.io>`_ is a Make-inspired framework for reproducible data analysis
+from the bioinformatics community. It provides integrations with shell, Python, Jupyter notebooks,
+and scientific computing infrastructure.
+
+Main Talk: SCons, a Python-based Make replacement
+-------------------------------------------------
+Speaker: William Deegan
+
+Description
+~~~~~~~~~~~
+`SCons <https://scons.org>`_ is an open source build tool written in Python. Originally released in 2001. It’s actively maintained and widely used. It’s developed with a focus on correctness, flexibility, and speed.
+
+It’s currently used by numerous large software and hardware companies for apps and embedded software and games.
+
+Attendees will get a quick introduction to SCons,it’s build files SConstruct and SConscripts, and some of SCons core concepts. Armed with this information, you can do a basic software build, and have a good base of knowledge to progress to fairly complicated builds.
+
+Speaker bio: William Deegan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+William Deegan (@bdbaddog) is the founder of Bad Dog Consulting, which specializes in build and test automation, CI, CD. Additionally they provide mobile development and general software development services and Coverity Deployment and maintenance.
+
+A survivor of 18 startups (so far), Bill started his career at Digital Equipment Corporation writing chip design software (aka EDA tools). Graduated from RIT with a bachelor's degree in Computer Engineering.
+
+In his spare time, Bill enjoys training for Triathlons, running, cycling, reading, and occasionally wrenching on cars.
+
+Bill is active in open source, co-manager of the SCons project, on the board of directors of Buildbot Project, and has been running the Baypiggies website and assisted in running Baypiggies for many years.
+
+.. image:: /images/meetings/bill-deegan.jpg
+   :alt: Picture of William Deegan
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
+Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
+
+RSVP
+----
+We will conduct the meeting via Zoom webinar. Please register in advance. To do so, go to the Meetup page for this event: https://www.meetup.com/BAyPIGgies/events/276526331/. If you RSVP "Yes" to this event on MeetUp, we will send you an email with the link. We will also send the link to the baypiggies@python.org mailing list (sign-up here: https://mail.python.org/mailman/listinfo/baypiggies).
+
+Please note that:
+
+* You are expected to follow our code of conduct.
+
+* The meeting will be recorded and uploaded to our YouTube Channel at a later date.
+
+Speak at BayPiggies in 2021!
+----------------------------
+We'd love to have you sign up to speak at BayPiggies - just fill out this short application: https://docs.google.com/forms/d/e/1FAIpQLSfp_tgQU3WmxoxSQvg5se8AIUswZr6wWkG45o6FrXrnTjLNRA/viewform?usp=sf_link
+
+We expect that at least the first half of 2021 meetings will be online. When it is safe to do so, we hope to return to in-person meetings.
