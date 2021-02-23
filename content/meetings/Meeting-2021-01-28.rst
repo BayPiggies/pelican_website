@@ -3,23 +3,29 @@ Thursday, January 28th, 2021 Meeting
 
 :date: 2021-01-28 19:00
 :modified: 2020-11-15 12:25
-:tags: meeting
+:tags: meeting, video
 :category: meetings
 :slug: meeting-2021-01-28
 :summary: Serverless Computing with Wesley Chun
-:alias: /
 
 January Online Meeting: Serverless Computing with Wesley Chun and More!
 =======================================================================
 For our first 2021 meeting, we will host Wesley Chun, Google Developer Advocate and a Fellow of the Python Software Foundation. There will also be a lightning talk from Chris
 Brousseau.
 
-Lightning Talk: To Be Announced
--------------------------------
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/nOj8y_gjSWI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Lightning Talk: Using Python to Analyze US Ballot Processing Laws
+-----------------------------------------------------------------
 Speaker: Chris Brousseau
 
-BayPiggies regular Chris Brousseau will be giving a lightning talk with a data science
-theme.
+BayPiggies regular Chris Brousseau gave a lightning talk on analyzing and visualizing ballot processing
+laws by state.
 
 Main Talk: Serverless Computing with Python & Google Cloud
 ----------------------------------------------------------
@@ -37,22 +43,6 @@ WESLEY CHUN (@wescpy) is the author of Prentice Hall's bestselling "Core Python"
    :alt: Picture of Wesley Chun
    :width: 400
 
-Code of Conduct
----------------
-https://baypiggies.net/pages/code_of_conduct.html
-
-Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
-Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
-
-RSVP
-----
-We will conduct the meeting via Zoom webinar. Please register in advance. To do so, go to the Meetup page for this event: https://www.meetup.com/BAyPIGgies/events/274623881/. If you RSVP "Yes" to this event on MeetUp, we will send you an email with the link. We will also send the link to the baypiggies@python.org mailing list (sign-up here: https://mail.python.org/mailman/listinfo/baypiggies).
-
-Please note that:
-
-* You are expected to follow our code of conduct.
-
-* The meeting will be recorded and uploaded to our YouTube Channel at a later date.
 
 Speak at BayPiggies in 2021!
 ----------------------------
