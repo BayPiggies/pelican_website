@@ -3,14 +3,25 @@ Thursday, April 23rd, 2020 Meeting
 
 :date: 2020-04-23 19:00
 :modified: 2020-04-22 15:15
-:tags: meeting
+:tags: meeting, video
 :category: meetings
 :slug: meeting-2020-04-23
 :summary: April Online Meeting: Lightning Talks and Data Workspaces
 
 April Online Meeting: Lightning Talks and Data Workspaces
 =========================================================
-We will have our meeting online-only this month, using a Zoom webinar. We will have lightning talks from BayPiggies members about the side projects you are working on during the “shelter in-place.” We will then have a talk from Jeff Fischer on *Data Workspaces: Python-based Management of your (Data) Science Projects*.
+This month, we had two talks:
+
+* A lightning talk from Raul Maldonado: *Survival Analysis with Lifelines*
+* A full talk from Jeff Fischer: *Data Workspaces: Python-based Management of your (Data) Science Projects*
+
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/wHBE3ZUDgnA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Location
 --------
@@ -23,23 +34,6 @@ Please note that:
 1. You are expected to follow our `code of conduct <https://baypiggies.net/pages/code_of_conduct.html>`_.
 2. The meeting will be recorded and uploaded to our `YouTube Channel <https://www.youtube.com/channel/UCBJV1sd5XcVhijm13pWfBCg>`_ at a later date.
 
-
-Meeting Details
----------------
-Meeting Schedule (preliminary):
-
-* 7:00 pm Announcements
-* 7:10 pm Lightning Talks
-* 7:40 pm Main Talk
-* 8:25 pm Networking?
-* 9:00 pm Event ends
-
-Lightning Talks
----------------
-We will have two lightning talks:
-
-1. Jim Salsman - "The US covid-19 testing bottleneck distorts forecasts"
-2. Raul Maldonado - "Survival Analysis with Lifelines"
 
 Data Workspaces: Python-based Management of your (Data) Science Projects
 ------------------------------------------------------------------------
