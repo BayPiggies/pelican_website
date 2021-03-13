@@ -3,11 +3,10 @@ Thursday, February 25th, 2021 Meeting
 
 :date: 2021-02-25 19:00
 :modified: 2021-02-23 10:40
-:tags: meeting
+:tags: meeting, video
 :category: meetings
 :slug: meeting-2021-02-25
 :summary: Build Systems: SCons and Snakemake
-:alias: /
 
 February Online Meeting: Python-based Build Systems
 ===================================================
@@ -17,6 +16,12 @@ a lightning talk on Snakemake and a full talk on SCons.
 .. image:: /images/meetings/scons-snakemake.png
    :alt: logos of Snakemake and SCons
 
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/mw3tNyxnq3M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Lightning Talk: Snakemake
 -------------------------
@@ -51,25 +56,3 @@ Bill is active in open source, serving as co-manager of the SCons project and on
 .. image:: /images/meetings/bill-deegan.jpg
    :alt: Picture of William Deegan
 
-Code of Conduct
----------------
-https://baypiggies.net/pages/code_of_conduct.html
-
-Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
-Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
-
-RSVP
-----
-We will conduct the meeting via Zoom webinar. Please register in advance. To do so, go to the Meetup page for this event: https://www.meetup.com/BAyPIGgies/events/276526331/. If you RSVP "Yes" to this event on MeetUp, we will send you an email with the link. We will also send the link to the baypiggies@python.org mailing list (sign-up here: https://mail.python.org/mailman/listinfo/baypiggies).
-
-Please note that:
-
-* You are expected to follow our code of conduct.
-
-* The meeting will be recorded and uploaded to our YouTube Channel at a later date.
-
-Speak at BayPiggies in 2021!
-----------------------------
-We'd love to have you sign up to speak at BayPiggies - just fill out this short application: https://docs.google.com/forms/d/e/1FAIpQLSfp_tgQU3WmxoxSQvg5se8AIUswZr6wWkG45o6FrXrnTjLNRA/viewform?usp=sf_link
-
-We expect that at least the first half of 2021 meetings will be online. When it is safe to do so, we hope to return to in-person meetings.
