@@ -3,11 +3,10 @@ Thursday, March 25th, 2021 Meeting
 
 :date: 2021-03-25 19:00
 :modified: 2021-03-12 15:15
-:tags: meeting
+:tags: meeting, video
 :category: meetings
 :slug: meeting-2021-03-25
 :summary: How to Reduce Scikit-Learn Training Time
-:alias: /
 
 March Online Meeting: How to Reduce Scikit-Learn Training Time
 ==============================================================
@@ -15,6 +14,13 @@ This month, we'll have a talk from Michael Galarnyk of Anyscale about three ways
 
 .. image:: /images/meetings/sklearn-ray-logos.png
    :alt: logos of Scikit-learn and Ray Projects
+
+Video of Presentation
+  From YouTube
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jKjO-4KZ6zI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Talk Description
 ----------------
@@ -30,25 +36,3 @@ Speaker Bio
 ~~~~~~~~~~~
 Michael Galarnyk works in Developer Relations at `Anyscale <https://www.anyscale.com>`_, the company behind the `Ray Project <https://ray.io>`_. In his spare time, he teaches Python based Machine Learning classes through Stanford Continuing Studies and LinkedIn Learning. You can find him on Twitter (https://twitter.com/GalarnykMichael), Medium (https://medium.com/@GalarnykMichael), and GitHub (https://github.com/mGalarnyk).
 
-Code of Conduct
----------------
-https://baypiggies.net/pages/code_of_conduct.html
-
-Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
-Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
-
-RSVP
-----
-We will conduct the meeting via Zoom webinar. Please register in advance. To do so, go to the Meetup page for this event: https://www.meetup.com/BAyPIGgies/events/276852797. If you RSVP "Yes" to this event on MeetUp, we will send you an email with the link. We will also send the link to the baypiggies@python.org mailing list (sign-up here: https://mail.python.org/mailman/listinfo/baypiggies).
-
-Please note that:
-
-* You are expected to follow our code of conduct.
-
-* The meeting will be recorded and uploaded to our YouTube Channel at a later date.
-
-Speak at BayPiggies in 2021!
-----------------------------
-We'd love to have you sign up to speak at BayPiggies - just fill out this short application: https://docs.google.com/forms/d/e/1FAIpQLSfp_tgQU3WmxoxSQvg5se8AIUswZr6wWkG45o6FrXrnTjLNRA/viewform?usp=sf_link
-
-We expect that at least the first half of 2021 meetings will be online. When it is safe to do so, we hope to return to in-person meetings.
