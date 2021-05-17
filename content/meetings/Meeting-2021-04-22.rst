@@ -7,7 +7,6 @@ Thursday, April 22nd, 2021 Meeting
 :category: meetings
 :slug: meeting-2021-04-22
 :summary: Data Formats and PyMC3
-:alias: /
 
 April Online Meeting: Data Formats and PyMC3
 ============================================
