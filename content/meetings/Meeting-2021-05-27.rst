@@ -1,0 +1,64 @@
+Thursday, May 27th 2021 Meeting
+###############################
+
+:date: 2021-05-27 19:00
+:modified: 2021-05-17 15:00
+:tags: meeting
+:category: meetings
+:slug: meeting-2021-05-27
+:summary: Career Advice and Options for Pythonistas
+:alias: /
+
+April Online Meeting: Career Advice and Options for Pythonistas
+===============================================================
+This month, we will have two talks and a panel discussion, all with a career-oriented theme. The agenda is:
+
+* Karen Dalton, *Research Software Engineering in Academia: Industry is Not the Only Option*
+* Michael Galarnyk, *Building a Data Science Portfolio*
+* Panel discussion, *Career options for Pythonistas*
+
+
+
+Research Software Engineering in Academia: Industry is Not the Only Option
+--------------------------------------------------------------------------
+Python is used by many organizations, not just large SV companies and startups. Come
+hear Karen talk about her experiences in academic research.
+
+**Speaker Bio: Karen Dalton**
+
+Karen Dalton (`@kilodalton <https://twitter.com/kilodalton>`_) is Principal Software Engineer at Stanford University and has been a tech lead for a few large research consortia in the "omics" space (genomics, proteomics, metabolomics, etc), as an individual contributor and as a engineering manager (Molecular Transducers of Physical Activity Consortia [MoTrPAC], Clinical Genome project [ClinGen]). She has has also worked in industry. She is a co-organizer of BayPiggies, and has been a volunteer at PyBay for several years. She has been a software developer for over 20 years. While every organization has unique opportunities, academia in particular has a rich array of rewards and frustrating challenges for software developers but they need you!
+
+Building a Data Science Portfolio
+---------------------------------
+How do you get a job in data science? Knowing enough statistics, machine learning, programming, etc to be able to get a job is difficult. While a resume matters, having a portfolio of public evidence of your data science skills can do wonders for your job prospects. Even if you have a referral, the ability to show potential employers what you can do instead of just telling them you can do something is important.
+
+**Speaker Bio: Michael Galarnyk**
+
+Michael Galarnyk works in Developer Relations at Anyscale, the company behind the Ray Project. In his spare time, he teaches Python based Machine Learning classes through Stanford Continuing Studies and LinkedIn Learning. You can find him on Twitter (https://twitter.com/GalarnykMichael), Medium (https://medium.com/@GalarnykMichael), and GitHub (https://github.com/mGalarnyk).
+
+Panel Discussion
+----------------
+Q&A with the speakers and other BayPiggies members about career options. If you are using Python in an interesting way in your job, we'd love to have you join our panel discussion! Just contact the organizers.
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
+Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
+
+RSVP
+----
+We will conduct the meeting via Zoom webinar. Please register in advance. To do so, go to the Meetup page for this event: https://www.meetup.com/BAyPIGgies/events/277595455/. If you RSVP "Yes" to this event on MeetUp, we will send you an email with the link. We will also send the link to the baypiggies@python.org mailing list (sign-up here: https://mail.python.org/mailman/listinfo/baypiggies).
+
+Please note that:
+
+* You are expected to follow our code of conduct.
+
+* The meeting will be recorded and uploaded to our YouTube Channel at a later date.
+
+Speak at BayPiggies in 2021!
+----------------------------
+We'd love to have you sign up to speak at BayPiggies - just fill out this short application: https://docs.google.com/forms/d/e/1FAIpQLSfp_tgQU3WmxoxSQvg5se8AIUswZr6wWkG45o6FrXrnTjLNRA/viewform?usp=sf_link
+
+We expect that at least the first half of 2021 meetings will be online. When it is safe to do so, we hope to return to in-person meetings.
