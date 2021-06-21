@@ -1,0 +1,54 @@
+Thursday, June 24th 2021 Meeting
+################################
+
+:date: 2021-06-24 19:00
+:modified: 2021-06-21 10:00
+:tags: meeting
+:category: meetings
+:slug: meeting-2021-06-24
+:summary: Fun with Generators
+:alias: /
+
+June Online Meeting: Fun with Generators
+========================================
+This month, we will have a talk about generators from Vinay Sawal, of Dell. Level up your Python programming!
+
+We are also looking for lightning talks (5 - 10 minutes) to hold ahead of our main talk. Please contact us if you are interested in giving a talk.
+
+Lightning Talk: TBD
+-------------------
+This is a great opportunity to practice your public speaking and share your knowledge!
+
+Fun with Generators
+-------------------
+Generators allow you to declare a function that behaves like an iterator. It uses lazy evaluation technique to iterate over an iterable thus saving memory. It’s very useful when you have to process a very large input set that may not fit into the memory.
+
+
+**Speaker Bio: Vinay Sawal**
+
+Vinay Sawal is a Distinguished Member of Technical Staff in Cloud Platform & Services Organization in Dell Technologies. In his current role, he’s working as a Software Architect for designing and validating Infrastructure-as-a-Service offerings under the Project APEX umbrella that includes Storage-as-a-Service, Compute-as-a-Service, Data Protection Service, etc. Vinay’s interest lies in developing machine-learning & deep-learning models for solving issues encountered during product development. Vinay has more than 25 granted patents in USA, Europe and Asia.
+
+
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
+Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
+
+RSVP
+----
+We will conduct the meeting via Zoom webinar. Please register in advance. To do so, go to the Meetup page for this event: https://www.meetup.com/BAyPIGgies/events/278833394/. If you RSVP "Yes" to this event on MeetUp, we will send you an email with the link. We will also send the link to the baypiggies@python.org mailing list (sign-up here: https://mail.python.org/mailman/listinfo/baypiggies).
+
+Please note that:
+
+* You are expected to follow our code of conduct.
+
+* The meeting will be recorded and uploaded to our YouTube Channel at a later date.
+
+Speak at BayPiggies in 2021!
+----------------------------
+We'd love to have you sign up to speak at BayPiggies - just fill out this short application: https://docs.google.com/forms/d/e/1FAIpQLSfp_tgQU3WmxoxSQvg5se8AIUswZr6wWkG45o6FrXrnTjLNRA/viewform?usp=sf_link
+
+We expect that the summer/fall 2021 meetings will be online. When it is safe to do so, we hope to return to in-person meetings.
