@@ -11,13 +11,15 @@ Thursday, June 24th 2021 Meeting
 
 June Online Meeting: Fun with Generators
 ========================================
-This month, we will have a talk about generators from Vinay Sawal, of Dell. Level up your Python programming!
+This month, we will have a lightning talk about Python performance tuning from Ryan Kuhl and a full talk about generators from Vinay Sawal, of Dell. Level up your Python programming!
 
-We are also looking for lightning talks (5 - 10 minutes) to hold ahead of our main talk. Please contact us if you are interested in giving a talk.
+Lightning Talk
+--------------
+"The Fast and the Furious: Tuning Python Code" by Ryan Kuhl
 
-Lightning Talk: TBD
--------------------
-This is a great opportunity to practice your public speaking and share your knowledge!
+**Speaker Bio: Ryan Kuhl**
+
+Ryan is a Sr. BE Engineer at Tatari and a Fast and Furious super-fan!
 
 Fun with Generators
 -------------------
