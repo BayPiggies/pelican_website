@@ -2,8 +2,8 @@ Thursday, April 22nd, 2021 Meeting
 ##################################
 
 :date: 2021-04-22 19:00
-:modified: 2021-04-19 10:00
-:tags: meeting
+:modified: 2021-06-24 10:00
+:tags: meeting, video
 :category: meetings
 :slug: meeting-2021-04-22
 :summary: Data Formats and PyMC3
@@ -17,12 +17,18 @@ This month, we will have two talks:
 
 
 .. image:: /images/meetings/baypiggies-talks-april-2021.png
-   :alt: Logs for the talks
+   :alt: Logos for the talks
 
+Video of Presentation
+   From YouTube
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FbKW2nJUHiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Beginner's Guide to Data Formats: JSON, XML, and YAML
 -----------------------------------------------------
-Reviving the famous "newbie nugget" format, Glen will compare and contrast the most popular data formats used in Python applications, along with their associated Python APIs.
+Reviving the famous "newbie nugget" format, Glen will compare and contrast the most popular data formats used in Python applications, along with their associated Python APIs. The associated code repository is available here: https://github.com/glenjarvis/talk-yaml-json-xml-oh-my
 
 **Speaker Bio: Glen Jarvis**
 
@@ -34,30 +40,9 @@ PyMC3 is a python package for Bayesian statistical modeling and probabilistic ma
 
 Moreover, we will discuss what is coming up in the probabilistic programming ecosystem.
 
+Raul's slides are available here: https://raulingaverage.dev/Presentations/BayPiggies/Intro-to-PyMC3
+
 **Speaker Bio: Raul Maldonado**
 
 Raul is a Data Analyst residing in San Francisco, CA. He specializes in SQL Python, BI, and other related responsibilities. Additionally, he spends his time creating technical side-projects and volunteering in the intersection of Data and Technology/Coding.
 
-
-Code of Conduct
----------------
-https://baypiggies.net/pages/code_of_conduct.html
-
-Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
-Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
-
-RSVP
-----
-We will conduct the meeting via Zoom webinar. Please register in advance. To do so, go to the Meetup page for this event: https://www.meetup.com/BAyPIGgies/events/277180364/. If you RSVP "Yes" to this event on MeetUp, we will send you an email with the link. We will also send the link to the baypiggies@python.org mailing list (sign-up here: https://mail.python.org/mailman/listinfo/baypiggies).
-
-Please note that:
-
-* You are expected to follow our code of conduct.
-
-* The meeting will be recorded and uploaded to our YouTube Channel at a later date.
-
-Speak at BayPiggies in 2021!
-----------------------------
-We'd love to have you sign up to speak at BayPiggies - just fill out this short application: https://docs.google.com/forms/d/e/1FAIpQLSfp_tgQU3WmxoxSQvg5se8AIUswZr6wWkG45o6FrXrnTjLNRA/viewform?usp=sf_link
-
-We expect that at least the first half of 2021 meetings will be online. When it is safe to do so, we hope to return to in-person meetings.
