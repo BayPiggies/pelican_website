@@ -3,23 +3,29 @@ Thursday, June 24th 2021 Meeting
 
 :date: 2021-06-24 19:00
 :modified: 2021-06-21 10:00
-:tags: meeting
+:tags: meeting, video
 :category: meetings
 :slug: meeting-2021-06-24
 :summary: Fun with Generators
-:alias: /
 
 June Online Meeting: Fun with Generators
 ========================================
-This month, we will have a lightning talk about Python performance tuning from Ryan Kuhl and a full talk about generators from Vinay Sawal, of Dell. Level up your Python programming!
+This month, we will have a lightning talk about SQLAlchemy tuning from Ryan Kuhl and a full talk about generators from Vinay Sawal, of Dell. Level up your Python programming!
+
+Video of Presentation
+   From YouTube
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yTNIySqK1Uo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Lightning Talk
 --------------
-"The Fast and the Furious: Tuning Python Code" by Ryan Kuhl
+"SQLAlchemy and You" by Ryan Kuhl
 
 **Speaker Bio: Ryan Kuhl**
 
-Ryan is a Sr. BE Engineer at Tatari and a Fast and Furious super-fan!
+Ryan is a Sr. BE Engineer at Tatari
 
 Fun with Generators
 -------------------
