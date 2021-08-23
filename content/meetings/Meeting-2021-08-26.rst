@@ -11,10 +11,22 @@ Thursday, August 26th 2021 Meeting
 
 August Online Meeting: Iterator Lightning Talk and Ray
 ======================================================
-There will be no BayPiggies meeting for July. Have a great summer! We return for two exciting talks on August 26th:
+Hope you had a great summer! We return for two exciting talks on August 26th:
 
 * Lightning talk on Iterators from Amish Shah
 * Full talk on Ray from Michael Galarnyk
+
+.. image:: /images/meetings/baypiggies-august-2021.png
+   :alt: iterator image and ray logo
+
+Lightning Talk: Iterators
+-------------------------
+This talk is about iterables and iterators, showing why we use them, how powerful they are, and how you can build your own custom iterators.
+
+**Speaker Bio: Amish Shah**
+
+Amish Shah works at Palo Alto Networks as an engineer on the Prisma Cloud product. He has acquired experiences in various software engineering domains: web development, mobile applications, distributed computing, cloud architecture, big data at different startups. Previously, Amish built cloud based and mobile products, enterprise DW/BI and big data systems at Qventus and Kno. Amish holds a Masters in Computer Engineering from University of Texas at Austin.
+
 
 Ray: A System for Parallel and Distributed Machine Learning
 -----------------------------------------------------------
