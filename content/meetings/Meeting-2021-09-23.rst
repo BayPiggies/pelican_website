@@ -1,0 +1,48 @@
+Thursday, September 23rd 2021 Meeting
+#####################################
+
+:date: 2021-09-23 19:00
+:modified: 2021-09-20 10:00
+:tags: meeting
+:category: meetings
+:slug: meeting-2021-09-23
+:summary: Django forms as a data management and ETL tool for R&D
+:alias: /
+
+September Online Meeting: Django forms as a data management and ETL tool for R&D
+================================================================================
+This month, we'll have a talk from Aaron Wiegel about using Django forms as a data management and ETL tool. There's also an open slot for a lightning talk. Contact us if you are interested!
+
+.. image:: /images/meetings/baypiggies-sept-2021.png
+   :alt: Meeting picture
+
+Django forms as a data management and ETL tool for R&D
+------------------------------------------------------
+As even a relatively small R&D-oriented organization grows, the need to aggregate data from multiple experiments becomes key to generating new insights to advance that growth. However, the data from these experiments is often scattered across multiple spreadsheets with different formats, and the tracking of metadata necessary for aggregation can be very poor. Creating a simple web application using Django forms enables this process by both allowing users to track experimental conditions and other associated metadata and to validate measurements taken within those spreadsheets. Furthermore, such an application can generate standardized spreadsheets to unify data collection efforts. Using even a relatively simple set of forms can provide a basis for a minimal viable product to start the process of aggregation and bridge the gap between siloed experimental spreadsheets and a more useful and user-friendly data warehouse solution.
+
+**Speaker Bio: Aaron Wiegel**
+
+Aaron Wiegel, PhD is a data engineer at Pivot Bio, a biotech start up that provides genetically engineered bacteria to fix nitrogen for corn as a replacement for synthetic fertilizer. He previously did research in experimental physical and atmospheric chemistry before changing careers to data science 5 years ago.
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
+Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
+
+RSVP
+----
+We will conduct the meeting via Zoom webinar. Please register in advance. To do so, go to the Meetup page for this event: https://www.meetup.com/BAyPIGgies/events/279051619/. If you RSVP "Yes" to this event on MeetUp, we will send you an email with the link. We will also send the link to the baypiggies@python.org mailing list (sign-up here: https://mail.python.org/mailman/listinfo/baypiggies).
+
+Please note that:
+
+* You are expected to follow our code of conduct.
+
+* The meeting will be recorded and uploaded to our YouTube Channel at a later date.
+
+Speak at BayPiggies in 2021!
+----------------------------
+We'd love to have you sign up to speak at BayPiggies - just fill out this short application: https://docs.google.com/forms/d/e/1FAIpQLSfp_tgQU3WmxoxSQvg5se8AIUswZr6wWkG45o6FrXrnTjLNRA/viewform?usp=sf_link
+
+We expect that the fall 2021 meetings will be online. When it is safe to do so, we hope to return to in-person meetings.
