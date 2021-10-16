@@ -7,7 +7,6 @@ Thursday, September 23rd 2021 Meeting
 :category: meetings
 :slug: meeting-2021-09-23
 :summary: Django forms as a data management and ETL tool for R&D
-:alias: /
 
 September Online Meeting: Django forms as a data management and ETL tool for R&D
 ================================================================================
@@ -41,8 +40,3 @@ Please note that:
 
 * The meeting will be recorded and uploaded to our YouTube Channel at a later date.
 
-Speak at BayPiggies in 2021!
-----------------------------
-We'd love to have you sign up to speak at BayPiggies - just fill out this short application: https://docs.google.com/forms/d/e/1FAIpQLSfp_tgQU3WmxoxSQvg5se8AIUswZr6wWkG45o6FrXrnTjLNRA/viewform?usp=sf_link
-
-We expect that the fall 2021 meetings will be online. When it is safe to do so, we hope to return to in-person meetings.
