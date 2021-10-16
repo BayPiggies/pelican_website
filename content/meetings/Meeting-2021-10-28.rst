@@ -1,0 +1,44 @@
+Thursday, October 28th 2021 Meeting
+###################################
+
+:date: 2021-10-28 19:00
+:modified: 2021-10-15 18:00
+:tags: meeting
+:category: meetings
+:slug: meeting-2021-10-28
+:summary: Practical ML and a Lightning Talk
+:alias: /
+
+October Online Meeting: Practical ML and a Lightning Talk
+=========================================================
+This month, we'll have a talk from Tyler Suard on Machine Learning in business.
+
+We are also looking for a speaker to give a lightning talk (5 to 15 minutes). If you are interested, please contact us.
+
+Practical ML: How Business Are Using AI
+------------------------------------------------------
+AI is super cool... but is it practical? This talk explores the many ways that AI is being used in businesses, so you can make money building it.
+
+**Speaker Bio: Tyler Suard**
+
+Tyler Suard is a Python software developer in the field of Machine Learning and AI. He loves spaceships, giant robots, and his cat Ridley.
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
+Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
+
+RSVP
+----
+We will conduct the meeting via Zoom. Please register in advance. To do so, go to the Meetup page for this event:
+https://www.meetup.com/BAyPIGgies/events/281452793/. If you RSVP "Yes" to this event on MeetUp, the link to the Zoom meeting
+will be displayed.
+
+Please note that:
+
+* You are expected to follow our code of conduct.
+
+* The meeting will be recorded and uploaded to our YouTube Channel at a later date.
+
