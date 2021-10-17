@@ -9,11 +9,27 @@ Thursday, October 28th 2021 Meeting
 :summary: Practical ML and a Lightning Talk
 :alias: /
 
-October Online Meeting: Practical ML and a Lightning Talk
-=========================================================
-This month, we'll have a talk from Tyler Suard on Machine Learning in business.
+Data Science Night: Practical ML and Data Science Interviews
+============================================================
+For our October online meeting, we'll have a talk from Tyler Suard on Machine Learning in business and a lightning talk from Linda Zhou on data science interviews.
 
-We are also looking for a speaker to give a lightning talk (5 to 15 minutes). If you are interested, please contact us.
+**Agenda:**
+
+* 7:00 pm - 7:10 pm -- Announcements
+* 7:10 pm - 7:25 pm -- Lightning talk
+* 7:30 pm - 8:15 pm -- Main talk
+
+.. image:: /images/meetings/baypiggies-oct-2021.png
+   :alt: Meeting picture
+
+
+Lightning Talk: Data Science Interviews from a Hiring Manager's Perspective
+---------------------------------------------------------------------------
+What is the difference between a Data Scientist, a Data Engineer, a Data Analyst, and an ML Engineer? Which should I apply for? What can I do to prepare for my interview?
+
+**Speaker Bio: Linda Zhou**
+
+Linda is a Director of Data Science Engineering at Cisco in the AppDynamics product line. She has worked in various roles in engineering, product management, alliances, and solutions marketing. She received an MBA from Carnegie Mellon University and a BS in Computer Science and Engineering from Jinan University.
 
 Practical ML: How Business Are Using AI
 ------------------------------------------------------
