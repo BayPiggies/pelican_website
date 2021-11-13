@@ -1,0 +1,59 @@
+Thursday, November 18th 2021 Meeting
+####################################
+
+:date: 2021-11-18 19:00
+:modified: 2021-11-12 18:00
+:tags: meeting
+:category: meetings
+:slug: meeting-2021-11-18
+:summary: Practical ML and a Lightning Talk
+:alias: /
+
+DevOps Buzzwords Explained for a Python Audience
+================================================
+For our November online meeting, Glen Jarvis will give a talk on DevOps. Note that, due to Thanksgiving,
+the talk is on the third Thursday, rather than the usual fourth Thursday of the month.
+
+**Agenda:**
+
+* 7:00 pm - 7:10 pm -- Announcements
+* 7:10 pm - 8:15 pm -- Main talk
+
+.. image:: /images/meetings/baypiggies-nov-2021.png
+   :alt: Meeting picture
+   :align: center
+
+
+
+DevOps Buzzwords Explained for a Python Audience
+------------------------------------------------------
+This talk was inspired by a 2007 talk given at BayPiggies by Charles Merriam on web framework buzzwords and also by community interviews I recently conducted when considering a book proposal. This talk for DevOps buzzwords has been customized for the BayPiggies audience!
+
+The DevOps/SRE space is huge. So, the talk will be a high level overview of DevOps and SRE work that would be visible or pertinent to the Python community.
+
+There will be several demos of each of these areas within DevOps: Code, Test, Build, Deploy, Release and Measure. For simplicity, Ansible will be used for most demos where it can be applicable. And in the other cases, tools such as CircleCI will be used.
+
+**Speaker Bio: Glen Jarvis**
+
+Glen Jarvis has been a Web Developer, Informix DBA and DevOps engineer and manger for over 15 years. He has worked in companies such as IBM, Pandora and SiriusXM as well as helping to build several startups in the Bay Area that are still running today.
+
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
+Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
+
+RSVP
+----
+We will conduct the meeting via Zoom. Please register in advance. To do so, go to the Meetup page for this event:
+https://www.meetup.com/BAyPIGgies/events/281721855/. If you RSVP "Yes" to this event on MeetUp, the link to the Zoom meeting
+will be displayed.
+
+Please note that:
+
+* You are expected to follow our code of conduct.
+
+* The meeting will be recorded and uploaded to our YouTube Channel at a later date.
+
