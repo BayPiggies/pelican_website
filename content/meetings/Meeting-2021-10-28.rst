@@ -7,7 +7,6 @@ Thursday, October 28th 2021 Meeting
 :category: meetings
 :slug: meeting-2021-10-28
 :summary: Practical ML and a Lightning Talk
-:alias: /
 
 Data Science Night: Practical ML and Data Science Interviews
 ============================================================
