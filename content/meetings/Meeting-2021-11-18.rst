@@ -6,8 +6,7 @@ Thursday, November 18th 2021 Meeting
 :tags: meeting
 :category: meetings
 :slug: meeting-2021-11-18
-:summary: Practical ML and a Lightning Talk
-:alias: /
+:summary: DevOps Buzzwords Explained
 
 DevOps Buzzwords Explained for a Python Audience
 ================================================
