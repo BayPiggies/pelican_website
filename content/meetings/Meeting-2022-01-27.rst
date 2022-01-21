@@ -1,0 +1,57 @@
+January 27, 2022 Meeting
+####################################
+
+:date: 2022-01-27 19:00
+:tags: meeting
+:category: meetings
+:slug: time-series-anomaly-detection
+:summary: Time Series Anomaly Detection
+:alias: /
+
+Time Series Anomaly Detection
+=============================
+This month, we'll have a talk from Linda Zhou on Time Series Anomaly Detection. We are also looking for a lightning talk (10 - 15 minutes). If you are interested in giving a talk, please reach out to us or submit a proposal
+`here <https://forms.gle/4qhh65FxRbL6uPxTA>`__.
+
+
+
+.. image:: /images/meetings/baypiggies-january-2022.png
+   :alt: Meeting picture
+   :align: center
+
+Main Talk: An Introduction to Time Series Anomaly Detection
+-----------------------------------------------------------
+The goal of time series anomaly detection is to identify unexpected data points or patterns in time-based sequences of values or events. This talk is for Python developers with a basic understanding of machine learning. I will cover common use cases for time series anomaly detection (e.g. observability, IoT failure prediction, fraud detection, log analysis), key terminology (e.g. outlier, change point, seasonality, drift, univariate, multivariate), statistical and ML algorithms (e.g. ARIMA, LOF, Isolation Forest), and Python libraries providing implementations of these models (e.g. Scikit-learn, PyCaret, Merlion, PYOD). At the end of the talk, you should have enough background to know where to start when approaching these types of problems.
+
+**Speaker Bio: Linda Zhou**
+
+Linda is a Director of Data Science Engineering at Cisco in the AppDynamics product line. She has worked in various roles in engineering, product management, alliances, and solutions marketing. She received an MBA from Carnegie Mellon University and a BS in Computer Science and Engineering from Jinan University.
+
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
+Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
+
+RSVP
+----
+We will conduct the meeting via Zoom. Please register in advance. To do so, go to the Meetup page for this event:
+https://www.meetup.com/BAyPIGgies/events/282508765. If you RSVP "Yes" to this event on MeetUp, the link to the Zoom meeting
+will be displayed.
+
+Call for Talks
+--------------
+We are looking for speakers for 2022. Due to the COVID-19 situation, our meetings are currently online-only. We assume this will be the case for the at least the first quarter, but will reevaluate the situation each month.
+
+We are looking for technical talks of interest to Python developers, either about the language and core libraries itself, popular libraries/platforms using Python (for example, Pandas andTensorFlow in Data Science, Flask and Django in web applications, Ansible in DevOPs), or other experiences using Python. See the list of past meetings at https://baypiggies.net/category/meetings.html to get a sense of topics. As our participants are using their personal time for these meetings, we request that talks are inclusive and not overly commercial, political, etc.
+
+Talks can range in length from 5 minutes to 45 minutes (see below). Most of our online meetings last about 90 minutes and include a short talk and a longer talk, but this can vary from month to month.
+
+You can apply for an online talk `here <https://forms.gle/4qhh65FxRbL6uPxTA>`__.
+
+This is a great opportunity to evangelize a project you love or to get practice with public speaking. We hope to hear
+from you!
+
+
