@@ -3,7 +3,7 @@ Thursday, October 28th 2021 Meeting
 
 :date: 2021-10-28 19:00
 :modified: 2021-10-15 18:00
-:tags: meeting
+:tags: meeting, video
 :category: meetings
 :slug: meeting-2021-10-28
 :summary: Practical ML and a Lightning Talk
@@ -12,15 +12,12 @@ Data Science Night: Practical ML and Data Science Interviews
 ============================================================
 For our October online meeting, we'll have a talk from Tyler Suard on Machine Learning in business and a lightning talk from Linda Zhou on data science interviews.
 
-**Agenda:**
+Video of Presentations
+  From YouTube
 
-* 7:00 pm - 7:10 pm -- Announcements
-* 7:10 pm - 7:25 pm -- Lightning talk
-* 7:30 pm - 8:15 pm -- Main talk
+.. raw:: html
 
-.. image:: /images/meetings/baypiggies-oct-2021.png
-   :alt: Meeting picture
-
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ajMb_F4TMeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Lightning Talk: Data Science Interviews from a Hiring Manager's Perspective
 ---------------------------------------------------------------------------

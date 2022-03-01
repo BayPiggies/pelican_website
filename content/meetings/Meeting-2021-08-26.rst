@@ -3,7 +3,7 @@ Thursday, August 26th 2021 Meeting
 
 :date: 2021-08-26 19:00
 :modified: 2021-07-21 10:00
-:tags: meeting
+:tags: meeting, video
 :category: meetings
 :slug: meeting-2021-08-26
 :summary: Iterator lightning talk and Ray
@@ -15,8 +15,12 @@ Hope you had a great summer! We return for two exciting talks on August 26th:
 * Lightning talk on Iterators from Amish Shah
 * Full talk on Ray from Michael Galarnyk
 
-.. image:: /images/meetings/baypiggies-august-2021.png
-   :alt: iterator image and ray logo
+Video of Presentations
+  From YouTube
+
+.. raw:: html
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fQoStgYYcpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Lightning Talk: Iterators
 -------------------------
