@@ -6,7 +6,6 @@ February 24, 2022 Meeting
 :category: meetings
 :slug: ray-docker-and-kubernetes
 :summary: Ray, Docker, and Kubernetes
-:alias: /
 
 Ray, Docker, and Kubernetes
 =============================
@@ -57,12 +56,6 @@ https://baypiggies.net/pages/code_of_conduct.html
 
 Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
 Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
-
-RSVP
-----
-We will conduct the meeting via Zoom. Please register in advance. To do so, go to the Meetup page for this event:
-https://www.meetup.com/BAyPIGgies/events/283390500/. If you RSVP "Yes" to this event on MeetUp, the link to the Zoom meeting
-will be displayed.
 
 Call for Talks
 --------------
