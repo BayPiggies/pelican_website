@@ -10,7 +10,8 @@ April 28, 2022 Meeting
 
 Scaling Pandas and Command Line Tools
 =====================================
-This month, we'll have a lightning talk about command line tools by Karen Dalton and a full talk about Modin by its creator, Devin Petersohn. Come join us!
+This month, we'll have a lightning talk about command line tools by Karen Dalton and a full talk about `Modin <https://github.com/modin-project/modin>`_
+by its creator, Devin Petersohn. Come join us!
 
 .. image:: /images/meetings/baypiggies-april-2022.png
    :alt: Meeting picture
@@ -24,7 +25,7 @@ She will be talking about rich (https://github.com/Textualize/rich) and typer (h
 
 Main Talk:  Scaling Up Your Pandas Workflows With Modin
 -------------------------------------------------------
-Pandas is one of the most commonly used data science libraries in Python, with a convenient set of APIs to help data scientists prepare, analyze, and explore their data. However, despite its widespread adoption, pandas suffers from severe memory and performance issues on moderately large datasets. We present `Modin <https://modin.readthedocs.io/en/stable/>`_, a fast, scalable drop-in replacement for pandas. By changing just a single line of code, Modin seamlessly speeds up pandas workflow on a laptop or in a cluster. Modin has over 6.6k GitHub stars, 2.8 million downloads, and is deployed at many data-centric organizations to accelerate dataframe workflows.
+Pandas is one of the most commonly used data science libraries in Python, with a convenient set of APIs to help data scientists prepare, analyze, and explore their data. However, despite its widespread adoption, pandas suffers from severe memory and performance issues on moderately large datasets. We present Modin (https://github.com/modin-project/modin), a fast, scalable drop-in replacement for pandas. By changing just a single line of code, Modin seamlessly speeds up pandas workflow on a laptop or in a cluster. Modin has over 6.6k GitHub stars, 2.8 million downloads, and is deployed at many data-centric organizations to accelerate dataframe workflows.
 
 
 **Speaker Bio: Devin Petersohn**
