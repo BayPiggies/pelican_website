@@ -6,14 +6,16 @@ March 24, 2022 Meeting
 :category: meetings
 :slug: pycon-practice
 :summary: Pycon Practice Talk by Ryan Kuhl
-:alias: /
 
 PyCon Practice Talk: GraphQL -- The Devil's API
 ===============================================
-This month, we'll have a talk from Ryan Kuhl, who will be speaking at PyCon next month.
+This month, we'll have a talk from Ryan Kuhl, who will be speaking at PyCon next month. We will also have a lightning talk from Irv Kalb, who will tell us about his new book on Python Object-Oriented programming.
 
-We still have a slot for another PyCon practice talk or lightning talk -- if you are speaking at PyCon, we'd love to have you speak at BayPiggies. Reach out to us, if you are interested.
+Lightning Talk: Master OOP by Building Games and GUI's
+------------------------------------------------------
 
+Irv Kalb will tell us about his new book, `Object Oriented Python <https://nostarch.com/object-oriented-python>`_, and hold a drawing to give out a free book.
+Irv is a member of the BayPiggies community and you may remember his `September 2020 BayPiggies talk </meeting-2020-09-24.html>`_ on PyGame Widgets.
 
 Main Talk: GraphQL -- The Devil's API
 -------------------------------------
