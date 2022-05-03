@@ -4,27 +4,24 @@ April 28, 2022 Meeting
 :date: 2022-04-28 19:00
 :tags: meeting
 :category: meetings
-:slug: scaling-pandas-and-command-line-tools
-:summary: Scaling Pandas and Command Line Tools
+:slug: scaling-pandas-and-testing
+:summary: Scaling Pandas and Testing
 :alias: /
 
-Scaling Pandas and Command Line Tools
+Scaling Pandas and Testing
 =====================================
-This month, we'll have a lightning talk about command line tools by Karen Dalton and a full talk about Modin by its creator, Devin Petersohn. Come join us!
+This month, we'll have a lightning talk about testing by Glen Jarvis and a full talk about `Modin <https://github.com/modin-project/modin>`_
+by its creator, Devin Petersohn. Come join us!
 
-.. image:: /images/meetings/baypiggies-april-2022.png
-   :alt: Meeting picture
-   :align: center
+Lightning Talk: 'Mock()'ing an old dog to 'return_value' new tricks
+-------------------------------------------------------------------
+**Speaker Bio: Glen Jarvis**
 
-Lightning Talk: Tools to Improve You Command Line Experience
-------------------------------------------------------------
-Karen Dalton is a Principal Software Engineer at Stanford University School of Medicine where she leads a team of research software engineers working on on the Clinical Genome Resource consortia's ClinGen Data Platform. She has been an active member of the Python community, including helping with BayPiggies and PyBay, for several years.
-
-She will be talking about rich (https://github.com/Textualize/rich) and typer (https://github.com/tiangolo/typer). They are two Python tools, both in very active development, that can make your command line experience better.
+Glen Jarvis has been a Web Developer, Informix DBA and DevOps engineer and manger for over 15 years. He has worked in companies such as IBM, Pandora and SiriusXM as well as helping to build several startups in the Bay Area that are still running today.
 
 Main Talk:  Scaling Up Your Pandas Workflows With Modin
 -------------------------------------------------------
-Pandas is one of the most commonly used data science libraries in Python, with a convenient set of APIs to help data scientists prepare, analyze, and explore their data. However, despite its widespread adoption, pandas suffers from severe memory and performance issues on moderately large datasets. We present `Modin <https://modin.readthedocs.io/en/stable/>`_, a fast, scalable drop-in replacement for pandas. By changing just a single line of code, Modin seamlessly speeds up pandas workflow on a laptop or in a cluster. Modin has over 6.6k GitHub stars, 2.8 million downloads, and is deployed at many data-centric organizations to accelerate dataframe workflows.
+Pandas is one of the most commonly used data science libraries in Python, with a convenient set of APIs to help data scientists prepare, analyze, and explore their data. However, despite its widespread adoption, pandas suffers from severe memory and performance issues on moderately large datasets. We present Modin (https://github.com/modin-project/modin), a fast, scalable drop-in replacement for pandas. By changing just a single line of code, Modin seamlessly speeds up pandas workflow on a laptop or in a cluster. Modin has over 6.6k GitHub stars, 2.8 million downloads, and is deployed at many data-centric organizations to accelerate dataframe workflows.
 
 
 **Speaker Bio: Devin Petersohn**
