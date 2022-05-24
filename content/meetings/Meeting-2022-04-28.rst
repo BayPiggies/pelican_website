@@ -6,7 +6,6 @@ April 28, 2022 Meeting
 :category: meetings
 :slug: scaling-pandas-and-testing
 :summary: Scaling Pandas and Testing
-:alias: /
 
 Scaling Pandas and Testing
 =====================================
