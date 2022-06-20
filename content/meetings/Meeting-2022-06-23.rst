@@ -1,0 +1,58 @@
+June 23, 2022 Meeting
+####################################
+
+:date: 2022-06-23 19:00
+:tags: meeting
+:category: meetings
+:slug: command-line-tools-and-api-logic-server
+:summary: Tools night -- Command Line Tools and API Logic Server
+:alias: /
+
+Tools night: Command Line Tools and API Logic Server
+====================================================
+This month, we'll have a lightning talk about command line tools by Karen Dalton and a full talk about a tool to create projects from databases by Val Huber. Come join us!
+
+Lightning Talk: Tools to Improve You Command Line Experience
+------------------------------------------------------------
+Karen Dalton is a Principal Software Engineer at Stanford University School of Medicine where she leads a team of research software engineers working on on the Clinical Genome Resource consortia's ClinGen Data Platform. She has been an active member of the Python community, including helping with BayPiggies and PyBay, for several years.
+
+She will be talking about rich (https://github.com/Textualize/rich) and typer (https://github.com/tiangolo/typer). They are two Python tools, both in very active development, that can make your command line experience better.
+
+Main Talk: API Logic Server
+----------------------------------------------------------
+`API Logic Server <https://github.com/valhuber/ApiLogicServer>`_ is an Open Source project that creates projects from databases, implementing a React-Admin User Interface, and a swagger-backed API. It includes a rule engine for declaring business rules that enforce database integrity.
+
+**Speaker Bio: Val Huber**
+For years, my focus has been to make it as simple and easy to deliver database systems, as it is to imagine them. I have been deeply engaged with App Dev for many decades.
+I led the design and implementation of PACE, Wang's highly regarded DBMS with over 6500 installed sites. It provided a relational query engine with rule enforcement, an application builder, and a query/report writer. I was awarded several patents for rules and application generation.
+I was a technical co-founder and CTO of Versata, a J2EE app dev system with over 700 sites. Funded by the founders of Microsoft, SAP, Ingres and Informix, it went public in 2000 with an IPO exceeding $3B.
+I co-founded Espresso Logic with Max Tardiveau, where we created a rule-based API Server. It was acquired by CA (now Broadcom).
+I am now an independent consultant, residing in the Bay Area. Having a ball on Open Source & Python with API Logic Server: 1 command to create an API, and a basic web app, with spreadsheet-like rules for transaction logic - extensible in Python: https://github.com/valhuber/ApiLogicServer#readme
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
+Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
+
+RSVP
+----
+We will conduct the meeting via Zoom. Please register in advance. To do so, go to the Meetup page for this event:
+https://www.meetup.com/baypiggies/events/285559953/. If you RSVP "Yes" to this event on MeetUp, the link to the Zoom meeting
+will be displayed.
+
+Call for Talks
+--------------
+We are looking for speakers for the second half of 2022. Due to the COVID-19 situation, our meetings are currently online-only. We assume this will be the case for the at least the summer, but will reevaluate the situation each month.
+
+We are looking for technical talks of interest to Python developers, either about the language and core libraries itself, popular libraries/platforms using Python (for example, Pandas andTensorFlow in Data Science, Flask and Django in web applications, Ansible in DevOPs), or other experiences using Python. See the list of past meetings at https://baypiggies.net/category/meetings.html to get a sense of topics. As our participants are using their personal time for these meetings, we request that talks are inclusive and not overly commercial, political, etc.
+
+Talks can range in length from 5 minutes to 45 minutes (see below). Most of our online meetings last about 90 minutes and include a short talk and a longer talk, but this can vary from month to month.
+
+You can apply for an online talk `here <https://forms.gle/4qhh65FxRbL6uPxTA>`__.
+
+This is a great opportunity to evangelize a project you love or to get practice with public speaking. We hope to hear
+from you!
+
+
