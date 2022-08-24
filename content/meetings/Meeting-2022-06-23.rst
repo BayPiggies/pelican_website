@@ -6,7 +6,6 @@ June 23, 2022 Meeting
 :category: meetings
 :slug: command-line-tools-and-api-logic-server
 :summary: Tools night -- Command Line Tools and API Logic Server
-:alias: /
 
 Tools night: Command Line Tools and API Logic Server
 ====================================================

@@ -1,0 +1,57 @@
+Agust 25, 2022 Meeting
+####################################
+
+:date: 2022-08-25 19:00
+:tags: meeting
+:category: meetings
+:slug: observability-and-accessibility
+:summary: Observability and Accessibility
+:alias: /
+
+Observability and Accessibility
+====================================================
+We hope you had a relaxing summer! This month, we'll have a talk by Roni Dover on open source software for observability (system monitoring for DevOps). We also have a lightning talk about Accessibility by Joel Dodson.
+
+Lightning Talk: Accessibility and Python by Joel Dodson
+------------------------------------------------------------
+I've been in the telecom/communications industry over 25 years as a developer, technical lead, architect and manager. I lost my sight in 2017 and was thrust into the world of accessibility. My career was focused on building backend systems. For accessibility now, I'm focused on learning the frontend. Python was never my primary language, it was always more a way to "Automate the Boring Stuff." I have fully embraced it now as a blind developer partly because the screen reader I use (NVDA, https://www.nvaccess.org/) is written mainly in Python. I also find Python to be a great way to optimize my workflow.
+
+Python Observability and OpenTelemetry by Roni Dover
+----------------------------------------------------------
+Continuous Feedback is a new dev practice, that addresses a gap in the dev to prod cycle. While a considerable amount of data is collected about the application and its behavior it prod, very little of that is effectively put to use when we write code
+By using OpenTelemetry, as well as other open-source tools and platforms, developers can leverage metrics and traces to challenge code assumptions and develop for real-world requirements in an evidence-based manner, extending code ownership all the way to production and beyond. Observability, after all, can be about more than pretty dashboards.
+This talk is relevant to any Python Developer or DevOps practitioner seeking to understand how to use current observability technologies effectively in a way that can make an impact on the dev process and improve code quality. We'll explore practical techniques, tools, and practices that can be combined to create a Continuous Feedback pipeline.
+
+**Speaker Bio: Roni Dover**
+
+Holistic developer and software builder with a passion for development processes and methodologies.
+Over the past two decades, Roni Dover was focused on incepting, building, and scaling great products including Torque, an IAC Control Plane, and CloudShell, a platform for 'as-a-service' provisioning of environments.
+Currently building something exciting and new at digma.ai
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
+Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
+
+RSVP
+----
+We will conduct the meeting via Zoom. Please register in advance. To do so, go to the Meetup page for this event:
+https://www.meetup.com/baypiggies/events/287858237/. If you RSVP "Yes" to this event on MeetUp, the link to the Zoom meeting
+will be displayed.
+
+Call for Talks
+--------------
+We are looking for speakers for the fall of 2022. Due to the COVID-19 situation, our meetings are currently online-only. We assume this will be the case for the at least the summer, but will reevaluate the situation each month.
+
+We are looking for technical talks of interest to Python developers, either about the language and core libraries itself, popular libraries/platforms using Python (for example, Pandas andTensorFlow in Data Science, Flask and Django in web applications, Ansible in DevOPs), or other experiences using Python. See the list of past meetings at https://baypiggies.net/category/meetings.html to get a sense of topics. As our participants are using their personal time for these meetings, we request that talks are inclusive and not overly commercial, political, etc.
+
+Talks can range in length from 5 minutes to 45 minutes (see below). Most of our online meetings last about 90 minutes and include a short talk and a longer talk, but this can vary from month to month.
+
+You can apply for an online talk `here <https://forms.gle/4qhh65FxRbL6uPxTA>`__.
+
+This is a great opportunity to evangelize a project you love or to get practice with public speaking. We hope to hear
+from you!
+
+
