@@ -1,4 +1,4 @@
-Agust 25, 2022 Meeting
+August 25, 2022 Meeting
 ####################################
 
 :date: 2022-08-25 19:00
@@ -6,7 +6,6 @@ Agust 25, 2022 Meeting
 :category: meetings
 :slug: observability-and-accessibility
 :summary: Observability and Accessibility
-:alias: /
 
 Observability and Accessibility
 ====================================================
