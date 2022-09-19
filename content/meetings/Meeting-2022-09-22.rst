@@ -1,0 +1,55 @@
+September 22, 2022 Meeting
+####################################
+
+:date: 2022-09-22 19:00
+:tags: meeting
+:category: meetings
+:slug: debugging-scraping-and-nlp
+:summary: Debugging, Scraping, and NLP
+:alias: /
+
+Debugging, Scraping, and NLP
+====================================================
+This month, we'll have a lightning talk from Ryan Kuhl on debugging and a full talk from Stephen McInerney on Web scraping and NLP. We hope that you can join us!
+
+Lightning Talk: Debugging with ipdb
+-----------------------------------
+**Speaker: Ryan Kuhl**
+
+Ryan is a Miami based software engineer at Tatari, co-founder of Public Sector ML, and student at Georgia Institute of Technology. Ryan has been programming professionally with python for 9 years and loves to build performant APIs and chunky SQL queries! When not programming for work he's studying machine learning and quantum computing. Connect to Ryan via email at ryan@kuhl.dev, LinkedIn at `linkedin.com/in/kuhl <https://linkedin.com/in/kuhl>`_ or GitHub at
+`GitHub.com/lame <https://GitHub.com/lame>`_.
+
+NLP, Topic Modeling and Scraping of conference talks to find which topics are hot and not
+-----------------------------------------------------------------------------------------
+**Speaker: Stephen McInerney**
+
+NLP (Natural Language Processing) and Topic Modeling are subdomains of Machine Learning which are core technologies for Python data scientists; and the automated collection of data by Scraping (in a TOS-compliant, ethical way) is a rarely-discussed practice.
+
+Overview:
+
+* Review the basic steps, present a typical pipeline for Scraping+NLP+Topic Modeling and cover packages used As a motivating example, we investigate changes in Python conference topics 2016-2022, and statistically extract conclusions on what's hot and not, as of 2022
+* We also handle foreign-language abstracts and outline how machine translation can be used for Topic Modeling
+* We illustrate best practices in Scraping on text data, maximally preserving and augmenting with metadata
+* Review the basic steps, present a typical pipeline (segmentation, handling Unicode, Levenshtein distance, word-vectors, Transformer, NER, IE).
+* Overview of related NLP/ML/Deep Learning packages we use both for prototyping and production.
+* Topic Modeling using LDA is a highly iterative clustering process to "learn" which topics seem to be similar/related/identical/different
+* In this specific case, we augment conference abstracts with whatever metadata is helpful to topic-modeling e.g. speaker interests, affiliation, links to Twitter
+* Example: "token" means an entirely different topic when it co-occurs with "crypto"/"blockchain"/"web3" versus when it co-occurs with "API"/"authentication"/"appsec"/"2FA"/"Oauth". But how do we automatically learn hundreds and then thousands of such cases?
+
+**Speaker Bio**
+
+Stephen is a data scientist and NLP specialist for over a decade, specializing in domain-specific (biotech/legal/financial) and multilingual NLP, in both startups and large companies. Kaggle competitor; have led "Kaggle Together" classes. Former Data Science co-chair of SF Bay Area ACM and organizer of multiple Data Science Camps. Passionate about open-source. `www.linkedin.com/in/stephenmcinerney <https://www.linkedin.com/in/stephenmcinerney>`_
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. 
+Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
+
+RSVP
+----
+We will conduct the meeting via Zoom. Please register in advance. To do so, go to the Meetup page for this event:
+https://www.meetup.com/baypiggies/events/288471326/. If you RSVP "Yes" to this event on MeetUp, the link to the Zoom meeting
+will be displayed.
+
