@@ -48,9 +48,18 @@ of the volunteer efforts that permeate the Python community. We're respectful
 of the processes set forth in the community, and we work within them. When we
 disagree, we are courteous in raising our issues.
 
+----
+
 Overall, we're good to each other. We contribute to this community not because
 we have to, but because we want to. If we remember that, these guidelines will
 come naturally.
+
+If you see a Code of Conduct violation, please bring it to the attention to the
+organizers. If it is determined that a Code of Conduct violation has occurred,
+the organizers may issue a warning, remove an attendee from a meeting,
+block an attendee from the mailing list, or remove the individual from the community
+permanently. The exact response will depend the specific situation and the individual's
+history with the community.
 
 .. code-block:: identifier
     :classprefix: infoboxcss
