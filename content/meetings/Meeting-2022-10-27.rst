@@ -1,0 +1,31 @@
+October 27, 2022 Meeting
+####################################
+
+:date: 2022-10-27 19:00
+:tags: meeting
+:category: meetings
+:slug: python-and-graph-databases
+:summary: Python and Graph Databases
+:alias: /
+
+Python and Graph Databases
+====================================================
+This month, we will have a talk on graph databases and Python from Jason Koo. We will also have a lightning talk, topic TBD.
+
+Main Talk: Evidence for Graph Databases
+---------------------------------------
+Join us as we traverse the use of crime walls in movies and TV shows - as a graph. Along the way we’ll discover why Graph Databases are becoming increasingly popular, what technologies are currently available, and how to get started with them.
+
+**Speaker Bio: Jason Koo**
+
+Video Editor turned Pythonista, Jason Koo is Neo4j’s resident Python Developer Advocate. He has gone from working behind-the-scenes in Hollywood to developing mobile apps for Silicon Valley companies. He now leverages his love of both worlds to advocate new developer technologies.
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+Interactions online have less nuance than in-person interactions. Please be Open, Considerate and Respectful. Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
+
+RSVP
+----
+Due to recent issues in Zoom security, we will change the format slightly. We will conduct the meeting via Zoom webinar.
+Please RSVP at MeetUp: https://www.meetup.com/baypiggies/events/289014736/. When you RSVP "Yes" to this event, a link that allows you to signup for the Zoom meeting will become visible in MeetUp. The email address you provide must match the email address of your Zoom account, or you will not be able to log in. Thanks for your understanding.

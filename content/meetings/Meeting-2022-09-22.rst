@@ -6,7 +6,6 @@ September 22, 2022 Meeting
 :category: meetings
 :slug: debugging-scraping-and-nlp
 :summary: Debugging, Scraping, and NLP
-:alias: /
 
 Debugging, Scraping, and NLP
 ====================================================
