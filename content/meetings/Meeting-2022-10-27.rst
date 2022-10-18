@@ -4,13 +4,24 @@ October 27, 2022 Meeting
 :date: 2022-10-27 19:00
 :tags: meeting
 :category: meetings
-:slug: python-and-graph-databases
-:summary: Python and Graph Databases
+:slug: python-group-theory-graph-databases
+:summary: Python, Group Theory, and Graph Databases
 :alias: /
 
-Python and Graph Databases
+Python, Group Theory, Graph Databases
 ====================================================
-This month, we will have a talk on graph databases and Python from Jason Koo. We will also have a lightning talk, topic TBD.
+This month, we will have a lightning talk from Lisette del Pino on group theory and a full talk on graph databases and Python from Jason Koo. Please join us for these exciting talks!
+
+Lightning Talk: Group Theory
+----------------------------
+Groups are a fundamentally important mathematical structure for both computer scientists and mathematicians. For example, the graph isomorphism problem is reducible to the group isomorphism problem, and group theoretic tools are essential in quantum computing.
+
+This lightning talk will quickly get you up and running in the basics of group theory, motivated by important examples such as dihedral groups, additive/multiplicative groups of integers modulo n, and matrix groups. After this, current Python tools for group theory work, such as SAGE and the GAP wrapper for SAGE, will be introduced.
+
+**Speaker Bio: Lisette del Pino**
+
+Lisette works in data science and loves both math and computer science. She holds an undergraduate degree in Mathematics from the University of Pennsylvania and is currently pursuing a Masters of Science in Computer Science from Georgia Tech. In her spare time, she collaborates on research in computational group theory.
+
 
 Main Talk: Evidence for Graph Databases
 ---------------------------------------
