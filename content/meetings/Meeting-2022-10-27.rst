@@ -6,7 +6,6 @@ October 27, 2022 Meeting
 :category: meetings
 :slug: python-group-theory-graph-databases
 :summary: Python, Group Theory, and Graph Databases
-:alias: /
 
 Python, Group Theory, Graph Databases
 ====================================================

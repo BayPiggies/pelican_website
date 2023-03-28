@@ -1,0 +1,53 @@
+March 30, 2023 Meeting 
+####################################
+
+:date: 2023-03-30 18:30
+:tags: meeting
+:category: meetings
+:slug: python-error-feedback-with-openai-chatcompletions
+:summary: Enhancing Interactive Python Error Feedback with OpenAI's ChatCompletions
+:alias: /
+
+Welcome Back to In-Person Meetings!
+===================================
+This month we finally return to in-person meetings! We will be meeting at `Hacker Dojo <https://hackerdojo.org>`_ in Mountain View. 
+
+Food will be provided courtesy of `Neo4j <https://neo4j.com>`_ !
+
+RSVP
+----
+Registration link: https://ti.to/baypiggies/hackerdojo-march-30-baypiggies
+
+
+Location
+--------
+Hacker Dojo
+`855 Maude Ave, Mountain View, CA <https://goo.gl/maps/vRMjnfWtQ6HESzDf6>`__.
+
+
+Schedule:
+6:30-6:45pm Socialize and grab food
+6:45-6:55pm Welcome and Announcements
+6:55pm Main talk
+
+
+
+Main Talk: Enhancing Interactive Python Error Feedback with OpenAI's ChatCompletions
+------------------------------------------------------------------------------------
+
+Errors and exceptions, while disruptive and frustrating, are an inevitable aspect of programming. What if we could embrace them in our workflows and receive more intuitive assistance? In this talk, we will explore the integration of Large Language Models (LLMs), such as OpenAI's GPT, with the IPython kernel to improve the debugging process for developers and data scientists.
+
+By creating a custom IPython exception handler, we can transform obscure error messages into context-aware feedback, streamlining the iteration and experimentation process. We will demonstrate how augmenting the interactive computing experience with language models can enhance the dialogue between users and systems, making it easier to embrace and learn from mistakes.
+
+We'll discuss various prompting strategies and techniques for effectively communicating the context of an IPython session to GPT, covering topics such as code history, output encoding, and traceback interpretation. Join us as we dive into the exciting world of readily accessible large language models and their potential to revolutionize data analysis and development workflows.
+
+
+**Speaker Bio: Kyle Kelley**
+
+Kyle Kelley is the Chief Architect at Noteable and a core developer of the IPython and Jupyter projects. He helps build environments for collaborative analysis, development, and production workloads for everyone, from small teams to massive scale.
+
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+Please be Open, Considerate and Respectful. Also, please refrain from discussing topics unrelated to the Python community or the technical content of the meeting.
