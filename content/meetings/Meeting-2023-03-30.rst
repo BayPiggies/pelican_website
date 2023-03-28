@@ -9,10 +9,10 @@ March 30, 2023 Meeting
 :alias: /
 
 Welcome Back to In-Person Meetings!
-=========================================================================
+===================================
 This month we finally return to in-person meetings! We will be meeting at `Hacker Dojo <https://hackerdojo.org>`_ in Mountain View. 
 
-Food will be provided courtesy of `Neo4j<https://neo4j.com>`_ !
+Food will be provided courtesy of `Neo4j <https://neo4j.com>`_ !
 
 RSVP
 ----
@@ -33,7 +33,7 @@ Schedule:
 
 
 Main Talk: Enhancing Interactive Python Error Feedback with OpenAI's ChatCompletions
----------------------------------------
+------------------------------------------------------------------------------------
 
 Errors and exceptions, while disruptive and frustrating, are an inevitable aspect of programming. What if we could embrace them in our workflows and receive more intuitive assistance? In this talk, we will explore the integration of Large Language Models (LLMs), such as OpenAI's GPT, with the IPython kernel to improve the debugging process for developers and data scientists.
 
