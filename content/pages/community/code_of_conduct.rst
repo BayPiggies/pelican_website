@@ -3,7 +3,7 @@
 ======================================
 
 :title: Code of Conduct
-:date: 2019-09-05 15:00
+:date: 2023-04-20 15:00
 :category: Community
 :slug: code_of_conduct
 :summary: Code of Conduct
@@ -66,7 +66,6 @@ history with the community.
 
     Questions/comments/reports? Please write to baypiggies@gmail.com.
     Note: this email address is to all of the BayPIGgies Organizers.
-    Alternatively, you may reach Glen Jarvis, Community Co-organizer,
-    at glen@glenjarvis.com.
+
 
 .. This content taken from https://www.python.org/psf/codeofconduct/
