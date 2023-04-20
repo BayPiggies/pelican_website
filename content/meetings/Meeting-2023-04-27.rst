@@ -1,0 +1,82 @@
+April 27, 2023 Meeting 
+####################################
+
+:date: 2023-04-27 18:30
+:tags: meeting
+:category: meetings
+:slug: baypiggies-04-27-quix-streams
+:summary: Quix Streams—a Python-Kafka Library for Data-Intensive Workloads
+:alias: /
+
+Welcome Back to In-Person Meetings!
+===================================
+This month will be an in-person meeting! We will be meeting at `Hacker Dojo <https://hackerdojo.org>`_ in Mountain View. 
+
+Food will be provided courtesy of `Quix! <https://quix.io/>`_
+
+
+RSVP
+----
+Registration link: https://ti.to/baypiggies/hackerdojo-april-27-baypiggies
+
+
+Location
+--------
+Hacker Dojo
+`855 Maude Ave, Mountain View, CA <https://goo.gl/maps/vRMjnfWtQ6HESzDf6>`__.
+
+
+Schedule:
+---------
+* 6:30-6:45pm Socialize and grab food
+* 6:45-6:55pm Welcome and Announcements
+* 6:55pm Lightning Talk: Kafka with Python
+* 7:05pm Main talk: Introducing Quix Streams—a Python-Kafka Library for Data-Intensive Workloads
+
+Lightning talk
+==============
+"Kafka with Python" presented by Dave Klein
+-------------------------------------------
+
+Main talk
+=========
+
+Quix Streams—a Python-Kafka Library for Data-Intensive Workloads
+----------------------------------------------------------------
+
+This talk will introduce Quix Streams, an open-source Python library for data-intensive workloads on Kafka.
+
+We will discuss the unique problems that this library is designed to solve, and how it was shaped by the challenges 
+building a Kafka-based solution for Formula 1 cars at McLaren—a solution that needed to process a colossal firehose 
+of sensor data coming in at thousands of samples per second. We'll also explain why we decided to combine a Kafka API
+approach with a stream processing library and provide developers with a familiar Pandas DataFrame-like interface.
+You'll also see the library in action with a sentiment analysis demo. In this demo, we'll calculate sentiment scores 
+for incoming messages in a demo chat app—all in real time, using the HuggingFace Transformer's API. At the end, 
+we will connect to Twitter streaming API to send a high volume of data into the pipeline to simulate this use case at scale.
+You'll see how the library can simplify tasks such as:
+
+* Subscribing to topics, deserializing incoming messages into table rows
+* Running calculations on a rolling window of messages
+* Using memory states to apply different functions such as aggregation or filtering
+* Automatically outputting the results of calculations into downstream topics
+* Managing state without the hassle of checkpointing and queues
+
+
+Also, we want to give everyone the opportunity to explore the library themselves. We'll share the library's GitHub repo 
+and getting started tutorial and show attendees how they can get the sentiment analysis demo up and running in their own environments.
+
+
+**Speaker Bio: Tomas Neubauer**
+
+Tomas Neubauer is co-founder and CTO at Quix, responsible for the technical direction of the company across the full technical stack, 
+and working as a technical authority for the engineering team. He was previously the technical lead at McLaren, where he led 
+architecture uplift for Formula One racing real-time telemetry acquisition. He later led platform development outside 
+motorsport, reusing the know-how he gained from racing.
+
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Please be Open, Considerate and Respectful. Also, please refrain from discussing topics unrelated to the Python 
+community or the technical content of the meeting.

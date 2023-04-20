@@ -6,7 +6,6 @@ March 30, 2023 Meeting
 :category: meetings
 :slug: python-error-feedback-with-openai-chatcompletions
 :summary: Enhancing Interactive Python Error Feedback with OpenAI's ChatCompletions
-:alias: /
 
 Welcome Back to In-Person Meetings!
 ===================================
