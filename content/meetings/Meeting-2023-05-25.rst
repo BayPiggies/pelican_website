@@ -1,0 +1,71 @@
+May 25, 2023 Meeting 
+####################################
+
+:date: 2023-05-25 18:30
+:tags: meeting
+:category: meetings
+:slug: baypiggies-05-25-Streamlined-and-Scalable-Integrations-Plus-Ruff
+:summary:  Complexity to Clarity: A Journey Towards Streamlined and Scalable Integrations
+:alias: /
+
+Bay Area Python Interest Group (BayPIGgies) In-Person Meetings!
+===============================================================
+This month will be an in-person meeting! We will be meeting at `Hacker Dojo <https://hackerdojo.org>`_ in Mountain View. 
+
+Food will be provided courtesy of `AppOmni! <https://appomni.com/>`_
+
+
+RSVP
+----
+Registration link: https://ti.to/baypiggies/hackerdojo-may-25-baypiggies
+
+
+Location
+--------
+Hacker Dojo
+`855 Maude Ave, Mountain View, CA <https://goo.gl/maps/vRMjnfWtQ6HESzDf6>`__.
+
+
+Schedule:
+---------
+* 6:30-6:45pm Socialize and grab food
+* 6:45-6:55pm Welcome and Announcements
+* 6:55-7:10pm Lightning Talk: Ruff: an extremely fast Python linter
+* 7:10-8:10pm Main talk: From Complexity to Clarity: A Journey Towards Streamlined and Scalable Integrations
+
+
+Lightning talk
+==============
+
+"Ruff: an extremely fast Python linter" presented by Monte Davidoff
+-------------------------------------------------------------------
+
+Ruff is an extremely fast Python linter written in Rust. It is 10-100x faster than existing linters. It includes over 500 built-in rules including many rules implemented by several other popular, much slower, linters such as Pyflakes, pycodestyle, autoflake, flake8, pylint, isort, and pydocstyle. This talk will demonstrate how to use and configure Ruff.
+
+**Speaker Bio: Monte Davidoff**
+
+Monte Davidoff is an independent software development consultant at Alluvial Software, Inc. He has used Python to develop a variety of software including business-critical applications, DevOps, Data Science and Machine Learning pipeline automation and optimization, and embedded software primarily on Linux. He has been programming in Python since version 1.5.2. https://www.linkedin.com/in/montedavidoff
+
+
+Main talk
+=========
+
+"From Complexity to Clarity: A Journey Towards Streamlined and Scalable Integrations" presented by Steven Cutting
+-----------------------------------------------------------------------------------------------------------------
+
+AppOmni faced the challenge of creating integrations with an increasing number of SaaS applications while ensuring correctness, maintainability, and scalability. In this talk, I will share our journey towards the creation of a Python-based framework that simplifies this process. The framework provides an intuitive and expressive way to emphasize the vital details of each SaaS application (the essential complexity), while deemphasizing nonessential complexity. It allows maintainers of integrations to tackle complex relationships between data from multiple sources head-on.
+
+This case study aims to help Python developers facing similar challenges by sharing how we arrived at our approach and the ideas that got us there. The focus is on the journey, rather than presenting a perfect solution.
+
+
+**Speaker Bio: Steven Cutting**
+
+Steven Cutting is a Software Engineer at AppOmni.
+
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Please be Open, Considerate and Respectful. Also, please refrain from discussing topics unrelated to the Python 
+community or the technical content of the meeting.

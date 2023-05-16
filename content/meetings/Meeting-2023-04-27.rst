@@ -6,7 +6,6 @@ April 27, 2023 Meeting
 :category: meetings
 :slug: baypiggies-04-27-quix-streams
 :summary: Quix Streams—a Python-Kafka Library for Data-Intensive Workloads
-:alias: /
 
 Welcome Back to In-Person Meetings!
 ===================================
