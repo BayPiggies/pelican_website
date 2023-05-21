@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="svg2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 687.5 734.6" style="enable-background:new 0 0 687.5 734.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#path153-6_00000168820571679012672560000012817070786586770853_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:url(#path1948_00000130636859144644765970000013847326293407126422_);}
+	.st3{fill:#FFE873;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:url(#path153-6-5_00000085959309943050890100000002354683202222194872_);}
+</style>
+<g id="g1024">
+	
+		<linearGradient id="path153-6_00000033371583022412419670000006266774456943339681_" gradientUnits="userSpaceOnUse" x1="-960.4556" y1="174.2989" x2="-906.3522" y2="174.2989" gradientTransform="matrix(6.19 0 0 6.19 6121.02 -983.5601)">
+		<stop  offset="0" style="stop-color:#5A9FD4"/>
+		<stop  offset="1" style="stop-color:#306998"/>
+	</linearGradient>
+	
+		<path id="path153-6" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#path153-6_00000033371583022412419670000006266774456943339681_);" d="
+		M510.7,117.1C510.7,72.4,477.7,0,348,0S175.8,72.6,175.8,117.1s5.5,73.6,166.4,73.6S510.7,161.8,510.7,117.1z"/>
+	<circle id="path169-7" class="st1" cx="402" cy="115.3" r="20"/>
+	<circle id="path169-3-5" class="st1" cx="284.5" cy="115.3" r="20"/>
+</g>
+<linearGradient id="path1948_00000034788727234942996310000012426968877109883522_" gradientUnits="userSpaceOnUse" x1="-849.4388" y1="230.6911" x2="-740.4188" y2="324.4812" gradientTransform="matrix(3.48 0 0 3.51 2910.54 -734.84)">
+	<stop  offset="0" style="stop-color:#5A9FD4"/>
+	<stop  offset="1" style="stop-color:#306998"/>
+</linearGradient>
+<path id="path1948" style="fill:url(#path1948_00000034788727234942996310000012426968877109883522_);" d="M115.3,196.8
+	c-48.2,0-90.4,29-103.6,84.1c-15.2,63.2-15.9,102.6,0,168.5c11.8,49.1,39.9,84.1,88.1,84.1h57v-75.8c0-54.7,47.4-103,103.6-103
+	h165.7c46.1,0,82.9-38,82.9-84.3v-73.7L115.3,196.8L115.3,196.8z"/>
+<g id="g137">
+	<g id="g135">
+		<path id="path1950" class="st3" d="M529.7,200.8v73.6c0,57.1-48.4,105.1-103.6,105.1H260.4c-45.4,0-82.9,38.8-82.9,84.3v73.6
+			h414.4c48.2,0,66.2-33.6,82.9-84.1c17.3-51.9,16.6-101.9,0-168.5c-11.9-48-34.7-84.1-82.9-84.1L529.7,200.8z"/>
+	</g>
+</g>
+<g id="g1039">
+	
+		<linearGradient id="path153-6-5_00000138544358207484983620000002236963100275215780_" gradientUnits="userSpaceOnUse" x1="-960.4523" y1="24.6995" x2="-906.3489" y2="24.6995" gradientTransform="matrix(6.19 0 0 -6.19 6119.8999 792.1402)">
+		<stop  offset="0" style="stop-color:#FFD43B"/>
+		<stop  offset="1" style="stop-color:#FFE873"/>
+	</linearGradient>
+	
+		<path id="path153-6-5" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#path153-6-5_00000138544358207484983620000002236963100275215780_);" d="
+		M509.6,617.5c0,44.7-33,117.1-162.7,117.1S174.7,662,174.7,617.5s5.5-73.6,166.4-73.6S509.6,572.8,509.6,617.5z"/>
+	<circle id="path169-7-3" class="st1" cx="400.9" cy="619.2" r="20"/>
+	<circle id="path169-3-5-5" class="st1" cx="283.4" cy="619.2" r="20"/>
+</g>
+</svg>
