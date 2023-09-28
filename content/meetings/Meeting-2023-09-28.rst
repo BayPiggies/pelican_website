@@ -1,0 +1,62 @@
+Septemeber 28, 2023 Meeting 
+####################################
+
+:date: 2023-09-28 18:30
+:tags: meeting
+:category: meetings
+:slug: baypiggies-09-28-hamilton-data-tranformations
+:summary:  Hamilton: Natively bringing software engineering best practices to python data transformations
+:alias: /
+
+Bay Area Python Interest Group (BayPIGgies) Virtual Meetings
+===============================================================
+This month will be a virtual meeting.
+
+
+RSVP
+----
+We will conduct the meeting via Zoom. Please register in advance. To do so, go to the Meetup page for this event:
+https://www.meetup.com/baypiggies/events/296283989/. If you RSVP "Yes" to this event on MeetUp, the link to the Zoom meeting
+will be displayed.
+
+
+Schedule:
+---------
+* 6:30-6:40pm Welcome and Announcements
+* 6:40-6:55pm Lightning Talk: TestScribe, a "low code/no code" testing tool
+* 6:55-7:55pm Main talk: Hamilton: Natively bringing software engineering best practices to python data transformations
+
+Lightning talk
+==============
+
+"TestScribe, a "low code/no code" testing tool" presented by Ray Yang
+---------------------------------------------------------------------
+
+TestScribe is a "low code/no code" tool to make Python testing easier by automating the boring and repetitive parts. It allows you to quickly start an interactive testing/debugging session without having to write boilerplate code. As a bonus, you can save the session as a complete unit test for further debugging or regression testing.
+
+**Speaker Bio: Ray Yang**
+
+Ray Yang is a Bay Area entrepreneur/creator.
+
+Main talk
+=========
+
+"Hamilton: Natively bringing software engineering best practices to python data transformations" presented by Stefan Krawczyk
+-----------------------------------------------------------------------------------------------------------------------------
+
+At Stitch Fix, a data science team\'s feature generation process was causing them iteration & operational frustrations in delivering time-series forecasts for the business. It wasn\'t the scale of data that was the problem, it was their code. In this talk I\'ll present Hamilton, a novel open source Python framework that solved their pain points by changing their working paradigm.
+
+Specifically, Hamilton enables a simpler and more productive approach for data science & data engineering teams to create, maintain, execute, and scale both the code (human) and computational sides of feature/data transforms. In this talk I\'ll cover the motivation & backstory, what the Hamilton paradigm is and how it works, and how it naturally guides you into doing software best practices without really thinking about it.
+
+
+**Speaker Bio: Stefan Krawczyk**
+
+Stefan Krawczyk is currently CEO and co-founder of DAGWorks.
+
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Please be Open, Considerate and Respectful. Also, please refrain from discussing topics unrelated to the Python 
+community or the technical content of the meeting.

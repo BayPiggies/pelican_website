@@ -6,7 +6,6 @@ May 25, 2023 Meeting
 :category: meetings
 :slug: baypiggies-05-25-Streamlined-and-Scalable-Integrations-Plus-Ruff
 :summary:  Complexity to Clarity: A Journey Towards Streamlined and Scalable Integrations
-:alias: /
 
 Bay Area Python Interest Group (BayPIGgies) In-Person Meetings!
 ===============================================================
