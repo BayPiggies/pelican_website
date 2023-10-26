@@ -6,7 +6,7 @@ Septemeber 28, 2023 Meeting
 :category: meetings
 :slug: baypiggies-09-28-hamilton-data-tranformations
 :summary:  Hamilton: Natively bringing software engineering best practices to python data transformations
-:alias: /
+
 
 Bay Area Python Interest Group (BayPIGgies) Virtual Meetings
 ===============================================================
