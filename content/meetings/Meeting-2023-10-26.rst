@@ -1,0 +1,73 @@
+October 26, 2023 Meeting 
+####################################
+
+:date: 2023-10-26 18:30
+:tags: meeting
+:category: meetings
+:slug: baypiggies-10-26-Webassembly-and-Python-Accessibility
+:summary:  Python, Accessibility, and Ensuring the DOM is Accessible
+:alias: /
+
+Bay Area Python Interest Group (BayPIGgies) In-Person Meetings!
+===============================================================
+This month will be an in-person meeting! We will be meeting at `Hacker Dojo <https://hackerdojo.org>`_ in Mountain View. 
+
+Food will will not be provided. Please feel free to bring your own food and beverage.
+
+
+RSVP on Meetup
+--------------
+
+Registration link: https://www.meetup.com/baypiggies/events/296732583/
+
+
+Location
+--------
+Hacker Dojo
+`855 Maude Ave, Mountain View, CA <https://goo.gl/maps/vRMjnfWtQ6HESzDf6>`__.
+
+
+Schedule:
+---------
+* 6:30-6:45pm Socialize 
+* 6:45-6:55pm Welcome and Announcements
+* 6:55-7:15pm Lightning Talk: WebAssembly, Determinstic Execution, and how to implement undo
+* 7:15-8:10pm Main talk: Python, Accessibility, and Ensuring the DOM is Accessible (domible)
+
+
+Lightning talk
+==============
+
+"WebAssembly, Determinstic Execution, and how to implement undo" presented by Tom Ballinger
+-------------------------------------------------------------------------------------------
+
+Let's write a WebAssembly program and talk about one reason the speaker cares about it: snapshotting and deterministic execution.
+
+**Speaker Bio: Tom Ballinger**
+
+Tom Ballinger is a software engineer at Convex and has spoken at PyCon.
+
+
+Main talk
+=========
+
+"Python, Accessibility, and Ensuring the DOM is Accessible (domible)" presented by Joel Dodson
+-----------------------------------------------------------------------------------------------------------------
+
+In a tech news cycle dominated by ML and LLMs, are we letting Python get pigeon-holed? Is Python relevant outside the AI and Data Science domains? What should Python developers know about web development? And what is accessibility?
+
+We will open with a very quick run through a very high-level presentation on accessibility, a11y (see https://joeldodson.github.io/pythonandaccessibility/). Then we'll dig into a Python package, domible, used to render accessible HTML elements on the server.
+
+Domible is a set of Python classes used to render accessible HTML elements directly from your Python program. If you've used jinja (or any other templating library), I'd love to hear your thoughts. The code can be found at https://github.com/joeldodson/domible.
+
+**Speaker Bio: Joel Dodson**
+
+Joel Dodson (https://linkedin.com/in/joeldodson) is a software developer with over 20 years of experience building distributed platforms for telecom, voice and messaging applications, and APIs. He lost his sight in 2017 and has recently been learning front end development with a focus on accessibility. He's a big fan of Python but struggling to see it being used more for web development.
+
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Please be Open, Considerate and Respectful. Also, please refrain from discussing topics unrelated to the Python 
+community or the technical content of the meeting.
