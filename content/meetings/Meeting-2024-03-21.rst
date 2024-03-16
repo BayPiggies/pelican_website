@@ -1,0 +1,82 @@
+March 21, 2024 Meeting 
+####################################
+
+:date: 2024-03-15 18:30
+:tags: meeting
+:category: meetings
+:slug: baypiggies-03-32-2024-Testing-Data-SRE
+:summary:  Testing, Data, SRE
+:alias: /
+
+Bay Area Python Interest Group (BayPIGgies) In-Person Meetings!
+===============================================================
+This month will be an in-person meeting! We will be meeting at `San Jose Cambrian Library  <https://www.sjpl.org/locations/cambrian/>`_ in San Jose. 
+
+Food will will be provided. Please feel free to bring your own food and beverage.
+
+
+RSVP on Meetup
+--------------
+
+Registration link: https://www.meetup.com/baypiggies/events/299305900/
+
+
+Location
+--------
+San Jose Cambrian Library
+`1780 Hillsdale Ave San Jose, CA 95124 <https://maps.app.goo.gl/eCpSTfnBS5ccMkr76>`__.
+
+
+Schedule:
+---------
+* 6:30-6:45pm Socialize and grab food.
+* 6:45-6:55pm Welcome and Announcements
+* 6:55-7:05pm Lightning Talk: The Fun World of SRE
+* 7:05-7:20pm Lightning Talk: Better Together: Unleashing the Synergy of Pandas, Polars, and Apache Arrow
+* 7:20-       Main Talk: Mock It Till You Make It: How to Verify Your External Mocks Without Ever Leaving Unittest       
+
+
+Lightning talk
+==============
+
+"The Fun World of SRE" presented by Sangeetha Sridharan
+-------------------------------------------------------
+
+**Speaker Bio: Sangeetha Sridharan**
+
+Sangeetha Sridharan is a Senior Site Reliability Engineer at Palo Alto Networks.
+
+
+"Better Together: Unleashing the Synergy of Pandas, Polars, and Apache Arrow" by Chris Brousseau
+------------------------------------------------------------------------------------------------
+
+**Speaker Bio: Chris Brousseau**
+
+Chris Brousseau is Founder of Surface Owl (https://surfaceowl.com/) and a data science consultant focused on data 
+engineering and NLP and visualizations. A native Vermonter, Chris is an avid skier, and 
+has lived in the Bay Area for over 25 years
+
+
+Main talk
+=========
+
+"Mock It Till You Make It: How to Verify Your External Mocks Without Ever Leaving Unittest" presented by Liz Acosta
+-------------------------------------------------------------------------------------------------------------------
+
+A controlled environment and consistent dependencies are crucial to writing good and - most importantly - relevant 
+tests in Python. While the advent of APIs has made using external services so much more accessible, APIs can lead 
+to flaky or deceptive tests, ultimately putting applications at risk. In this talk, you will learn how to use Python's 
+Mock object to create more reliable stand-ins for APIs beyond your control … all within the unittest framework.
+
+**Speaker Bio: Liz Acosta**
+
+Liz Acosta is a lover of plants, pugs, pizza, and Python. Liz's diverse professional experience and unconventional
+path to tech mean she brings a unique perspective to engineering. She is an advocate who seeks to empower developers
+from all aspects of life and learning.
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Please be Open, Considerate and Respectful. Also, please refrain from discussing topics unrelated to the Python 
+community or the technical content of the meeting.

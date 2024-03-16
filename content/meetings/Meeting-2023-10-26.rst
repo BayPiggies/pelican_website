@@ -1,12 +1,11 @@
 October 26, 2023 Meeting 
 ####################################
 
-:date: 2023-10-26 18:30
+:date: 2023-03-15 18:30
 :tags: meeting
 :category: meetings
 :slug: baypiggies-10-26-Webassembly-and-Python-Accessibility
 :summary:  Python, Accessibility, and Ensuring the DOM is Accessible
-:alias: /
 
 Bay Area Python Interest Group (BayPIGgies) In-Person Meetings!
 ===============================================================
