@@ -1,0 +1,92 @@
+May 23, 2024 Meeting 
+####################################
+
+:date: 2024-05-23 18:30
+:tags: meeting
+:category: meetings
+:slug: baypiggies-05-23-2024-PyCon-AI-Reflex-Data
+:summary:  PyCon, AI, Full-stack, Pandas, Pyspark
+:alias: /
+
+Bay Area Python Interest Group (BayPIGgies) In-Person Meetings!
+===============================================================
+This month will be an in-person meeting! We will be meeting at `San Jose Cambrian Library  <https://www.sjpl.org/locations/cambrian/>`_ in San Jose. 
+
+Would you like to have some pizza? Please `donate to the Bay Area Python Association <https://psfmember.org/civicrm/contribute/transact/?id=43&reset=1>`_ throguh the PSF. BayPiggies is a nonprofit and we do not have a sponsor for this event, so if you can chip in $15 it will be a great help! Please feel free to bring your own food and beverage.
+
+
+RSVP on Meetup
+--------------
+
+Registration link: https://www.meetup.com/baypiggies/events/300647354/
+
+
+Location
+--------
+San Jose Cambrian Library
+`1780 Hillsdale Ave San Jose, CA 95124 <https://maps.app.goo.gl/eCpSTfnBS5ccMkr76>`__.
+
+
+Schedule:
+---------
+* 6:30 Socialize and grab food
+* 6:45 Welcome and Announcements
+* 7:00 Welcome & Introductions
+* 7:05 Lightning Talk: PyCon 2024 Highlights
+* 7:15 Short Talk: GenAI-Powered Microservice Automation
+* 7:30 Short Talk: Developing Full Stack Python Web Apps with Reflex
+* 7:55 Main Talk: Pandas & Pyspark for timeseries data processing from instrument data.
+
+Lightning talk
+==============
+
+"PyCon 2024 Highlights" presented by Chris Brousseau
+-------------------------------------------------------
+
+**Speaker Bio: Chris Brousseau**
+
+Chris is Founder of Surface Owl and data science consultant focused on data engineering, NLP and visualizations.
+
+Short talks
+===========
+
+"GenAI-Powered Microservice Automation" by Val Huber
+------------------------------------------------------------------------------------------------
+
+We will demonstrate creating a complete microservice - app, api, logic - from a database, or a Natural Language prompt. The generated system is a standard Python/Flask project, which can be customized in your IDE. We’ll also show rule creation from Natural Language.
+
+**Speaker Bio: Val Huber**
+
+Val has several decades on build databases and application generation. Former CTO / technical founder of Versata.
+
+
+
+"Developing Full Stack Web Apps in Python with Reflex" by Joel Dodson
+------------------------------------------------------------------------------------------------
+
+Reflex is an extensive python library of UI components, formerly known as Pynecone. Reflex helps you create custom components by wrapping React components, and then automatically creates backend integration with FastAPI and SQLAlchemy. Think "Single button-click deployment". Come see this exciting addition to the python web universe.
+
+**Speaker Bio: Joel Dodson**
+
+Joel (https://linkedin.com/in/joeldodson) is a software developer with over 20 years of experience building distributed platforms for telecom, voice and messaging applications, and APIs. He lost his sight in 2017 and has been learning front end development with a focus on accessibility. He's a big fan of Python but struggling to see it being used more for web development.
+
+
+Main talk
+=========
+
+"Pandas & Pyspark for timeseries data processing from instrument data" presented by Aaron Wiegel
+-------------------------------------------------------------------------------------------------------------------
+
+Time-series data from scientific instruments is often stored in unusual formats that prevent their easy ingestion into databases and subsequent reporting of lab operational metrics. Furthermore, the scale of the data produced, even at the level of an individual experiment, is too large for the row-oriented databases of most traditional SaaS laboratory information management systems (LIMS) to process in a meaningful timeframe. Thankfully, tools like Pandas and PySpark, in conjunction with a data lake, can help transform and ingest this data and enable these analyses at scale.
+
+**Speaker Bio: Aaron Wiegel**
+
+Aaron is a former physical chemist turned data engineer who has worked at a couple different biotech startups in the Bay Area for the last 7 years. He also does his own scientific experiments at home brewing beer in his garage.
+
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Please be Open, Considerate and Respectful. Also, please refrain from discussing topics unrelated to the Python 
+community or the technical content of the meeting.

@@ -6,7 +6,6 @@ March 21, 2024 Meeting
 :category: meetings
 :slug: baypiggies-03-32-2024-Testing-Data-SRE
 :summary:  Testing, Data, SRE
-:alias: /
 
 Bay Area Python Interest Group (BayPIGgies) In-Person Meetings!
 ===============================================================
