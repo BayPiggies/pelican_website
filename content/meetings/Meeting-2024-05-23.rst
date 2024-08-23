@@ -6,7 +6,7 @@ May 23, 2024 Meeting
 :category: meetings
 :slug: baypiggies-05-23-2024-PyCon-AI-Reflex-Data
 :summary:  PyCon, AI, Full-stack, Pandas, Pyspark
-:alias: /
+
 
 Bay Area Python Interest Group (BayPIGgies) In-Person Meetings!
 ===============================================================

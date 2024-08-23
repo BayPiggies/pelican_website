@@ -1,0 +1,106 @@
+August 27, 2024 Meeting 
+####################################
+
+:date: 2024-08-27 18:30
+:tags: meeting
+:category: meetings
+:slug: baypiggies-08-27-2024-Code-acceleration-Scalene-Clean-code
+:summary:  Code acceleration, Scalene, Clean code
+:alias: /
+
+Bay Area Python Interest Group (BayPIGgies) In-Person Meetings!
+===============================================================
+This month will be an in-person meeting! We will be meeting at at SAP Labs in Palo Alto. 
+
+* Faster! GPU-Accelerated Data Science, Scalene, and Clean Code talks
+
+
+
+IMPORTANT NOTICES FOR THIS EVENT: 
+=================================
+* SAP requires all registrations in advance - and will email you a confidentiality and security disclosure on Monday -- so no last minute registrations (after Sunday midnight) will be honored, and no walk-ins will be allowed.
+* IMPORTANT: You must register by SUNDAY NIGHT at midnight PST!! Must bring government-issued ID.
+
+
+RSVP on Meetup by Sunday night at midnight PST
+----------------------------------------------
+Registration link: https://www.meetup.com/baypiggies/events/302644478 
+
+
+Location
+--------
+SAP Labs, Palo Alto
+`3410 Hillview Ave, Palo Alto, CA 94304 <https://goo.gl/maps/7Q6Z9ZQ7Q7Q2>`__.
+
+
+Schedule:
+---------
+ * 6:30 Register and Refreshments
+ * 7:00 Welcome + Announcements
+ * 7:05 Lightning Talk: Clean Your Room!
+ * 7:10 Short Talk: Zero Code Change GPU-Accelerated Data Science in Python
+ * 7:40 Main Talk: Using scalene to keep your code fast enough
+
+Lightning talk
+==============
+
+"Clean Your Room!" presented by Jo Hjersman
+--------------------------------------------
+
+Data Scientists have a stigma for writing messy code and disorganized notebooks. This talk will share a few tips to keep your code and processes clean.
+
+Jo is currently a data scientist at a small start up and frequently an instructional staff member for various data science and data engineering bootcamps.
+
+Short talk
+===========
+
+"Zero Code Change GPU-Accelerated Data Science in Python" presented by Manas Singh
+----------------------------------------------------------------------------------
+
+Python is the world’s most popular programming language in large part due to its powerful and flexible ecosystem of libraries for data science. With datasets continuing to grow and project turnaround times shrinking, data scientists need high performance tools with easy adoption on-ramps to keep up with demands.
+RAPIDS, the open source suite of accelerated data science libraries and primitives, brings accelerated computing to the wider analytics world by combining the performance of NVIDIA GPUs with the ease of use of Python.
+
+In this talk, we’ll show how RAPIDS enables you to accelerate Python workflows using pandas, NetworkX, and other core data science libraries with zero code change required. We’ll explain why GPUs are useful for more than deep learning, provide an overview of how these capabilities work, demonstrate the impact through live demos using Google Colab Notebooks, and show how you can get started today. Moreover, we will also go into the implementation details (import hacking) of how NVIDIA RAPIDS is building a backend which other libraries are using to become GPU-enabled.
+You should have a basic familiarity with the core Python tools for data science and analytics; no GPU-specific knowledge is required.
+
+Manas is a Technical Product Manager at NVIDIA where his work focuses on building GPU accelerated python libraries for data practitioners called RAPIDS.
+
+
+Main talk
+=========
+
+"Using scalene to keep your code fast enough" presented by Oleksandr Pryimak
+----------------------------------------------------------------------------
+
+Modern software hides a lot of complexity. It is next to impossible to judge which parts of your code are fast or slow without good instrumentation. Profilers permit a way to find and quantify bottlenecks in your code. We will share why and how we use scalene.
+He will briefly touch on pytest benchmark and how they help to validate potential optimizations quickly.
+In this talk an attendee will learn:
+1. How does a sampling profiler work?
+2. How can one use a profiler to identify a bottleneck?
+3. Using pytest benchmarks to validate potential performance improvements
+He will include in the talk some surprising anecdotal findings from his personal profiling and benchmarking.
+
+Oleksandr is currently working in Thumbtack (which he joined in January 2020). In 2022 he launched a new team in Thumbtack: Machine Learning infrastructure which he has led since then. His professional areas of interest: low latency and high performance applications, ML and developer tooling. Outside of work he enjoys visual astronomy and astrophotography. He is a big sci-fi fan.
+
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Please be Open, Considerate and Respectful. Also, please refrain from discussing topics unrelated to the Python 
+community or the technical content of the meeting.
+
+
+
+Important attendance note
+==========================
+SAP requires everyone to sign a confidentiality and security disclosure to maintain confidentiality and adhere to SAP's physical security protocols during your visit to SAP's facility. This applies to all guests. All attendees must show a Government-issued ID, and sign the SAP Security form to enter the event.
+
+*Thank you, SAP Labs, for sponsoring and hosting this month's meeting!*
+
+
+
+Personal Donations
+==================
+Please consider supporting future BayPiggies events and Python in the Bay Area at the link below via the Bay Area Python Association and the Python Software Foundation.
+https://psfmember.org/civicrm/contribute/transact/?reset=1&id=43
