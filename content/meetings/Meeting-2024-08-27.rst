@@ -6,7 +6,7 @@ August 27, 2024 Meeting
 :category: meetings
 :slug: baypiggies-08-27-2024-Code-acceleration-Scalene-Clean-code
 :summary:  Code acceleration, Scalene, Clean code
-:alias: /
+
 
 Bay Area Python Interest Group (BayPIGgies) In-Person Meetings!
 ===============================================================
