@@ -1,0 +1,118 @@
+January 23, 2025 Meeting 
+####################################
+
+:date: 2025-01-23 18:30
+:tags: meeting
+:category: meetings
+:slug: baypiggies-01-23-2025
+:summary:  ackages, Peaks, Massive Graphs, Resilient Execution
+:alias: /
+
+Bay Area Python Interest Group (BayPIGgies) In-Person Meetings!
+===============================================================
+This month will be an in-person meeting! We will be meeting at at SAP Labs in Palo Alto. 
+
+* Packages, Peaks, Massive Graphs, Resilient Execution
+
+IMPORTANT NOTICES FOR THIS EVENT: 
+=================================
+* SAP requires all registrations in advance - and will email you a confidentiality and security disclosure on Tuesday -- no last minute registrations (after Monday midnight) will be honored, and no walk-ins will be allowed.
+* IMPORTANT: You must register by Monday night at midnight PST. Must bring government-issued ID.
+
+
+RSVP on Meetup by Monday, January 20 night at midnight PST
+----------------------------------------------------------
+Registration link: https://www.meetup.com/baypiggies/events/305328742
+
+Location
+--------
+SAP Labs, Palo Alto
+`3410 Hillview Ave, Palo Alto, CA 94304 <https://goo.gl/maps/7Q6Z9ZQ7Q7Q2>`__.
+
+
+Schedule:
+---------
+ * 6:30 Register and Refreshments
+ * 7:00 Welcome + Announcements
+ * 7:05 Lightning Talk - Popular Python Packages Series - "uv"
+ * 7:10 Short Talk - Peaks, Valleys, and Python: Pipelining Biochemical Data Processing with hplc-py
+ * 7:30 Short Talk - Cosmograph for Python — a new library for visualizing massive network graphs and machine learning embeddings
+ * 7:55 Main Talk - DBOS Transact: Ultra-Lightweight Durable Execution for Python
+ * 8:30 Wrap-up
+
+Lightning talk
+==============
+
+Popular Python Packages Series - "uv"
+-------------------------------------
+
+Karen starts off a new series of short talks in 2025 about trending Python tools and packages, starting with "uv", an extremely fast Python package and project manager.
+
+
+Short talks
+===========
+
+"Peaks, Valleys, and Python: Pipelining Biochemical Data Processing with hplc-py" presented by Griffin Chure
+------------------------------------------------------------------------------------------------------------
+
+A common task in biological data processing is taking a complex signal and breaking it down into its constituent parts. However, biological data is noisy and evaluating the accuracy of an analysis pipeline often requires manual intervention and assessment, hampering the throughput that scientific or industrial problems often demand.
+
+In this talk, I will highlight `hplc-py`, an open-source Python library I developed to tackle this problem in the context of chromatography — an analytical technique for quantifying the components of chemical mixtures. This package leverages diverse functionality in the scipy-stack — from peak detection to parameter optimization — to deconvolve complex chemical spectra into signals from individual molecules. While state-of-the-art software addressing this problem requires extensive manual intervention, `hplc-py` significantly decreases this intervention and is designed to be easily integrated into data analysis pipelines. I will highlight how this software was developed to be robust across different experiments while allowing the end users to rapidly interact with the analysis and validate the results.
+
+While the processing of real scientific data will be demonstrated in the talk, no scientific background will be assumed. The open-source library is available on GitHub (github.com/cremerlab/hplc-py) with detailed documentation (cremerlab.github.io/hplc-py).
+
+Griffin is a computational biologist with broad experience leveraging mathematical modeling, Bayesian statistical inference, and scientific software engineering to decode the complex mechanisms governing cellular function and behavior. He is passionate about building performant and robust software that employs quantitative methods to dissect biological data, and building strong collaborations with scientists and engineers across disciplines.
+
+
+"Cosmograph for Python — a new library for visualizing massive network graphs and machine learning embeddings" presented by Nikita Rokotyan
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+"Cosmograph for Python — a new library for visualizing massive network graphs and machine learning embeddings" presented by Nikita Rokotyan
+
+Visualization of large amounts of data has always been a struggle and required having sophisticated workflows. Cosmograph, a JavaScript library for creating stunning, interactive data visualizations, is now accessible to Pythonistas, data scientists, and AI engineers from the comfort of their notebooks.
+
+Cosmograph can handle several millions of nodes with GPU-accelerated, force-directed layouts, enabling real-time exploration of multidimensional data and complex networks. It’s the fastest JavaScript library for Network Graph visualizations and its interactive tools—like zooming, panning, filtering—help to transform data chaos into clarity.
+
+This talk introduces the audience to Cosmograph’s capabilities and demonstrates how it integrates seamlessly into Python workflows. No specialized expertise is required, though those involved in data, machine learning, or AI are likely to find it particularly engaging.
+
+Cosmograph is available on PyPi (https://pypi.org/project/cosmograph/) with a documentation at https://cosmograph.app/docs/cosmograph/Cosmograph%20Python/get-started-widget.
+
+Nikita is the founder of Interacta, an award-winning team of scientists, designers, and engineers dedicated to building beautiful and functional tools for data exploration. Beyond his passion for data, he has a deep appreciation for new media art and music and enjoys discovering the stunning landscapes of California.
+
+
+Main talk
+=========
+
+"DBOS Transact: Ultra-Lightweight Durable Execution for Python" presented by Peter Kraft
+----------------------------------------------------------------------------------------
+
+We present DBOS Transact, an open source Python library providing ultra-lightweight durable execution. Durable execution means your software is resilient to failures. If ever interrupted or crashed, a DBOS Transact application can resume from the last completed step, automatically.
+
+Under the hood DBOS Transact works by storing your program execution state in a Postgres database. There's no need for an "orchestration server": all you need is a Postgres database and adding some lightweight Python decorators to your code. This approach is incredibly cost-efficient and performant.
+
+We will present some cool features of the framework such as scheduled jobs and exactly-once events processing.
+
+Peter is a co-founder of DBOS, Inc., building a new serverless platform for backend developers that radically simplifies backend development. He co-founded DBOS based on his PhD work at Stanford, where he was advised by Peter Bailis and Matei Zaharia and worked closely with Michael Stonebraker. He is interested in databases and distributed systems.
+
+
+Code of Conduct
+---------------
+https://baypiggies.net/pages/code_of_conduct.html
+
+Please be Open, Considerate and Respectful. Also, please refrain from discussing topics unrelated to the Python 
+community or the technical content of the meeting.
+
+
+
+Important attendance note
+==========================
+SAP requires everyone to sign a confidentiality and security disclosure to maintain confidentiality and adhere to SAP's physical security protocols during your visit to SAP's facility. This applies to all guests. All attendees must show a Government-issued ID, and sign the SAP Security form to enter the event.
+
+*Thank you, SAP Labs, for sponsoring and hosting this month's meeting!*
+
+
+
+Personal Donations
+==================
+Please consider supporting future BayPiggies events and Python in the Bay Area at the link below via the Bay Area Python Association and the Python Software Foundation.
+https://psfmember.org/civicrm/contribute/transact/?reset=1&id=43
